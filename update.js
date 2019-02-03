@@ -33,8 +33,7 @@ getTweets(tokens, underhood, tweetsSinceId, (err, newTweetsRaw) => {
   saveAuthorArea(authorId, 'tweets', { tweets: concattedTweets });
 });
 
-getInfo(tokens, underhood, (err, info) => {
-  if (err) throw err;
+getInfo(tokens, underhood).then(info => {
   saveAuthorArea(authorId, 'info', info);
 });
 
@@ -44,15 +43,13 @@ saveMedia(tokens, underhood, authorId, (err, media) => {
   saveAuthorArea(authorId, 'media', media);
 });
 
-getFollowers(tokens, underhood, (err, followersWithStatuses) => {
-  if (err) throw err;
+getFollowers(tokens, underhood).then(followersWithStatuses => {
   const followers = map(dissoc('status'), followersWithStatuses);
   saveAuthorArea(authorId, 'followers', { followers });
 });
 
 const mentionsSinceId = isEmpty(mentions) ? first : last(mentions).id_str;
-twitterMentions(tokens, mentionsSinceId, (err, newMentionsRaw) => {
-  if (err) throw err;
+twitterMentions(tokens, mentionsSinceId).then(newMentionsRaw => {
   const concattedMentions = concat(mentions, reverse(newMentionsRaw));
   saveAuthorArea(authorId, 'mentions', { mentions: concattedMentions });
 });
