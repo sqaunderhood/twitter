@@ -16,5 +16,5 @@ export default authorId([
   { username: 'vvsevolodovich', start: '18 Nov 2018', first: '1064257850199998464' },
   { username: 'kn.mrdn', start: '12 Nov 2018', first: '1061884511414300672' },
   { username: 'dmitry_gryazin', start: '05 Nov 2018', first: '1059457770804727808' },
-  { username: 'tygeddar', start: '28 Oct 2018', first: '1056613793885765633' }
+  { username: 'tygeddar', start: '28 Oct 2018', first: '1056613793885765633' },
 ]);
