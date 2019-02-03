@@ -13,8 +13,7 @@ const spaces = 2;
 
 // INFO
 function initInfo({ username }) {
-  getInfo(tokens, username, (err, info) => {
-    if (err) throw err;
+  getInfo(tokens, username).then(info => {
     const existing = getAuthorArea(username, 'info');
     const result = merge(info, existing);
     saveAuthorArea(username, 'info', result);
