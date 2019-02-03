@@ -1077,7 +1077,7 @@
       "friends_count": 523,
       "listed_count": 30,
       "created_at": "Sun Jan 08 13:09:14 +0000 2017",
-      "favourites_count": 9744,
+      "favourites_count": 9745,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
@@ -1928,7 +1928,7 @@
       },
       "protected": false,
       "followers_count": 3,
-      "friends_count": 11,
+      "friends_count": 14,
       "listed_count": 0,
       "created_at": "Thu Jan 31 19:49:13 +0000 2019",
       "favourites_count": 5,
@@ -2788,7 +2788,7 @@
       "id_str": "450882707",
       "name": "Александр Дудырев",
       "screen_name": "DudyrevAlexandr",
-      "location": "Россия",
+      "location": "Russia",
       "description": "iOS dev",
       "url": null,
       "entities": {
@@ -4775,7 +4775,7 @@
       "id_str": "434764018",
       "name": "Igor Rolinskiy",
       "screen_name": "igor_rolinskiy",
-      "location": "Ukraine",
+      "location": "Україна",
       "description": "Android developer @ Intersog",
       "url": null,
       "entities": {
@@ -13838,7 +13838,7 @@
       "id_str": "701018609330610178",
       "name": "Anna Loshchakova",
       "screen_name": "LoshchakovaAnna",
-      "location": "Москва, Россия",
+      "location": "Moscow, Russia",
       "description": "Journalist at Life.ru, Russia",
       "url": null,
       "entities": {
@@ -17690,7 +17690,7 @@
       "id_str": "1122732848",
       "name": "Vladyslav Korzun",
       "screen_name": "vladyslavkorzun",
-      "location": "Украина",
+      "location": "Ukraine",
       "description": "",
       "url": null,
       "entities": {
@@ -18016,7 +18016,7 @@
       "id_str": "2549802546",
       "name": "Serg Dev",
       "screen_name": "sergdev87",
-      "location": "Ukraina",
+      "location": "Ukraine",
       "description": "C# Developer",
       "url": null,
       "entities": {
@@ -18158,7 +18158,7 @@
       "id_str": "4359629476",
       "name": "Vadim Goryainov",
       "screen_name": "Stazhkevich",
-      "location": "Украина",
+      "location": "Ukraine",
       "description": "",
       "url": null,
       "entities": {
@@ -29655,7 +29655,7 @@
       "id_str": "1021685585860349952",
       "name": "Vladyslav Prykhodko",
       "screen_name": "vladislawfox",
-      "location": "Украина",
+      "location": "Ukraine",
       "description": "",
       "url": null,
       "entities": {
@@ -51268,7 +51268,7 @@
       "id_str": "2892191422",
       "name": "Pavlo Boiko",
       "screen_name": "PavloBojkoo",
-      "location": "Україна",
+      "location": "Ukraine",
       "description": "",
       "url": "https://t.co/nxQ6CftpBv",
       "entities": {
@@ -54346,7 +54346,7 @@
       "id_str": "4186660323",
       "name": "Alex Momotiuk",
       "screen_name": "alex_momotiuk",
-      "location": "Ukraine",
+      "location": "Україна",
       "description": "iOS Developer",
       "url": null,
       "entities": {
@@ -57285,7 +57285,7 @@
       "id_str": "773893856240758792",
       "name": "Безработный Джун",
       "screen_name": "GkFoxes",
-      "location": "Saint Petersburg, Russia",
+      "location": "Санкт-Петербург, Россия",
       "description": "iOS Software Developer, Swift, IT, вот это все🤘🏾",
       "url": "https://t.co/pLJiT5JQcQ",
       "entities": {
@@ -58144,7 +58144,7 @@
       "id_str": "257552669",
       "name": "Alexander Blinov",
       "screen_name": "xanderblinov",
-      "location": "Moscow, Russia",
+      "location": "Москва, Россия",
       "description": "Head of Android department at https://t.co/BJ4tDWQ4Y3\nPodcaster\nConference Speaker",
       "url": null,
       "entities": {
@@ -61212,7 +61212,7 @@
       "id_str": "797871177314304000",
       "name": "Дмитрий Антышев",
       "screen_name": "antishev_d",
-      "location": "Москва, Россия",
+      "location": "Moscow, Russia",
       "description": "iOS developer",
       "url": null,
       "entities": {
@@ -61983,7 +61983,7 @@
       "id_str": "229388376",
       "name": "Zemskix",
       "screen_name": "zemskix",
-      "location": "Saint Petersburg, Russia",
+      "location": "Санкт-Петербург, Россия",
       "description": "iOS Dev",
       "url": "https://t.co/Np6HUEIgEh",
       "entities": {
@@ -62245,7 +62245,7 @@
       "id_str": "150235778",
       "name": "Artyom Tkachenko",
       "screen_name": "jgnt32",
-      "location": "Moscow, Russia",
+      "location": "Москва, Россия",
       "description": "timewaisting guru",
       "url": null,
       "entities": {
@@ -65829,7 +65829,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1056,
+      "followers_count": 1057,
       "friends_count": 146,
       "listed_count": 22,
       "created_at": "Sun Aug 22 21:10:13 +0000 2010",

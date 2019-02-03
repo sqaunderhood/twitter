@@ -1,0 +1,316 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Feb 03 20:48:41 +0000 2019",
+      "id": 1092162983973793800,
+      "id_str": "1092162983973793792",
+      "text": "Привет. Эту неделю с вами буду я — Андрей Мишанин. 10 лет назад я писал десктопные приложения на Java для электронн… https://t.co/LSS3HUkm8B",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LSS3HUkm8B",
+            "expanded_url": "https://twitter.com/i/web/status/1092162983973793792",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 03 20:49:06 +0000 2019",
+      "id": 1092163088609148900,
+      "id_str": "1092163088609148928",
+      "text": "Я экс-Яндексоид (Яндекс.Браузер под iOS и Мобильное Приложение Яндекс, оно же Яндекс.Яндекс), а с весны 2017-го жив… https://t.co/T4jwxLAPj3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T4jwxLAPj3",
+            "expanded_url": "https://twitter.com/i/web/status/1092163088609148928",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1092162983973793800,
+      "in_reply_to_status_id_str": "1092162983973793792",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 03 20:49:44 +0000 2019",
+      "id": 1092163248621846500,
+      "id_str": "1092163248621846530",
+      "text": "Я веду блог на https://t.co/6st2ciB9vk в темпе «один пост в год», а посмотреть, чем я занимаюсь в свободное время,… https://t.co/JqobNea9MZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6st2ciB9vk",
+            "expanded_url": "http://andrey-mishanin.ru",
+            "display_url": "andrey-mishanin.ru",
+            "indices": [
+              15,
+              38
+            ]
+          },
+          {
+            "url": "https://t.co/JqobNea9MZ",
+            "expanded_url": "https://twitter.com/i/web/status/1092163248621846530",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1092163088609148900,
+      "in_reply_to_status_id_str": "1092163088609148928",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 03 20:51:34 +0000 2019",
+      "id": 1092163709072486400,
+      "id_str": "1092163709072486400",
+      "text": "Начну с дисклеймера, чтобы к этому не возвращаться потом. Всё, что я буду говорить:\n- моё личное мнение и не являет… https://t.co/yFfLNaPjcr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yFfLNaPjcr",
+            "expanded_url": "https://twitter.com/i/web/status/1092163709072486400",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1092163248621846500,
+      "in_reply_to_status_id_str": "1092163248621846530",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 03 20:52:37 +0000 2019",
+      "id": 1092163973900849200,
+      "id_str": "1092163973900849152",
+      "text": "- является результатом моего личного опыта и размышлений, поэтому может подходить, а может и не подходить лично вам… https://t.co/OEEahrySy5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OEEahrySy5",
+            "expanded_url": "https://twitter.com/i/web/status/1092163973900849152",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1092163709072486400,
+      "in_reply_to_status_id_str": "1092163709072486400",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 03 20:53:06 +0000 2019",
+      "id": 1092164094017396700,
+      "id_str": "1092164094017396737",
+      "text": "Поэтому, если какие-то мои твиты вызовут у вас дискомфорт, просто мысленно добавляйте к ним «Я считаю, что...» и «У… https://t.co/mp4XqAvMZ6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mp4XqAvMZ6",
+            "expanded_url": "https://twitter.com/i/web/status/1092164094017396737",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1092163973900849200,
+      "in_reply_to_status_id_str": "1092163973900849152",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 03 20:54:36 +0000 2019",
+      "id": 1092164474495295500,
+      "id_str": "1092164474495295488",
+      "text": "Мой план на неделю:\n\nПн. — Общая философия (на самом деле, плохо завуалированные набросы)\nВт. — Общая философия, ча… https://t.co/Y0zhKTN9pJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Y0zhKTN9pJ",
+            "expanded_url": "https://twitter.com/i/web/status/1092164474495295488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1092164094017396700,
+      "in_reply_to_status_id_str": "1092164094017396737",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
