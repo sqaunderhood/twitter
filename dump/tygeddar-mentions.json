@@ -53,6 +53,50 @@
       "favorited": true,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Tue Jan 01 14:26:49 +0000 2019",
+      "id": 1080108084004044800,
+      "id_str": "1080108084004044800",
+      "text": "@leahjs Thanks. :) Happy new year to you, too.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "leahjs",
+            "name": "Leah Suter",
+            "id": 137897485,
+            "id_str": "137897485",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1079965535733985300,
+      "in_reply_to_status_id_str": "1079965535733985280",
+      "in_reply_to_user_id": 137897485,
+      "in_reply_to_user_id_str": "137897485",
+      "in_reply_to_screen_name": "leahjs",
+      "user": {
+        "id": 955030224,
+        "id_str": "955030224"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
