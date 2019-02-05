@@ -12,7 +12,7 @@ export default authorId([
   { username: 'complexityclass', start: '24 Dec 2018', first: '1077079845010579457' },
   { username: 'nekdenis', start: '17 Dec 2018', first: '1074541593804267520' },
   { username: 'asychev89', start: '09 Dec 2018', first: '1071895207367622656' },
-  { username: 'xoxol89', start: '02 Dec 2018', first: '1069309185173655553' },
+  { username: 'e_matsyuk', start: '02 Dec 2018', first: '1069309185173655553' },
   { username: 'serkrapiv', start: '26 Nov 2018', first: '1067058513799712768' },
   { username: 'vvsevolodovich', start: '18 Nov 2018', first: '1064257850199998464' },
   { username: 'knmrdn', start: '12 Nov 2018', first: '1061884511414300672' },
