@@ -7,7 +7,7 @@ export default authorId([
   { username: 'xanderblinov', start: '28 Jan 2019', first: '1089799780228837376' },
   { username: 'ZiminAlex',      start: '20 Jan 2019', first: '1087216322759471104' },
   { username: 'int02h', start: '13 Jan 2019', first: '1084568155186520064' },
-  { username: 'nvashanin', start: '07 Jan 2019', first: '1082225994667360256' },
+  { username: 'nikolay_ashanin', start: '07 Jan 2019', first: '1082225994667360256' },
   { username: 'artem_zin', start: '31 Dec 2018', first: '1079624707094110208' },
   { username: 'complexityclass', start: '24 Dec 2018', first: '1077079845010579457' },
   { username: 'nekdenis', start: '17 Dec 2018', first: '1074541593804267520' },
