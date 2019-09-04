@@ -3,6 +3,8 @@ import authorId from './helpers/author-id';
 
 export default authorId([
   // post: false
+  { username: 'daloog', start: '02 Sep 2019', first: '1168454829431230469' },
+  // TODO: Fill other hosts
   { username: 'AndreyMishanin', start: '04 Feb 2019', first: '1092162983973793792' },
   { username: 'xanderblinov', start: '28 Jan 2019', first: '1089799780228837376' },
   { username: 'ZiminAlex',      start: '20 Jan 2019', first: '1087216322759471104' },
