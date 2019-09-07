@@ -12,7 +12,6 @@ import tokens from 'twitter-tokens';
 import getTweets from 'get-tweets';
 import getInfo from 'get-twitter-info';
 import saveMedia from './helpers/save-media';
-import getFollowers from 'get-twitter-followers';
 import twitterMentions from 'twitter-mentions';
 
 import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
@@ -44,11 +43,6 @@ function update(author) {
     saveAuthorArea(authorId, 'media', media);
   });
 
-  getFollowers(tokens, underhood).then(followersWithStatuses => {
-    const followers = map(dissoc('status'), followersWithStatuses);
-    saveAuthorArea(authorId, 'followers', { followers });
-  });
-
   const mentionsSinceId = isEmpty(mentions) ? first : last(mentions).id_str;
   twitterMentions(tokens, mentionsSinceId).then(newMentionsRaw => {
     const concattedMentions = concat(mentions, reverse(newMentionsRaw));
@@ -61,7 +55,7 @@ function update(author) {
 }
 
 function sleep(ms) {
-  return new Promise(resolve=>setTimeout(resolve, ms));
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 (async () => {

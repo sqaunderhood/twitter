@@ -40,7 +40,6 @@
     "file-type": "^3.1.0",
     "fs-extra": "^0.26.0",
     "get-tweets": "^3.0.0",
-    "get-twitter-followers": "^2.0.0",
     "get-twitter-info": "^2.0.2",
     "got": "^5.0.0",
     "gulp": "^3.9.0",

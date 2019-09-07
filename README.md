@@ -12,7 +12,6 @@
 ## Проект
 
 * `authors.js` — список авторов
-* `stats.js` — генерация статистики
 * `test.js` — тесты
 * `gulpfile.babel.js` — сборка сайта
 * `webpack.config.babel.js` — конфиг для js-bundling
@@ -25,7 +24,7 @@
 
 * `update.js` — апдейт дампа
 * `dump/index.js` — получение дампа
-* `dump/*.json` — дамп информации об авторах ('tweets', 'info', 'media', 'followers', 'mentions')
+* `dump/*.json` — дамп информации об авторах ('tweets', 'info', 'media', 'mentions')
 * `dump/images/` — дамп изображений авторов
 * `helpers/` — хелперы
 
