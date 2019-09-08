@@ -4,7 +4,6 @@ import authorId from './helpers/author-id';
 export default authorId([
   // post: false
   { username: 'daloog', start: '02 Sep 2019', first: '1168454829431230469' },
-  { username: 'eugene_kr', start: '26 Aug 2019', first: '1165895598886854656' },
   // TODO: Fill other hosts
   { username: 'AndreyMishanin', start: '04 Feb 2019', first: '1092162983973793792' },
   { username: 'xanderblinov', start: '28 Jan 2019', first: '1089799780228837376' },
@@ -21,4 +20,8 @@ export default authorId([
   { username: 'knmrdn', start: '12 Nov 2018', first: '1061884511414300672' },
   { username: 'dmitry_gryazin', start: '05 Nov 2018', first: '1059457770804727808' },
   { username: 'tygeddar', start: '28 Oct 2018', first: '1056613793885765633' },
+  // { username: 'eugene_kr', start: '26 Aug 2019', first: '1165895598886854656' },
+  // { username: 'bohdan_orlov', start: '19 Aug 2019', first: '1163362973873782784' },
+  // { username: 'eigeorguy', start: '12 Aug 2019', first: '1160786833711779840' },
+  // { username: 'omelics', start: '05 Aug 2019', first: '1158271003438583808' },
 ]);
