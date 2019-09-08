@@ -1,0 +1,3716 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 12 05:35:22 +0000 2019",
+      "id": 1160786833711779800,
+      "id_str": "1160786833711779840",
+      "text": "Всем привет! То ли по иронии судьбы, то ли по иронии @igrekde, но на смену ведущему из «молодежной» социальной сети… https://t.co/AzBOUwBDXj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              53,
+              61
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AzBOUwBDXj",
+            "expanded_url": "https://twitter.com/i/web/status/1160786833711779840",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 06:26:08 +0000 2019",
+      "id": 1160799611008749600,
+      "id_str": "1160799611008749568",
+      "text": "План на неделю:\nlet пн =  \"Академическое образование\"\nlet вт =  \"А если не работа\"\nlet ср = \"Тимбилдинги\"\nlet чт =… https://t.co/znAczFlWPs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/znAczFlWPs",
+            "expanded_url": "https://twitter.com/i/web/status/1160799611008749568",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 06:27:32 +0000 2019",
+      "id": 1160799961145106400,
+      "id_str": "1160799961145106433",
+      "text": "@tygeddar @igrekde @odnoklassniki Доля правды в этом есть) Некоторым в команде я почти гожусь в сыновья",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tygeddar",
+            "name": "Евгений Елчев",
+            "id": 186381310,
+            "id_str": "186381310",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              10,
+              18
+            ]
+          },
+          {
+            "screen_name": "odnoklassniki",
+            "name": "OK.RU",
+            "id": 156262482,
+            "id_str": "156262482",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160792152013758500,
+      "in_reply_to_status_id_str": "1160792152013758465",
+      "in_reply_to_user_id": 186381310,
+      "in_reply_to_user_id_str": "186381310",
+      "in_reply_to_screen_name": "tygeddar",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 06:28:26 +0000 2019",
+      "id": 1160800188535103500,
+      "id_str": "1160800188535103488",
+      "text": "Я не верю в твиттер, как в источник технических глубинных знаний. И формат хардкорных статей/докладов размазанных п… https://t.co/qeJfZYFYAV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qeJfZYFYAV",
+            "expanded_url": "https://twitter.com/i/web/status/1160800188535103488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160799611008749600,
+      "in_reply_to_status_id_str": "1160799611008749568",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 06:29:43 +0000 2019",
+      "id": 1160800510594683000,
+      "id_str": "1160800510594682881",
+      "text": "Если у кого есть вопросы по OK - пишите, с радостью отвечу или сразу, или в конце недели",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160800188535103500,
+      "in_reply_to_status_id_str": "1160800188535103488",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 06:59:21 +0000 2019",
+      "id": 1160807968176312300,
+      "id_str": "1160807968176312320",
+      "text": "@pingwinator Нет, только темы дипломов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pingwinator",
+            "name": "Vasyl Liutikov",
+            "id": 11490062,
+            "id_str": "11490062",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160799842379153400,
+      "in_reply_to_status_id_str": "1160799842379153408",
+      "in_reply_to_user_id": 11490062,
+      "in_reply_to_user_id_str": "11490062",
+      "in_reply_to_screen_name": "pingwinator",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 07:00:37 +0000 2019",
+      "id": 1160808287568314400,
+      "id_str": "1160808287568314370",
+      "text": "@MojoIvan Чёт ты расстраиваешь( Это же коллекция",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MojoIvan",
+            "name": "Ivan Kramarenko",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160801203426594800,
+      "in_reply_to_status_id_str": "1160801203426594816",
+      "in_reply_to_user_id": 713037432883650600,
+      "in_reply_to_user_id_str": "713037432883650560",
+      "in_reply_to_screen_name": "MojoIvan",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 07:04:51 +0000 2019",
+      "id": 1160809355547226000,
+      "id_str": "1160809355547226112",
+      "text": "На университеты в последнее время принято набрасывать с разных сторон. Я же попробую выделить положительные моменты… https://t.co/NYWNavjo8t",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NYWNavjo8t",
+            "expanded_url": "https://twitter.com/i/web/status/1160809355547226112",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 10:45:05 +0000 2019",
+      "id": 1160864778119778300,
+      "id_str": "1160864778119778304",
+      "text": "Такс, кому gap year не хватило?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160809355547226000,
+      "in_reply_to_status_id_str": "1160809355547226112",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 10:56:42 +0000 2019",
+      "id": 1160867699532210200,
+      "id_str": "1160867699532210176",
+      "text": "@pingwinator Сам вопрос подразумевает, что его не было)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pingwinator",
+            "name": "Vasyl Liutikov",
+            "id": 11490062,
+            "id_str": "11490062",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160866630320230400,
+      "in_reply_to_status_id_str": "1160866630320230400",
+      "in_reply_to_user_id": 11490062,
+      "in_reply_to_user_id_str": "11490062",
+      "in_reply_to_screen_name": "pingwinator",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 11:00:05 +0000 2019",
+      "id": 1160868553907744800,
+      "id_str": "1160868553907744768",
+      "text": "Чёт я ступил. Если есть, кто устраивал gap year(s) себе самостоятельно- расскажите, каково это, чувствовать себя св… https://t.co/xvCFceYvWS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xvCFceYvWS",
+            "expanded_url": "https://twitter.com/i/web/status/1160868553907744768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160864778119778300,
+      "in_reply_to_status_id_str": "1160864778119778304",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 11:22:39 +0000 2019",
+      "id": 1160874229694423000,
+      "id_str": "1160874229694423041",
+      "text": "@BruinInaSweater Gap year - период, когда после школы вместо поступления в универ ищешь себя, формируешь свои взгляды на жизнь",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BruinInaSweater",
+            "name": "Anton Petrakov",
+            "id": 2446846140,
+            "id_str": "2446846140",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160872635733106700,
+      "in_reply_to_status_id_str": "1160872635733106690",
+      "in_reply_to_user_id": 2446846140,
+      "in_reply_to_user_id_str": "2446846140",
+      "in_reply_to_screen_name": "BruinInaSweater",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 11:44:44 +0000 2019",
+      "id": 1160879789990928400,
+      "id_str": "1160879789990928385",
+      "text": "Прослушал быстренько выпуск Подлодки про образование. Радует, что гость выступает за фундаментальное образование👍",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160809355547226000,
+      "in_reply_to_status_id_str": "1160809355547226112",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 11:47:48 +0000 2019",
+      "id": 1160880560321024000,
+      "id_str": "1160880560321024000",
+      "text": "Но возникло непонимание по поводу такого тезиса (не дословно): Способность учиться утрачиваете очень быстро, а если… https://t.co/JS3dB0Wc8n",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JS3dB0Wc8n",
+            "expanded_url": "https://twitter.com/i/web/status/1160880560321024000",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160879789990928400,
+      "in_reply_to_status_id_str": "1160879789990928385",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 11:49:04 +0000 2019",
+      "id": 1160880881302724600,
+      "id_str": "1160880881302724608",
+      "text": "Для контекста: молодые годы- 25 лет при ЗП в 200-300К",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160880560321024000,
+      "in_reply_to_status_id_str": "1160880560321024000",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 11:52:08 +0000 2019",
+      "id": 1160881651175567400,
+      "id_str": "1160881651175567361",
+      "text": "Я, в принципе, согласен с такой мыслёй только в одном случае: если на 2-ом курсе человек бросил универ ради первой… https://t.co/mpx4dd2sQl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mpx4dd2sQl",
+            "expanded_url": "https://twitter.com/i/web/status/1160881651175567361",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160880881302724600,
+      "in_reply_to_status_id_str": "1160880881302724608",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 12:02:03 +0000 2019",
+      "id": 1160884148380283000,
+      "id_str": "1160884148380282881",
+      "text": "Больше всего возникает вопросов, неудовольствия и негодования, когда студент попадает на предмет, который:\n1. Плохо… https://t.co/30LfBspRF7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/30LfBspRF7",
+            "expanded_url": "https://twitter.com/i/web/status/1160884148380282881",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160809355547226000,
+      "in_reply_to_status_id_str": "1160809355547226112",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 12:02:46 +0000 2019",
+      "id": 1160884326864699400,
+      "id_str": "1160884326864699392",
+      "text": "Всё, что можно сделать в такой ситуации, это вовремя понять, что не существует ненужных или лишних знаний. Во время… https://t.co/rLxCDkmGGk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rLxCDkmGGk",
+            "expanded_url": "https://twitter.com/i/web/status/1160884326864699392",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160884148380283000,
+      "in_reply_to_status_id_str": "1160884148380282881",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 12:04:49 +0000 2019",
+      "id": 1160884841295929300,
+      "id_str": "1160884841295929344",
+      "text": "Помню, был у нас предмет, на котором нам рассказывали про функциональное и логическое программирование на примере L… https://t.co/vMAF1GlMxJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vMAF1GlMxJ",
+            "expanded_url": "https://twitter.com/i/web/status/1160884841295929344",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160884326864699400,
+      "in_reply_to_status_id_str": "1160884326864699392",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 15:28:07 +0000 2019",
+      "id": 1160936007103123500,
+      "id_str": "1160936007103123456",
+      "text": "Но после того, как в каком-то небольшом подкасте, гость выдаёт очень интересный рассказ с различными историческими… https://t.co/36aJRbkbGT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/36aJRbkbGT",
+            "expanded_url": "https://twitter.com/i/web/status/1160936007103123456",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160884841295929300,
+      "in_reply_to_status_id_str": "1160884841295929344",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 15:29:58 +0000 2019",
+      "id": 1160936472058433500,
+      "id_str": "1160936472058433536",
+      "text": "Также, очень крутым скиллом, который выносится из стен альма-матер, можно считать умение изъясняться максимально по… https://t.co/9u3NyR8nqw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9u3NyR8nqw",
+            "expanded_url": "https://twitter.com/i/web/status/1160936472058433536",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160809355547226000,
+      "in_reply_to_status_id_str": "1160809355547226112",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 15:30:41 +0000 2019",
+      "id": 1160936650555502600,
+      "id_str": "1160936650555502593",
+      "text": "За счет различных научных работ, выступлений на конференциях, да даже выпускных работ вся эта дурь выходит на раз",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160936472058433500,
+      "in_reply_to_status_id_str": "1160936472058433536",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 15:31:30 +0000 2019",
+      "id": 1160936858488103000,
+      "id_str": "1160936858488102912",
+      "text": "Иногда, конечно, это наоборот вредит- нужно еще где-то взять информации на 10-15 минут, но это уже другая тема😉",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160936650555502600,
+      "in_reply_to_status_id_str": "1160936650555502593",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 16:13:23 +0000 2019",
+      "id": 1160947397645787100,
+      "id_str": "1160947397645787136",
+      "text": "@koirn Налить можно, да. Но потом научник или рецензент на 90 градусов развернёт",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "koirn",
+            "name": "koirn",
+            "id": 17249270,
+            "id_str": "17249270",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160938108491358200,
+      "in_reply_to_status_id_str": "1160938108491358212",
+      "in_reply_to_user_id": 17249270,
+      "in_reply_to_user_id_str": "17249270",
+      "in_reply_to_screen_name": "koirn",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 16:13:45 +0000 2019",
+      "id": 1160947491401011200,
+      "id_str": "1160947491401011201",
+      "text": "@dosboxd Нет стайлгайда)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dosboxd",
+            "name": "DosboxD",
+            "id": 2385855957,
+            "id_str": "2385855957",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160937381748453400,
+      "in_reply_to_status_id_str": "1160937381748453376",
+      "in_reply_to_user_id": 2385855957,
+      "in_reply_to_user_id_str": "2385855957",
+      "in_reply_to_screen_name": "dosboxd",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 16:17:17 +0000 2019",
+      "id": 1160948378697699300,
+      "id_str": "1160948378697699328",
+      "text": "Те, кому не хватило, вы сразу в ИТ пошли? Или понимание произошло позже? Есть у кого-нибудь история, по которой мож… https://t.co/rT3rS6PWol",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rT3rS6PWol",
+            "expanded_url": "https://twitter.com/i/web/status/1160948378697699328",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160864778119778300,
+      "in_reply_to_status_id_str": "1160864778119778304",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 17:22:46 +0000 2019",
+      "id": 1160964857824497700,
+      "id_str": "1160964857824497664",
+      "text": "Во всяких таблицах уровней разработчиков любят писать, что Senior- это тот, кто может подчерпнуть новые методы и по… https://t.co/fpBxeXDran",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fpBxeXDran",
+            "expanded_url": "https://twitter.com/i/web/status/1160964857824497664",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160809355547226000,
+      "in_reply_to_status_id_str": "1160809355547226112",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 17:23:16 +0000 2019",
+      "id": 1160964985524314000,
+      "id_str": "1160964985524314114",
+      "text": "Ну то есть до этого нужно потратить лет 5 (или за сколько сейчас лычки дают) и, может быть, ты научишься из веба новую архитектуру тырить",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160964857824497700,
+      "in_reply_to_status_id_str": "1160964857824497664",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 12 17:23:47 +0000 2019",
+      "id": 1160965115266642000,
+      "id_str": "1160965115266641920",
+      "text": "Почему-то многие игнорируют тот факт, что как раз в универе (задолго до того, как ты станешь джуном/мидлом) и появл… https://t.co/TWRMlWXA2T",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TWRMlWXA2T",
+            "expanded_url": "https://twitter.com/i/web/status/1160965115266641920",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1160964985524314000,
+      "in_reply_to_status_id_str": "1160964985524314114",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 06:36:13 +0000 2019",
+      "id": 1161164535945990100,
+      "id_str": "1161164535945990144",
+      "text": "Недавно мы с @M0rtyMerr рассуждали, чем бы занимались по жизни, если бы не было необходимости работать. И в какой-т… https://t.co/ndQon55Ph2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "M0rtyMerr",
+            "name": "Anton Nazarov",
+            "id": 1082227064688775200,
+            "id_str": "1082227064688775174",
+            "indices": [
+              13,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ndQon55Ph2",
+            "expanded_url": "https://twitter.com/i/web/status/1161164535945990144",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 06:38:23 +0000 2019",
+      "id": 1161165082891567000,
+      "id_str": "1161165082891567105",
+      "text": "С учётом того, что работа для большинства занимает треть дня, гипотеза кажется вполне реальной",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161164535945990100,
+      "in_reply_to_status_id_str": "1161164535945990144",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 06:39:57 +0000 2019",
+      "id": 1161165477558833200,
+      "id_str": "1161165477558833152",
+      "text": "Сегодня попробуем определить действительно ли это так, или айтишники сами творцы своей жизни💪",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161165082891567000,
+      "in_reply_to_status_id_str": "1161165082891567105",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 06:44:04 +0000 2019",
+      "id": 1161166509718278100,
+      "id_str": "1161166509718278144",
+      "text": "И для начала хочется узнать, сколько человек сразу может сказать, что без проблем найдёт себе занятие по душе",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161165477558833200,
+      "in_reply_to_status_id_str": "1161165477558833152",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 06:48:06 +0000 2019",
+      "id": 1161167528003027000,
+      "id_str": "1161167528003026945",
+      "text": "Кто голосует положительно- расскажите отдельно, чем бы занимались. А вот положить начало такому треду я призываю… https://t.co/8fdUK4H0Z0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8fdUK4H0Z0",
+            "expanded_url": "https://twitter.com/i/web/status/1161167528003026945",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161166509718278100,
+      "in_reply_to_status_id_str": "1161166509718278144",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 07:13:16 +0000 2019",
+      "id": 1161173861813170200,
+      "id_str": "1161173861813170176",
+      "text": "@igrekde @KathrinPetrova @ZiminAlex Тебя я хотел приберечь в качестве вишенки на торте! Но раз уж так, давай, ЖГИ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "KathrinPetrova",
+            "name": "Екатерина Петрова",
+            "id": 384935401,
+            "id_str": "384935401",
+            "indices": [
+              9,
+              24
+            ]
+          },
+          {
+            "screen_name": "ZiminAlex",
+            "name": "Alexander Zimin",
+            "id": 241640832,
+            "id_str": "241640832",
+            "indices": [
+              25,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161173297377304600,
+      "in_reply_to_status_id_str": "1161173297377304576",
+      "in_reply_to_user_id": 181697598,
+      "in_reply_to_user_id_str": "181697598",
+      "in_reply_to_screen_name": "igrekde",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 07:14:34 +0000 2019",
+      "id": 1161174185491800000,
+      "id_str": "1161174185491800064",
+      "text": "@GkFoxes @KathrinPetrova @ZiminAlex Да-да-да, улучшение мира сего считается. Но только богатств ты бы при этом не нажил)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GkFoxes",
+            "name": "Dmitriy Matveenko",
+            "id": 773893856240758800,
+            "id_str": "773893856240758792",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "KathrinPetrova",
+            "name": "Екатерина Петрова",
+            "id": 384935401,
+            "id_str": "384935401",
+            "indices": [
+              9,
+              24
+            ]
+          },
+          {
+            "screen_name": "ZiminAlex",
+            "name": "Alexander Zimin",
+            "id": 241640832,
+            "id_str": "241640832",
+            "indices": [
+              25,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161171191333380000,
+      "in_reply_to_status_id_str": "1161171191333380096",
+      "in_reply_to_user_id": 773893856240758800,
+      "in_reply_to_user_id_str": "773893856240758792",
+      "in_reply_to_screen_name": "GkFoxes",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 10:44:22 +0000 2019",
+      "id": 1161226987190530000,
+      "id_str": "1161226987190530049",
+      "text": "@igrekde @KathrinPetrova @ZiminAlex Как банально, Егор, как банально...\nЧувствуется, что возраст даёт о себе знать уже",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "KathrinPetrova",
+            "name": "Екатерина Петрова",
+            "id": 384935401,
+            "id_str": "384935401",
+            "indices": [
+              9,
+              24
+            ]
+          },
+          {
+            "screen_name": "ZiminAlex",
+            "name": "Alexander Zimin",
+            "id": 241640832,
+            "id_str": "241640832",
+            "indices": [
+              25,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161192101910057000,
+      "in_reply_to_status_id_str": "1161192101910056961",
+      "in_reply_to_user_id": 181697598,
+      "in_reply_to_user_id_str": "181697598",
+      "in_reply_to_screen_name": "igrekde",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 10:49:35 +0000 2019",
+      "id": 1161228298111897600,
+      "id_str": "1161228298111897601",
+      "text": "Считаю, что опрос и тред показали, что фантазия у айтишников не ограничивается работой. И это круто👍 НО, воплотить… https://t.co/E5JdVZLmPG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/E5JdVZLmPG",
+            "expanded_url": "https://twitter.com/i/web/status/1161228298111897601",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161166509718278100,
+      "in_reply_to_status_id_str": "1161166509718278144",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 10:50:43 +0000 2019",
+      "id": 1161228585195180000,
+      "id_str": "1161228585195180033",
+      "text": "Точнее, понятно что- необходимость стабильного заработка по тем или иным причинам",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161228298111897600,
+      "in_reply_to_status_id_str": "1161228298111897601",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 10:58:53 +0000 2019",
+      "id": 1161230640588697600,
+      "id_str": "1161230640588697607",
+      "text": "Тем не менее, возможность работать удалённо, на мой взгляд, сильно увеличивает кол-во времени, которое можно посвящать нерабочим моментам",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161228585195180000,
+      "in_reply_to_status_id_str": "1161228585195180033",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 11:02:30 +0000 2019",
+      "id": 1161231547258851300,
+      "id_str": "1161231547258851328",
+      "text": "Отсюда возникает вопрос, который не превратить в опросник: почему 8(9)-часовой рабочий день, всё-таки, перевешивает… https://t.co/fJN9QIha8J",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fJN9QIha8J",
+            "expanded_url": "https://twitter.com/i/web/status/1161231547258851328",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161230640588697600,
+      "in_reply_to_status_id_str": "1161230640588697607",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 11:05:29 +0000 2019",
+      "id": 1161232300102889500,
+      "id_str": "1161232300102889472",
+      "text": "@MojoIvan Много среди нас тех, на кого кто-то работает?🤔",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MojoIvan",
+            "name": "Ivan Kramarenko",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161231804835270700,
+      "in_reply_to_status_id_str": "1161231804835270657",
+      "in_reply_to_user_id": 713037432883650600,
+      "in_reply_to_user_id_str": "713037432883650560",
+      "in_reply_to_screen_name": "MojoIvan",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 11:06:26 +0000 2019",
+      "id": 1161232539106914300,
+      "id_str": "1161232539106914309",
+      "text": "@MojoIvan Неужели и ешь, и спишь, да ещё и жуёшь?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MojoIvan",
+            "name": "Ivan Kramarenko",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161232201528283100,
+      "in_reply_to_status_id_str": "1161232201528283137",
+      "in_reply_to_user_id": 713037432883650600,
+      "in_reply_to_user_id_str": "713037432883650560",
+      "in_reply_to_screen_name": "MojoIvan",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 13 11:10:41 +0000 2019",
+      "id": 1161233606402084900,
+      "id_str": "1161233606402084865",
+      "text": "@MojoIvan По запросу желающих:\nПлатишь зарплату кому-нибудь?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MojoIvan",
+            "name": "Ivan Kramarenko",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161233105199534000,
+      "in_reply_to_status_id_str": "1161233105199534080",
+      "in_reply_to_user_id": 713037432883650600,
+      "in_reply_to_user_id_str": "713037432883650560",
+      "in_reply_to_screen_name": "MojoIvan",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 14 07:13:01 +0000 2019",
+      "id": 1161536184453128200,
+      "id_str": "1161536184453128192",
+      "text": "Оказывается, писать в твиттер (даже с такой частотой) куда сложнее, чем выбирать название для нового класса😕",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 14 07:15:47 +0000 2019",
+      "id": 1161536883232575500,
+      "id_str": "1161536883232575490",
+      "text": "Как относитесь к крупным корпоративам? В которых прям чувствуется широта человеческой души",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 14 07:22:04 +0000 2019",
+      "id": 1161538460634820600,
+      "id_str": "1161538460634820610",
+      "text": "В компаниях, в которых я успел поработать, разное отношение к видам тимбилдинга/корпоративам",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161536883232575500,
+      "in_reply_to_status_id_str": "1161536883232575490",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 14 07:28:02 +0000 2019",
+      "id": 1161539966272516000,
+      "id_str": "1161539966272516096",
+      "text": "Пока встречал такие:\n1) активный отдых (вэйкборды, гонки героев, пейнтбол)\n2) посиделки в ресторанах\n3) выезды за КАД с ночёвкой",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161538460634820600,
+      "in_reply_to_status_id_str": "1161538460634820610",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 14 07:38:51 +0000 2019",
+      "id": 1161542686123405300,
+      "id_str": "1161542686123405313",
+      "text": "Лично моя бурлящая молодая кровь всегда требует какой-то активности. Во-время плавно протекающих бесед за столом чу… https://t.co/Ye8zpFzth2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ye8zpFzth2",
+            "expanded_url": "https://twitter.com/i/web/status/1161542686123405313",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161539966272516000,
+      "in_reply_to_status_id_str": "1161539966272516096",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 14 07:40:21 +0000 2019",
+      "id": 1161543065405919200,
+      "id_str": "1161543065405919233",
+      "text": "Возможно, конечно, в этот момент, среди сотни человек во мне просыпается внутренний интроверт",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161542686123405300,
+      "in_reply_to_status_id_str": "1161542686123405313",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 14 08:03:05 +0000 2019",
+      "id": 1161548784628899800,
+      "id_str": "1161548784628899841",
+      "text": "@MojoIvan @twizted_klaun Ну это же собирательный образ мысли человека, который считает корпоративы пустой тратой де… https://t.co/t61Jep2ocq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MojoIvan",
+            "name": "Ivan Kramarenko",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "twizted_klaun",
+            "name": "Leonid Petrov",
+            "id": 89515228,
+            "id_str": "89515228",
+            "indices": [
+              10,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/t61Jep2ocq",
+            "expanded_url": "https://twitter.com/i/web/status/1161548784628899841",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161543805864202200,
+      "in_reply_to_status_id_str": "1161543805864202243",
+      "in_reply_to_user_id": 713037432883650600,
+      "in_reply_to_user_id_str": "713037432883650560",
+      "in_reply_to_screen_name": "MojoIvan",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 06:50:06 +0000 2019",
+      "id": 1161892807340171300,
+      "id_str": "1161892807340171264",
+      "text": "Сегодня и завтра поговорим о том, какой размазнёй стало ИТ, и что с этим делать. Надеюсь, получится писать регулярнее😬",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 06:52:01 +0000 2019",
+      "id": 1161893289987125200,
+      "id_str": "1161893289987125249",
+      "text": "Условия в ИТ стали настолько тепличными, что люди уже не знаю, к чему придраться и как сделать свою работу ещё приятнее",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 06:53:10 +0000 2019",
+      "id": 1161893578592964600,
+      "id_str": "1161893578592964610",
+      "text": "Дело уже доходит до абсурда - вспомните шорты на мужиках🤦‍♂️",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161893289987125200,
+      "in_reply_to_status_id_str": "1161893289987125249",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 06:57:22 +0000 2019",
+      "id": 1161894635763093500,
+      "id_str": "1161894635763093505",
+      "text": "@pingwinator Были недавно жаркие дискуссии https://t.co/2ULBbh54HH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pingwinator",
+            "name": "Vasyl Liutikov",
+            "id": 11490062,
+            "id_str": "11490062",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2ULBbh54HH",
+            "expanded_url": "https://twitter.com/igrekde/status/1159883009421643776?s=21",
+            "display_url": "twitter.com/igrekde/status…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161893993548042200,
+      "in_reply_to_status_id_str": "1161893993548042242",
+      "in_reply_to_user_id": 11490062,
+      "in_reply_to_user_id_str": "11490062",
+      "in_reply_to_screen_name": "pingwinator",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1159883009421643800,
+      "quoted_status_id_str": "1159883009421643776",
+      "quoted_status": {
+        "created_at": "Fri Aug 09 17:43:53 +0000 2019",
+        "id": 1159883009421643800,
+        "id_str": "1159883009421643776",
+        "text": "Цитата из холивара про спикера в шортах на митапе:\n«дело в том что мужские волосатые ноги лицезреть неприятно, женс… https://t.co/w6of4KWTrw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/w6of4KWTrw",
+              "expanded_url": "https://twitter.com/i/web/status/1159883009421643776",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 181697598,
+          "id_str": "181697598"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 06:58:05 +0000 2019",
+      "id": 1161894813714866200,
+      "id_str": "1161894813714866176",
+      "text": "@petertretyakov Шорты обсуждать не будем, иначе - бан)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "petertretyakov",
+            "name": "Peter Tretyakov",
+            "id": 374414766,
+            "id_str": "374414766",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161894236603736000,
+      "in_reply_to_status_id_str": "1161894236603736066",
+      "in_reply_to_user_id": 374414766,
+      "in_reply_to_user_id_str": "374414766",
+      "in_reply_to_screen_name": "petertretyakov",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 07:02:17 +0000 2019",
+      "id": 1161895872461975600,
+      "id_str": "1161895872461975552",
+      "text": "Начнём с токсичности в комментариях к PR’ам. Несколько лет назад best practice считалось, если ты пишешь что-то тип… https://t.co/Y4MQrZnDBC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Y4MQrZnDBC",
+            "expanded_url": "https://twitter.com/i/web/status/1161895872461975552",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161893289987125200,
+      "in_reply_to_status_id_str": "1161893289987125249",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 07:04:18 +0000 2019",
+      "id": 1161896381377843200,
+      "id_str": "1161896381377843200",
+      "text": "Считалось, что так не задеваются чьи-то чувства, а выражается аргументированная профессиональная мысль. Эх, славные были времена",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161895872461975600,
+      "in_reply_to_status_id_str": "1161895872461975552",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 07:05:02 +0000 2019",
+      "id": 1161896563062595600,
+      "id_str": "1161896563062595585",
+      "text": "@vitstd Посмотри на тредик, что я скинул) Как раз смущает",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vitstd",
+            "name": "Stadnikov Vitaliy",
+            "id": 251052950,
+            "id_str": "251052950",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161895516231426000,
+      "in_reply_to_status_id_str": "1161895516231426048",
+      "in_reply_to_user_id": 251052950,
+      "in_reply_to_user_id_str": "251052950",
+      "in_reply_to_screen_name": "vitstd",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 07:08:57 +0000 2019",
+      "id": 1161897550514917400,
+      "id_str": "1161897550514917376",
+      "text": "Почему-то сейчас отсутствие смайликов и наличие точек означает какую-то жёсткость и, не дай Бог, агрессию",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161896381377843200,
+      "in_reply_to_status_id_str": "1161896381377843200",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 07:13:36 +0000 2019",
+      "id": 1161898718632841200,
+      "id_str": "1161898718632841217",
+      "text": "Как будто бы речь идёт о дружеской переписке с давним знакомым, а не о рабочих моментах",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161897550514917400,
+      "in_reply_to_status_id_str": "1161897550514917376",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 07:31:50 +0000 2019",
+      "id": 1161903308728098800,
+      "id_str": "1161903308728098816",
+      "text": "@sunrizz К хорошему привыкать - норм, да. Но не стоит перегибать палку и пытаться подложить себе перину там, где это не нужно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sunrizz",
+            "name": "Усанов Алексей",
+            "id": 21741938,
+            "id_str": "21741938",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161894461254832000,
+      "in_reply_to_status_id_str": "1161894461254832128",
+      "in_reply_to_user_id": 21741938,
+      "in_reply_to_user_id_str": "21741938",
+      "in_reply_to_screen_name": "sunrizz",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 07:33:57 +0000 2019",
+      "id": 1161903842587553800,
+      "id_str": "1161903842587553792",
+      "text": "@sunrizz Иначе, в скором времени, о профессионализме лишь можно будет рассказывать былины по дороге от гамака до холодильника в офисе",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sunrizz",
+            "name": "Усанов Алексей",
+            "id": 21741938,
+            "id_str": "21741938",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161903308728098800,
+      "in_reply_to_status_id_str": "1161903308728098816",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 08:10:56 +0000 2019",
+      "id": 1161913147235668000,
+      "id_str": "1161913147235667968",
+      "text": "Конечно, каждая фраза читается с субъективной интонацией и всё-такое. Но говорят, что на собеседованиях всегда пров… https://t.co/YDqnILjXhb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YDqnILjXhb",
+            "expanded_url": "https://twitter.com/i/web/status/1161913147235667968",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1161898718632841200,
+      "in_reply_to_status_id_str": "1161898718632841217",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 08:11:13 +0000 2019",
+      "id": 1161913220757672000,
+      "id_str": "1161913220757671937",
+      "text": "И если в комментарии нет прямого хамства, а только лишенная воды конструктивная и обоснованная критика, то почему к… https://t.co/H83ogoZGTh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H83ogoZGTh",
+            "expanded_url": "https://twitter.com/i/web/status/1161913220757671937",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1161913147235668000,
+      "in_reply_to_status_id_str": "1161913147235667968",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 08:11:36 +0000 2019",
+      "id": 1161913314613575700,
+      "id_str": "1161913314613575680",
+      "text": "Другое дело, что встаёт вопрос \"Что считается прямым хамством?\" Накините?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1161913220757672000,
+      "in_reply_to_status_id_str": "1161913220757671937",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 08:35:04 +0000 2019",
+      "id": 1161919223121268700,
+      "id_str": "1161919223121268736",
+      "text": "@Devgru Такое мнение сформировалось ещё до перехода в MRG) Статьи на vc, рассказы коллег",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Devgru",
+            "name": "Dmitriy Semyushkin",
+            "id": 14437308,
+            "id_str": "14437308",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161915856990941200,
+      "in_reply_to_status_id_str": "1161915856990941184",
+      "in_reply_to_user_id": 14437308,
+      "in_reply_to_user_id_str": "14437308",
+      "in_reply_to_screen_name": "Devgru",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 08:36:20 +0000 2019",
+      "id": 1161919541150212000,
+      "id_str": "1161919541150212096",
+      "text": "@omelics Да много где, судя по статьям, обсуждениям на хабре и рассказам знакомых",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "omelics",
+            "name": "Aleksey Omelichev",
+            "id": 117857498,
+            "id_str": "117857498",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161911991365226500,
+      "in_reply_to_status_id_str": "1161911991365226496",
+      "in_reply_to_user_id": 117857498,
+      "in_reply_to_user_id_str": "117857498",
+      "in_reply_to_screen_name": "omelics",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 11:55:02 +0000 2019",
+      "id": 1161969542907740200,
+      "id_str": "1161969542907740160",
+      "text": "В одном из докладов про эмпатию был классный тезис \"Мы не контролируем свои эмоции. Мы можем контролировать лишь реакции на них\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1161913220757672000,
+      "in_reply_to_status_id_str": "1161913220757671937",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 11:55:30 +0000 2019",
+      "id": 1161969664286761000,
+      "id_str": "1161969664286760961",
+      "text": "Были ли у вас моменты, когда примерно в одних и тех же ситуациях, человек оставлял комментарии с разным оттенком?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1161969542907740200,
+      "in_reply_to_status_id_str": "1161969542907740160",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 11:55:49 +0000 2019",
+      "id": 1161969743412310000,
+      "id_str": "1161969743412310016",
+      "text": "Лично я замечал это неоднократно. И как показал опыт, тон, в котором общается человек сильно зависит от его настроения",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1161969664286761000,
+      "in_reply_to_status_id_str": "1161969664286760961",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 11:56:27 +0000 2019",
+      "id": 1161969899402682400,
+      "id_str": "1161969899402682368",
+      "text": "Так вот, если в комментарии ощущается нестерпимая микроагрессия, перед тем как бежать к менеджеру, стоит подумать,… https://t.co/icdkjpMx08",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/icdkjpMx08",
+            "expanded_url": "https://twitter.com/i/web/status/1161969899402682368",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1161969743412310000,
+      "in_reply_to_status_id_str": "1161969743412310016",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 11:56:47 +0000 2019",
+      "id": 1161969983825633300,
+      "id_str": "1161969983825633281",
+      "text": "Отдельный вопрос- почему человек не научился управлять реакцией на свои эмоции, и выставляет своё плохое настроение всем на показ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1161969899402682400,
+      "in_reply_to_status_id_str": "1161969899402682368",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 12:20:01 +0000 2019",
+      "id": 1161975830295302100,
+      "id_str": "1161975830295302144",
+      "text": "@MojoIvan В том и суть: если начать воспринимать эти сообщения, как сугубоделовые, ни твоё и настроение, ни настрое… https://t.co/McBAZSbwdd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MojoIvan",
+            "name": "Ivan Kramarenko",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/McBAZSbwdd",
+            "expanded_url": "https://twitter.com/i/web/status/1161975830295302144",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161972622038638600,
+      "in_reply_to_status_id_str": "1161972622038638593",
+      "in_reply_to_user_id": 713037432883650600,
+      "in_reply_to_user_id_str": "713037432883650560",
+      "in_reply_to_screen_name": "MojoIvan",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 12:25:21 +0000 2019",
+      "id": 1161977172594188300,
+      "id_str": "1161977172594188293",
+      "text": "@tygeddar @MojoIvan Почему же? Пробовал и не получилось?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tygeddar",
+            "name": "Евгений Елчев",
+            "id": 186381310,
+            "id_str": "186381310",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "MojoIvan",
+            "name": "Ivan Kramarenko",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              10,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161976207711375400,
+      "in_reply_to_status_id_str": "1161976207711375360",
+      "in_reply_to_user_id": 186381310,
+      "in_reply_to_user_id_str": "186381310",
+      "in_reply_to_screen_name": "tygeddar",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 12:29:07 +0000 2019",
+      "id": 1161978123367473200,
+      "id_str": "1161978123367473152",
+      "text": "@tygeddar @MojoIvan Верно, но он может контролировать свою реакцию на них",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tygeddar",
+            "name": "Евгений Елчев",
+            "id": 186381310,
+            "id_str": "186381310",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "MojoIvan",
+            "name": "Ivan Kramarenko",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              10,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161977559548141600,
+      "in_reply_to_status_id_str": "1161977559548141570",
+      "in_reply_to_user_id": 186381310,
+      "in_reply_to_user_id_str": "186381310",
+      "in_reply_to_screen_name": "tygeddar",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 12:36:36 +0000 2019",
+      "id": 1161980006089875500,
+      "id_str": "1161980006089875458",
+      "text": "@tygeddar @MojoIvan Естественно, просто так ничего не даётся. Только со временем начинаешь быстрее и проще абстрагироваться в таких моментах",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tygeddar",
+            "name": "Евгений Елчев",
+            "id": 186381310,
+            "id_str": "186381310",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "MojoIvan",
+            "name": "Ivan Kramarenko",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              10,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161978399918874600,
+      "in_reply_to_status_id_str": "1161978399918874626",
+      "in_reply_to_user_id": 186381310,
+      "in_reply_to_user_id_str": "186381310",
+      "in_reply_to_screen_name": "tygeddar",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 13:05:10 +0000 2019",
+      "id": 1161987194803949600,
+      "id_str": "1161987194803949570",
+      "text": "@igrekde Я не смог весь тред осилить(",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1161983419758366700,
+      "in_reply_to_status_id_str": "1161983419758366720",
+      "in_reply_to_user_id": 181697598,
+      "in_reply_to_user_id_str": "181697598",
+      "in_reply_to_screen_name": "igrekde",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 15 14:09:20 +0000 2019",
+      "id": 1162003340559081500,
+      "id_str": "1162003340559081472",
+      "text": "RT @M0rtyMerr: @mobileunderhood Ох уж мне эти экстрасенсы, которые по чату без мимики, интонации и тембра могут считать, какой у человека т…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "M0rtyMerr",
+            "name": "Anton Nazarov",
+            "id": 1082227064688775200,
+            "id_str": "1082227064688775174",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "mobileunderhood",
+            "name": "Мобильный разработчик",
+            "id": 1056195982340358100,
+            "id_str": "1056195982340358150",
+            "indices": [
+              15,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Aug 15 13:58:26 +0000 2019",
+        "id": 1162000598708842500,
+        "id_str": "1162000598708842496",
+        "text": "@mobileunderhood Ох уж мне эти экстрасенсы, которые по чату без мимики, интонации и тембра могут считать, какой у ч… https://t.co/IA5XS2zYQw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mobileunderhood",
+              "name": "Мобильный разработчик",
+              "id": 1056195982340358100,
+              "id_str": "1056195982340358150",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/IA5XS2zYQw",
+              "expanded_url": "https://twitter.com/i/web/status/1162000598708842496",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1161969743412310000,
+        "in_reply_to_status_id_str": "1161969743412310016",
+        "in_reply_to_user_id": 1056195982340358100,
+        "in_reply_to_user_id_str": "1056195982340358150",
+        "in_reply_to_screen_name": "mobileunderhood",
+        "user": {
+          "id": 1082227064688775200,
+          "id_str": "1082227064688775174"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 16 08:16:02 +0000 2019",
+      "id": 1162276817845158000,
+      "id_str": "1162276817845157890",
+      "text": "Синдромы, комплексы и вот это вот всё- почему никто ни разу не связал склонность человека к выгораниям с его темпераментом?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 16 08:16:46 +0000 2019",
+      "id": 1162277006077075500,
+      "id_str": "1162277006077075456",
+      "text": "Так же и про связь с синдромом самозванца",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1162276817845158000,
+      "in_reply_to_status_id_str": "1162276817845157890",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 16 08:19:33 +0000 2019",
+      "id": 1162277705947107300,
+      "id_str": "1162277705947107328",
+      "text": "(Безусловно, не претендую на научное обоснование) Но встречал не мало людей, которых все эти чувства некомпетентнос… https://t.co/6nhEN0dp3m",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6nhEN0dp3m",
+            "expanded_url": "https://twitter.com/i/web/status/1162277705947107328",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1162277006077075500,
+      "in_reply_to_status_id_str": "1162277006077075456",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 16 10:51:07 +0000 2019",
+      "id": 1162315848608112600,
+      "id_str": "1162315848608112642",
+      "text": "Кажется, после такого, на сегодня можно заканчивать с твиттером https://t.co/L6mybkS56H",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/L6mybkS56H",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1162273172290334724",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1162273172290334700,
+      "quoted_status_id_str": "1162273172290334724",
+      "quoted_status": {
+        "created_at": "Fri Aug 16 08:01:32 +0000 2019",
+        "id": 1162273172290334700,
+        "id_str": "1162273172290334724",
+        "text": "Я в пятницу обещал особую тему. Многие думали, что знают что эта будет за тема — давайте проверим, смогли ли вы её… https://t.co/pCfY13jdvn",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/pCfY13jdvn",
+              "expanded_url": "https://twitter.com/i/web/status/1162273172290334724",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 391,
+        "favorite_count": 3240,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 16 11:07:15 +0000 2019",
+      "id": 1162319908002304000,
+      "id_str": "1162319908002304000",
+      "text": "@igrekde Какие есть ещё волнующие тебя темы?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1162286180840419300,
+      "in_reply_to_status_id_str": "1162286180840419331",
+      "in_reply_to_user_id": 181697598,
+      "in_reply_to_user_id_str": "181697598",
+      "in_reply_to_screen_name": "igrekde",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 18 17:56:57 +0000 2019",
+      "id": 1163147787942412300,
+      "id_str": "1163147787942412289",
+      "text": "Что ж, отведённое мне время подходит к концу. К сожалению, ошибся я с эстимейтами на ведение твиттера… Но ничего, н… https://t.co/iLHh1OqXHS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iLHh1OqXHS",
+            "expanded_url": "https://twitter.com/i/web/status/1163147787942412289",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

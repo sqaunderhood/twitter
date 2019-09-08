@@ -1,0 +1,184 @@
+{
+  "mentions": [
+    {
+      "created_at": "Wed Sep 04 18:10:53 +0000 2019",
+      "id": 1169311887382732800,
+      "id_str": "1169311887382732800",
+      "text": "@leahjs https://t.co/l50xDSUGaw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "leahjs",
+            "name": "Leah Suter",
+            "id": 137897485,
+            "id_str": "137897485",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/l50xDSUGaw",
+            "expanded_url": "https://twitter.com/_andrewtjames/status/1169285815756840960",
+            "display_url": "twitter.com/_andrewtjames/…",
+            "indices": [
+              8,
+              31
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 137897485,
+      "in_reply_to_user_id_str": "137897485",
+      "in_reply_to_screen_name": "leahjs",
+      "user": {
+        "id": 2334160291,
+        "id_str": "2334160291"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1169285815756841000,
+      "quoted_status_id_str": "1169285815756840960",
+      "quoted_status": {
+        "created_at": "Wed Sep 04 16:27:17 +0000 2019",
+        "id": 1169285815756841000,
+        "id_str": "1169285815756840960",
+        "text": "No matter what I always end up using Night Owl by @sarah_edo. https://t.co/aOGtu3VY9l",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sarah_edo",
+              "name": "Sarah Drasner",
+              "id": 813333008,
+              "id_str": "813333008",
+              "indices": [
+                50,
+                60
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1169285812539797500,
+              "id_str": "1169285812539797505",
+              "indices": [
+                62,
+                85
+              ],
+              "media_url": "http://pbs.twimg.com/media/EDojQFlWsAEEsZk.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EDojQFlWsAEEsZk.jpg",
+              "url": "https://t.co/aOGtu3VY9l",
+              "display_url": "pic.twitter.com/aOGtu3VY9l",
+              "expanded_url": "https://twitter.com/_andrewtjames/status/1169285815756840960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 720,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1169285812539797500,
+              "id_str": "1169285812539797505",
+              "indices": [
+                62,
+                85
+              ],
+              "media_url": "http://pbs.twimg.com/media/EDojQFlWsAEEsZk.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EDojQFlWsAEEsZk.jpg",
+              "url": "https://t.co/aOGtu3VY9l",
+              "display_url": "pic.twitter.com/aOGtu3VY9l",
+              "expanded_url": "https://twitter.com/_andrewtjames/status/1169285815756840960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 720,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 888278801423056900,
+          "id_str": "888278801423056897"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    }
+  ]
+}
