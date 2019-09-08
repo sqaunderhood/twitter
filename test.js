@@ -40,17 +40,6 @@ describe('html', () => {
     });
   });
 
-  describe('archive pages', () => {
-    it('tweets list', () => {
-      authors.forEach(author => {
-        if (author.post === false) return;
-        const $ = make$(`dist/${author.username}/index.html`);
-        assert($('article p').length > 1);
-        assert($('article h2 small').length > 1);
-      });
-    });
-  });
-
   describe('authorId', () => {
     const input = [
       { username: 'first' },
