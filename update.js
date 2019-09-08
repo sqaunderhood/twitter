@@ -38,7 +38,7 @@ function update(author) {
   });
 
   rm(`./dump/images/${username}*`);
-  saveMedia(tokens, underhood, authorId, (err, media) => {
+  saveMedia(tokens, username, authorId, (err, media) => {
     if (err) throw err;
     saveAuthorArea(authorId, 'media', media);
   });
