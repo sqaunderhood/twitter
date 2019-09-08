@@ -31,13 +31,14 @@ block content
                 h2(style="margin: 0"): a(href="/" + author.authorId + '/')
                   = "@" + author.username
                 if author.info.location
-                  p.small
+                  small
                     span.glyphicon.glyphicon-map-marker
                     = " " + author.info.location
-                if author.start
-                  p.small
+                if author.tweets[0] && author.tweets[0].created_at
+                  br
+                  small
                     span.glyphicon.glyphicon-calendar
-                    = " " + author.start
+                    = " " + helpers.authorRender.d(author.tweets[0].created_at)
             .row
               .col-md-12
                 p.list__item-desc!= helpers.render(helpers.firstTweet(author))

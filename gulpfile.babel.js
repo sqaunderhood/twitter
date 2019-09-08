@@ -70,7 +70,7 @@ task('index', ['css'], () => {
         underhood,
         currentAuthor: head(authors),
         authors: splitEvery(3, authorsToPost),
-        helpers: { bust, firstTweet, render },
+        helpers: { bust, firstTweet, render, authorRender },
       },
     }))
     .pipe(rename({ basename: 'index' }))
