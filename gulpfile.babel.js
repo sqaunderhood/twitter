@@ -29,7 +29,6 @@ import webpackConfig from './webpack.config.babel.js';
 
 import authorRender from './helpers/author-render';
 import bust from './helpers/bust';
-import lastUpdated from './helpers/last-updated';
 
 import authors from './dump';
 const latestInfo = (head(authors) || {}).info;
