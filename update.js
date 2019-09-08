@@ -1,6 +1,6 @@
 import log from './helpers/log';
 import { outputFile } from 'fs-extra';
-import { isEmpty, concat, reverse, last, dissoc, map, head } from 'ramda';
+import { isEmpty, concat, reverse, last } from 'ramda';
 import moment from 'moment';
 import dec from 'bignum-dec';
 import { sync as rm } from 'rimraf';
@@ -25,16 +25,13 @@ function update(author, nextAuthor) {
 
   ensureFilesForFirstUpdate(authorId);
 
-  // const tweets = getAuthorArea(authorId, 'tweets').tweets || [];
   const mentions = getAuthorArea(authorId, 'mentions').mentions || [];
 
   const tweetsSinceId = dec(first);
   const tweetsMaxId = nextAuthorFirst && dec(nextAuthorFirst);
-  // rm(`./dump/${authorId}-tweets*`);
   getTweets(tokens, underhood, tweetsSinceId, tweetsMaxId, (err, newTweetsRaw) => {
     if (err) throw err;
-    log(`fetched ${newTweetsRaw.length} tweets`);
-    saveAuthorArea(authorId, 'tweets', { tweets: newTweetsRaw });
+    saveAuthorArea(authorId, 'tweets', { tweets: reverse(newTweetsRaw) });
   });
 
   getInfo(tokens, underhood).then(info => {
@@ -63,12 +60,11 @@ function sleep(ms) {
 }
 
 (async () => {
-  // for (const author of authors) {
   const reversedAuthors = reverse(authors);
   for (let index = 0; index < reversedAuthors.length; index++) {
+    if (index !== 0) await sleep(10000);
     const author = reversedAuthors[index];
 
     update(author, reversedAuthors[index + 1]);
-    await sleep(10000);
   }
 })();

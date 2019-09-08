@@ -1,6 +1,6 @@
 import Twitter from 'twit';
-import log from './log';
-import { merge, pipe, prop, head, concat, isEmpty } from 'ramda';
+import dec from 'bignum-dec';
+import { merge, pipe, prop, last, concat, isEmpty } from 'ramda';
 
 const defaults = {
   count: 200,
@@ -10,17 +10,14 @@ const defaults = {
 };
 
 const getNextOptions = (options, tweets) => {
-  const lastId = head(tweets) && pipe(head, prop('id_str'))(tweets);
   return (isEmpty(tweets))
     ? options
-    : merge(options, lastId && { since_id: lastId });
+    : merge(options, { max_id: pipe(last, prop('id_str'), dec)(tweets) });
 };
 
 function accumulate(get, options, tweets, cb) {
   const nextOptions = getNextOptions(options, tweets);
-  log('OPT:', nextOptions);
   get(nextOptions, (err, res) => {
-    log('LENGTH:', res.length);
     if (err) return cb(err);
     const accumulatedTweets = concat(tweets, res);
     return (isEmpty(res))
