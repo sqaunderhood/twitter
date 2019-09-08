@@ -124,7 +124,8 @@ task('authors', ['css'], done => {
         pretty: true,
         locals: {
           title: `Неделя @${author.username} в @${underhood.underhood}`,
-          author, underhood,
+          author,
+          underhood,
           helpers: { authorRender, bust },
         },
       }))
