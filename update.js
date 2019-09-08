@@ -9,7 +9,7 @@ import { underhood } from './.underhoodrc.json';
 import authors from './authors';
 
 import tokens from 'twitter-tokens';
-import getTweets from 'get-tweets';
+import getTweets from './helpers/get-tweets';
 import getInfo from 'get-twitter-info';
 import saveMedia from './helpers/save-media';
 import twitterMentions from 'twitter-mentions';
@@ -18,19 +18,23 @@ import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
 import getAuthorArea from './helpers/get-author-area';
 import saveAuthorArea from './helpers/save-author-area';
 
-function update(author) {
+function update(author, nextAuthor) {
   const { authorId, first, username } = author;
+
+  const { first: nextAuthorFirst } = nextAuthor || { first: null };
 
   ensureFilesForFirstUpdate(authorId);
 
-  const tweets = getAuthorArea(authorId, 'tweets').tweets || [];
+  // const tweets = getAuthorArea(authorId, 'tweets').tweets || [];
   const mentions = getAuthorArea(authorId, 'mentions').mentions || [];
 
-  const tweetsSinceId = isEmpty(tweets) ? dec(first) : last(tweets).id_str;
-  getTweets(tokens, underhood, tweetsSinceId, (err, newTweetsRaw) => {
+  const tweetsSinceId = dec(first);
+  const tweetsMaxId = nextAuthorFirst && dec(nextAuthorFirst);
+  // rm(`./dump/${authorId}-tweets*`);
+  getTweets(tokens, underhood, tweetsSinceId, tweetsMaxId, (err, newTweetsRaw) => {
     if (err) throw err;
-    const concattedTweets = concat(tweets, reverse(newTweetsRaw));
-    saveAuthorArea(authorId, 'tweets', { tweets: concattedTweets });
+    log(`fetched ${newTweetsRaw.length} tweets`);
+    saveAuthorArea(authorId, 'tweets', { tweets: newTweetsRaw });
   });
 
   getInfo(tokens, underhood).then(info => {
@@ -59,8 +63,12 @@ function sleep(ms) {
 }
 
 (async () => {
-  for (const author of authors) {
-    update(author);
+  // for (const author of authors) {
+  const reversedAuthors = reverse(authors);
+  for (let index = 0; index < reversedAuthors.length; index++) {
+    const author = reversedAuthors[index];
+
+    update(author, reversedAuthors[index + 1]);
     await sleep(10000);
   }
 })();
