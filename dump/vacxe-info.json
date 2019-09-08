@@ -1,0 +1,97 @@
+{
+  "id": 80984039,
+  "id_str": "80984039",
+  "name": "Riccardo Chiletti",
+  "screen_name": "Vacxe",
+  "location": "",
+  "profile_location": null,
+  "description": "",
+  "url": null,
+  "entities": {
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 1,
+  "friends_count": 3,
+  "listed_count": 0,
+  "created_at": "Fri Oct 09 00:31:13 +0000 2009",
+  "favourites_count": 0,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 110,
+  "lang": null,
+  "status": {
+    "created_at": "Fri Nov 29 10:41:32 +0000 2013",
+    "id": 406372348841836540,
+    "id_str": "406372348841836545",
+    "text": "http://t.co/U9LN3FP6Vn Заправка картриджа hp 1200 инструкция http://t.co/q3TanRFsDk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/U9LN3FP6Vn",
+          "expanded_url": "http://in.philafirst-sodop.com/c-979894.php",
+          "display_url": "in.philafirst-sodop.com/c-979894.php",
+          "indices": [
+            0,
+            22
+          ]
+        },
+        {
+          "url": "http://t.co/q3TanRFsDk",
+          "expanded_url": "http://in.philafirst-sodop.com/c-778362.php",
+          "display_url": "in.philafirst-sodop.com/c-778362.php",
+          "indices": [
+            61,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "bg"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": true,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}

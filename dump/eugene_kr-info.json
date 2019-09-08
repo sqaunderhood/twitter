@@ -1,56 +1,74 @@
 {
-  "id": 1056195982340358100,
-  "id_str": "1056195982340358150",
-  "name": "Мобильный разработчик",
-  "screen_name": "mobileunderhood",
-  "location": "Kharkiv",
+  "id": 220433040,
+  "id_str": "220433040",
+  "name": "Eugene Krivobokov",
+  "screen_name": "eugene_kr",
+  "location": "Moscow",
   "profile_location": null,
-  "description": "Алексей Демедецкий (@daloog), team lead в Sigma Software",
-  "url": "https://t.co/np5yyKi7zD",
+  "description": "",
+  "url": null,
   "entities": {
-    "url": {
-      "urls": [
-        {
-          "url": "https://t.co/np5yyKi7zD",
-          "expanded_url": "http://mobileunderhood.ru",
-          "display_url": "mobileunderhood.ru",
-          "indices": [
-            0,
-            23
-          ]
-        }
-      ]
-    },
     "description": {
       "urls": []
     }
   },
   "protected": false,
-  "followers_count": 2447,
-  "friends_count": 2,
-  "listed_count": 28,
-  "created_at": "Sat Oct 27 14:48:40 +0000 2018",
-  "favourites_count": 1460,
+  "followers_count": 15,
+  "friends_count": 26,
+  "listed_count": 1,
+  "created_at": "Sat Nov 27 19:37:11 +0000 2010",
+  "favourites_count": 139,
   "utc_offset": null,
   "time_zone": null,
-  "geo_enabled": true,
+  "geo_enabled": false,
   "verified": false,
-  "statuses_count": 8882,
+  "statuses_count": 5,
   "lang": null,
   "status": {
-    "created_at": "Sat Sep 07 16:08:02 +0000 2019",
-    "id": 1170368135943336000,
-    "id_str": "1170368135943335938",
-    "text": "Первые полгода самые заметные наверно. Потом скорее профилактика и анализ шаблонов поведения. \n\nОт скуки меня спаса… https://t.co/rivXq9Pz5i",
+    "created_at": "Thu Sep 05 18:06:14 +0000 2019",
+    "id": 1169673107608678400,
+    "id_str": "1169673107608678400",
+    "text": "@nifl_heim @katellaevgenii @igrekde Пока все с интересом ждут аргументов про лукизм, отмечу другую логическу ошибку… https://t.co/4IQMefQUtc",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "nifl_heim",
+          "name": "Michael Chernov",
+          "id": 239279875,
+          "id_str": "239279875",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "katellaevgenii",
+          "name": "Evgeniy Katella",
+          "id": 2900094743,
+          "id_str": "2900094743",
+          "indices": [
+            11,
+            26
+          ]
+        },
+        {
+          "screen_name": "igrekde",
+          "name": "Egor Tolstoy",
+          "id": 181697598,
+          "id_str": "181697598",
+          "indices": [
+            27,
+            35
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/rivXq9Pz5i",
-          "expanded_url": "https://twitter.com/i/web/status/1170368135943335938",
+          "url": "https://t.co/4IQMefQUtc",
+          "expanded_url": "https://twitter.com/i/web/status/1169673107608678400",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -59,43 +77,39 @@
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1169499686706847700,
+    "in_reply_to_status_id_str": "1169499686706847744",
+    "in_reply_to_user_id": 239279875,
+    "in_reply_to_user_id_str": "239279875",
+    "in_reply_to_screen_name": "nifl_heim",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1170320061158047700,
-    "quoted_status_id_str": "1170320061158047744",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
   "is_translation_enabled": false,
-  "profile_background_color": "000000",
+  "profile_background_color": "C0DEED",
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1168448104615612417/Jo2EZoGk_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168448104615612417/Jo2EZoGk_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056195982340358150/1567414877",
-  "profile_link_color": "1B95E0",
-  "profile_sidebar_border_color": "000000",
-  "profile_sidebar_fill_color": "000000",
-  "profile_text_color": "000000",
-  "profile_use_background_image": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1081976979774152705/_BuB-iJ-_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081976979774152705/_BuB-iJ-_normal.jpg",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
   "has_extended_profile": false,
-  "default_profile": false,
+  "default_profile": true,
   "default_profile_image": false,
   "following": false,
   "follow_request_sent": false,

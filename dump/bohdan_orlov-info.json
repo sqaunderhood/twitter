@@ -1,19 +1,19 @@
 {
-  "id": 1056195982340358100,
-  "id_str": "1056195982340358150",
-  "name": "Мобильный разработчик",
-  "screen_name": "mobileunderhood",
-  "location": "Kharkiv",
+  "id": 609125701,
+  "id_str": "609125701",
+  "name": "Bohdan Orlov",
+  "screen_name": "bohdan_orlov",
+  "location": "London, England",
   "profile_location": null,
-  "description": "Алексей Демедецкий (@daloog), team lead в Sigma Software",
-  "url": "https://t.co/np5yyKi7zD",
+  "description": "iOS Catalyst 🧪 Helping teams to change⚡ Sometimes they survive it 😅 ex: @IGcom 📈 @MoonpigUK 🐽 @Badoo 💘",
+  "url": "https://t.co/Aaw0EEGhFi",
   "entities": {
     "url": {
       "urls": [
         {
-          "url": "https://t.co/np5yyKi7zD",
-          "expanded_url": "http://mobileunderhood.ru",
-          "display_url": "mobileunderhood.ru",
+          "url": "https://t.co/Aaw0EEGhFi",
+          "expanded_url": "http://arch.guru",
+          "display_url": "arch.guru",
           "indices": [
             0,
             23
@@ -26,57 +26,75 @@
     }
   },
   "protected": false,
-  "followers_count": 2447,
-  "friends_count": 2,
-  "listed_count": 28,
-  "created_at": "Sat Oct 27 14:48:40 +0000 2018",
-  "favourites_count": 1460,
+  "followers_count": 2370,
+  "friends_count": 788,
+  "listed_count": 36,
+  "created_at": "Fri Jun 15 13:57:00 +0000 2012",
+  "favourites_count": 587,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8882,
+  "statuses_count": 238,
   "lang": null,
   "status": {
-    "created_at": "Sat Sep 07 16:08:02 +0000 2019",
-    "id": 1170368135943336000,
-    "id_str": "1170368135943335938",
-    "text": "Первые полгода самые заметные наверно. Потом скорее профилактика и анализ шаблонов поведения. \n\nОт скуки меня спаса… https://t.co/rivXq9Pz5i",
-    "truncated": true,
+    "created_at": "Sun Aug 25 14:46:19 +0000 2019",
+    "id": 1165636528418279400,
+    "id_str": "1165636528418279429",
+    "text": "@BruinInaSweater @mobileunderhood @igrekde Спасибо, рад стараться :)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/rivXq9Pz5i",
-          "expanded_url": "https://twitter.com/i/web/status/1170368135943335938",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "BruinInaSweater",
+          "name": "Anton Petrakov",
+          "id": 2446846140,
+          "id_str": "2446846140",
           "indices": [
-            117,
-            140
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "mobileunderhood",
+          "name": "Мобильный разработчик",
+          "id": 1056195982340358100,
+          "id_str": "1056195982340358150",
+          "indices": [
+            17,
+            33
+          ]
+        },
+        {
+          "screen_name": "igrekde",
+          "name": "Egor Tolstoy",
+          "id": 181697598,
+          "id_str": "181697598",
+          "indices": [
+            34,
+            42
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1165616791764254700,
+    "in_reply_to_status_id_str": "1165616791764254720",
+    "in_reply_to_user_id": 2446846140,
+    "in_reply_to_user_id_str": "2446846140",
+    "in_reply_to_screen_name": "BruinInaSweater",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1170320061158047700,
-    "quoted_status_id_str": "1170320061158047744",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -86,15 +104,15 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1168448104615612417/Jo2EZoGk_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168448104615612417/Jo2EZoGk_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056195982340358150/1567414877",
-  "profile_link_color": "1B95E0",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/782652467230179329/F9J_ks-M_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/782652467230179329/F9J_ks-M_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/609125701/1518713071",
+  "profile_link_color": "FF4C55",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
   "profile_text_color": "000000",
   "profile_use_background_image": false,
-  "has_extended_profile": false,
+  "has_extended_profile": true,
   "default_profile": false,
   "default_profile_image": false,
   "following": false,
