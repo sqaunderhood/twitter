@@ -1,4 +1,4 @@
-# jsunderhood
+# mobileunderhood
 
 Коллективный твиттер-аккаунт для мобильных разработчиков с новым автором каждую неделю.
 
@@ -25,4 +25,4 @@
 _PS. Есть и другие похожие проекты. Их список хранится на гитхабе в репозитории [awesome-collective-twitters](https://github.com/iamstarkov/awesome-collective-twitters)_
 _PPS. Спасибо iamstarkov за готовый движок для сайта, который я нагло слизал с jsunderhood_
 
-[uh]: https://twitter.com/jsunderhood
+[uh]: https://twitter.com/mobileunderhood

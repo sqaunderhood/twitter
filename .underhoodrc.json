@@ -1,6 +1,6 @@
 {
   "underhood": "mobileunderhood",
-  "underhoodDesc": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю",
+  "underhoodDesc": "Коллективный твиттер-аккаунт для мобильных разработчиков с новым автором каждую неделю",
   "underhoodSite": "mobileunderhood.ru",
   "githubUser": "etolstoy",
   "githubRepo": "mobileunderhood",
@@ -21,6 +21,8 @@
     "webMaster": "igrekde@gmail.com (Egor Tolstoy)",
     "copyright": "MIT",
     "language": "ru",
-    "categories": [ "twitter" ]
+    "categories": [
+      "twitter"
+    ]
   }
 }

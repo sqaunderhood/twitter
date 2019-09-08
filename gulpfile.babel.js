@@ -108,7 +108,7 @@ task('rss', done => {
       feed.item({
         title: author.username,
         description: render(first),
-        url: `https://jsunderhood.ru/${author.authorId}/`,
+        url: `https://mobileunderhood.ru/${author.authorId}/`,
         date: first.created_at,
       });
     }

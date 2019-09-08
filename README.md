@@ -1,11 +1,11 @@
-# jsunderhood.ru
+# mobileunderhood.ru
 
-Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю
+Коллективный твиттер-аккаунт для мобильных разработчиков с новым автором каждую неделю
 
 ## Старт проекта
 
-    git clone git@github.com:iamstarkov/jsunderhood.git
-    cd jsunderhood
+    git clone git@github.com:iamstarkov/mobileunderhood.git
+    cd mobileunderhood
     npm install
     npm start
 
