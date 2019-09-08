@@ -31,7 +31,9 @@ import authorRender from './helpers/author-render';
 import bust from './helpers/bust';
 
 import authors from './dump';
-const latestInfo = (head(authors) || {}).info;
+
+import getAuthorArea from './helpers/get-author-area';
+const underhoodInfo = getAuthorArea(underhood.underhood, 'info') || {};
 
 const start = _start.bind(gulp);
 const task = _task.bind(gulp);
@@ -40,7 +42,7 @@ const jadeDefaults = {
   pretty: true,
   locals: {
     site: underhood.site,
-    latestInfo,
+    underhoodInfo,
     numbers: input => numbers(input, { locale: 'ru' }),
     people: numd('человек', 'человека', 'человек'),
   },

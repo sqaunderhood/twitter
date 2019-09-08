@@ -4,11 +4,13 @@ import assert from 'assert';
 import { readFileSync } from 'fs-extra';
 import cheerio from 'cheerio';
 import typeNumbers from 'typographic-numbers';
-import { head } from 'ramda';
 import authors from './dump';
 import authorId from './helpers/author-id';
 
-const latestInfo = head(authors).info;
+import underhood from './.underhoodrc.json';
+import getAuthorArea from './helpers/get-author-area';
+const underhoodInfo = getAuthorArea(underhood.underhood, 'info') || {};
+
 const numbers = input => typeNumbers(input, { locale: 'ru' });
 const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 
@@ -26,7 +28,7 @@ describe('html', () => {
     });
     it('followers count exists', () => {
       const $ = make$('dist/index.html');
-      const followers = numbers(String(latestInfo.followers_count));
+      const followers = numbers(String(underhoodInfo.followers_count));
       assert($('.page-header p i').text().indexOf(followers) > 0);
     });
   });

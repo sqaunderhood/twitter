@@ -35,6 +35,10 @@ function update(author, nextAuthor) {
   });
 
   getInfo(tokens, underhood).then(info => {
+    saveAuthorArea(underhood, 'info', info);
+  });
+
+  getInfo(tokens, username).then(info => {
     saveAuthorArea(authorId, 'info', info);
   });
 
