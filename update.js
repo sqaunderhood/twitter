@@ -1,6 +1,6 @@
 import log from './helpers/log';
 import { outputFile } from 'fs-extra';
-import { reverse } from 'ramda';
+import { reverse, head } from 'ramda';
 import moment from 'moment';
 import dec from 'bignum-dec';
 import { sync as rm } from 'rimraf';
@@ -48,11 +48,11 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-(async () => {
-  getInfo(tokens, underhood).then(info => {
-    saveAuthorArea(underhood, 'info', info);
-  });
+function updateLastAuthor() {
+  update(head(authors));
+}
 
+async function updateAuthors() {
   const reversedAuthors = reverse(authors);
   for (let index = 0; index < reversedAuthors.length; index++) {
     if (index !== 0) await sleep(10000);
@@ -60,4 +60,13 @@ function sleep(ms) {
 
     update(author, reversedAuthors[index + 1]);
   }
+}
+
+(async () => {
+  getInfo(tokens, underhood).then(info => {
+    saveAuthorArea(underhood, 'info', info);
+  });
+
+  updateLastAuthor();
+  // updateAuthors() // NOTE: Use carefully, cause it can remove old tweets
 })();
