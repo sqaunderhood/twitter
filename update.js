@@ -1,6 +1,6 @@
 import log from './helpers/log';
 import { outputFile } from 'fs-extra';
-import { isEmpty, concat, reverse, last } from 'ramda';
+import { reverse } from 'ramda';
 import moment from 'moment';
 import dec from 'bignum-dec';
 import { sync as rm } from 'rimraf';
@@ -12,10 +12,8 @@ import tokens from 'twitter-tokens';
 import getTweets from './helpers/get-tweets';
 import getInfo from 'get-twitter-info';
 import saveMedia from './helpers/save-media';
-import twitterMentions from 'twitter-mentions';
 
 import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
-import getAuthorArea from './helpers/get-author-area';
 import saveAuthorArea from './helpers/save-author-area';
 
 function update(author, nextAuthor) {
@@ -25,19 +23,12 @@ function update(author, nextAuthor) {
 
   ensureFilesForFirstUpdate(authorId);
 
-  const mentions = getAuthorArea(authorId, 'mentions').mentions || [];
-
   const tweetsSinceId = dec(first);
   const tweetsMaxId = nextAuthorFirst && dec(nextAuthorFirst);
   getTweets(tokens, underhood, tweetsSinceId, tweetsMaxId, (err, newTweetsRaw) => {
     if (err) throw err;
     saveAuthorArea(authorId, 'tweets', { tweets: reverse(newTweetsRaw) });
   });
-
-  getInfo(tokens, underhood).then(info => {
-    saveAuthorArea(underhood, 'info', info);
-  });
-
   getInfo(tokens, username).then(info => {
     saveAuthorArea(authorId, 'info', info);
   });
@@ -46,12 +37,6 @@ function update(author, nextAuthor) {
   saveMedia(tokens, username, authorId, (err, media) => {
     if (err) throw err;
     saveAuthorArea(authorId, 'media', media);
-  });
-
-  const mentionsSinceId = isEmpty(mentions) ? first : last(mentions).id_str;
-  twitterMentions(tokens, mentionsSinceId).then(newMentionsRaw => {
-    const concattedMentions = concat(mentions, reverse(newMentionsRaw));
-    saveAuthorArea(authorId, 'mentions', { mentions: concattedMentions });
   });
 
   outputFile('./dump/.timestamp', moment().unix(), err => {
@@ -64,6 +49,10 @@ function sleep(ms) {
 }
 
 (async () => {
+  getInfo(tokens, underhood).then(info => {
+    saveAuthorArea(underhood, 'info', info);
+  });
+
   const reversedAuthors = reverse(authors);
   for (let index = 0; index < reversedAuthors.length; index++) {
     if (index !== 0) await sleep(10000);

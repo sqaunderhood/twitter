@@ -24,7 +24,7 @@
 
 * `update.js` — апдейт дампа
 * `dump/index.js` — получение дампа
-* `dump/*.json` — дамп информации об авторах ('tweets', 'info', 'media', 'mentions')
+* `dump/*.json` — дамп информации об авторах ('tweets', 'info', 'media')
 * `dump/images/` — дамп изображений авторов
 * `helpers/` — хелперы
 

@@ -30,14 +30,6 @@ function initMedia({ username }) {
 }
 authors.map(initMedia);
 
-// MENTIONS
-function createEmptyMentions({ username }) {
-  outputJSON(`./dump/${username}-mentions.json`, { mentions: [] }, { spaces }, saveErr => {
-    log(`${saveErr ? '✗' : '✓'} ${username}’s empty mentions`);
-  });
-}
-authors.map(createEmptyMentions);
-
 // TWEETS
 function reverseAndRenameTweets({ username }) {
   const { tweets: oldTweets } = getAuthorArea(username);
@@ -49,4 +41,4 @@ function reverseAndRenameTweets({ username }) {
 }
 authors.map(reverseAndRenameTweets);
 
-rimraf.sync('./migration.js')
+rimraf.sync('./migration.js');
