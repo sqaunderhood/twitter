@@ -25,17 +25,19 @@ block content
       .row(style="margin-bottom: 1em")
         each author in row
           .col-md-4
-            div.row
-              .col-md-2
-                .row.text-center
-                  div.img-circle(style="width: 48px; height: 48px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
-              .col-md-10
+            .row
+              div.col-md-4.img-circle(style="width: 80px; height: 80px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
+              div.col-md-8
                 h2(style="margin: 0"): a(href="/" + author.authorId + '/')
                   = "@" + author.username
                 if author.info.location
-                  small
+                  p.small
                     span.glyphicon.glyphicon-map-marker
                     = " " + author.info.location
+                if author.start
+                  p.small
+                    span.glyphicon.glyphicon-calendar
+                    = " " + author.start
             .row
               .col-md-12
                 p.list__item-desc!= helpers.render(helpers.firstTweet(author))
