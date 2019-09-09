@@ -279,10 +279,7 @@ tr {
     right: 100%;
     padding-right: 1.5em;
     display: inline-block;
-  }
-
-  .tweet__time:hover {
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 
