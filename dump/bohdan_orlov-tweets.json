@@ -4,10 +4,36 @@
       "created_at": "Mon Aug 19 08:12:01 +0000 2019",
       "id": 1163362973873782800,
       "id_str": "1163362973873782784",
-      "text": "Всем привет! Я @bohdan_orlov и я прошел life cycle iOS разработчика, о чём и поговорим. Рассказы из личного опыта.… https://t.co/ZzM0Z9Wxjg",
-      "truncated": true,
+      "full_text": "Всем привет! Я @bohdan_orlov и я прошел life cycle iOS разработчика, о чём и поговорим. Рассказы из личного опыта. Не представляю позицию моего работодателя. #НоваяАватарка #АвторНедели #день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        195
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "НоваяАватарка",
+            "indices": [
+              158,
+              172
+            ]
+          },
+          {
+            "text": "АвторНедели",
+            "indices": [
+              173,
+              185
+            ]
+          },
+          {
+            "text": "день1из7",
+            "indices": [
+              186,
+              195
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -21,17 +47,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/ZzM0Z9Wxjg",
-            "expanded_url": "https://twitter.com/i/web/status/1163362973873782784",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": null,
@@ -58,10 +74,22 @@
       "created_at": "Mon Aug 19 08:13:52 +0000 2019",
       "id": 1163363435809300500,
       "id_str": "1163363435809300480",
-      "text": "@bohdan_orlov Расписание:\n\nпн. Зачем и когда менять роботу\nвт. PRD - наше всё, или как начать пинать ПМа\nср. Мама,… https://t.co/SfbPqinqMw",
-      "truncated": true,
+      "full_text": "@bohdan_orlov Расписание:\n\nпн. Зачем и когда менять роботу\nвт. PRD - наше всё, или как начать пинать ПМа\nср. Мама, я тимлид!\nчт. Как получить визу таланта в UK\nпт. Как перестать обсуждать архитектуру\nсб. Собеседования\nвс. Остальное\n\n#день1из7",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        242
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день1из7",
+            "indices": [
+              233,
+              242
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -75,17 +103,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/SfbPqinqMw",
-            "expanded_url": "https://twitter.com/i/web/status/1163363435809300480",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163362973873782800,
@@ -112,23 +130,25 @@
       "created_at": "Mon Aug 19 08:17:40 +0000 2019",
       "id": 1163364396216868900,
       "id_str": "1163364396216868870",
-      "text": "Сегодня поговорим о смене работодателя. За 7 лет в разработке я поработал в 7 компаниях, я люблю менять роботу. Сей… https://t.co/JcnkeRi7EZ",
-      "truncated": true,
+      "full_text": "Сегодня поговорим о смене работодателя. За 7 лет в разработке я поработал в 7 компаниях, я люблю менять роботу. Сейчас работаю в Лондонском офисе ФБ. Обычно смена работы это дополнительный стресс, но также прибавка к зарплате и бесценный опыт.   #день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/JcnkeRi7EZ",
-            "expanded_url": "https://twitter.com/i/web/status/1163364396216868870",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              117,
-              140
+              246,
+              255
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": null,
@@ -155,23 +175,25 @@
       "created_at": "Mon Aug 19 08:19:58 +0000 2019",
       "id": 1163364970962272300,
       "id_str": "1163364970962272256",
-      "text": "Сначала разделаемся з зарплатным вопросом. Моя история прибавок к базовой зарплате при смене компании:\n\n2013 +100%… https://t.co/zfEHgzQ7Np",
-      "truncated": true,
+      "full_text": "Сначала разделаемся з зарплатным вопросом. Моя история прибавок к базовой зарплате при смене компании:\n\n2013 +100%\n2014 +56%\n2015 +151%\n2018 +27%\n2018 +33%\n2019 -14%\n\nБонусы, налоги, стоки и переезды не учтены. #день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        220
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/zfEHgzQ7Np",
-            "expanded_url": "https://twitter.com/i/web/status/1163364970962272256",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              116,
-              139
+              211,
+              220
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163364396216868900,
@@ -198,8 +220,12 @@
       "created_at": "Mon Aug 19 08:28:35 +0000 2019",
       "id": 1163367140067553300,
       "id_str": "1163367140067553281",
-      "text": "Средняя прибавка получается больше 50%. Прибавка меньше 20% не стоит потраченных усилий если нет других факторов.\n\n#день1из7",
+      "full_text": "Средняя прибавка получается больше 50%. Прибавка меньше 20% не стоит потраченных усилий если нет других факторов.\n\n#день1из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        124
+      ],
       "entities": {
         "hashtags": [
           {
@@ -239,23 +265,25 @@
       "created_at": "Mon Aug 19 08:30:47 +0000 2019",
       "id": 1163367696827912200,
       "id_str": "1163367696827912192",
-      "text": "Важно подметить что располагаемый доход (disposable income) редко возрастал больше чем на 20%, а однажды даже упал!… https://t.co/IJPjdNa3hY",
-      "truncated": true,
+      "full_text": "Важно подметить что располагаемый доход (disposable income) редко возрастал больше чем на 20%, а однажды даже упал! И это не так страшно если вы понимаете что, делаете ;)\n\n#день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        181
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/IJPjdNa3hY",
-            "expanded_url": "https://twitter.com/i/web/status/1163367696827912192",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              117,
-              140
+              172,
+              181
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163367140067553300,
@@ -282,8 +310,12 @@
       "created_at": "Mon Aug 19 08:40:09 +0000 2019",
       "id": 1163370052294520800,
       "id_str": "1163370052294520832",
-      "text": "Моя максимальная прибавка внутри компании была:",
+      "full_text": "Моя максимальная прибавка внутри компании была:",
       "truncated": false,
+      "display_text_range": [
+        0,
+        47
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -315,20 +347,32 @@
       "created_at": "Mon Aug 19 08:53:26 +0000 2019",
       "id": 1163373395838414800,
       "id_str": "1163373395838414848",
-      "text": "Мой опыт всего лишь подтверждает статистику - чтобы не отставать от рыночной зарплаты менять роботу нужно часто. См… https://t.co/gEdqCv82jV",
-      "truncated": true,
+      "full_text": "Мой опыт всего лишь подтверждает статистику - чтобы не отставать от рыночной зарплаты менять роботу нужно часто. Смотрите на занимательный график: https://t.co/hNMMjfbDUy\n\n#день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        181
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день1из7",
+            "indices": [
+              172,
+              181
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/gEdqCv82jV",
-            "expanded_url": "https://twitter.com/i/web/status/1163373395838414848",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/hNMMjfbDUy",
+            "expanded_url": "https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/",
+            "display_url": "forbes.com/sites/cameronk…",
             "indices": [
-              117,
-              140
+              147,
+              170
             ]
           }
         ]
@@ -359,23 +403,25 @@
       "created_at": "Mon Aug 19 09:08:24 +0000 2019",
       "id": 1163377161245548500,
       "id_str": "1163377161245548544",
-      "text": "Стоит ли обговаривать зарплату с коллегами? \nЯ считаю, стоит. \nЕсли вам \"переплачивают\" (мало вероятно), то вы займ… https://t.co/EaoAZ4TO9j",
-      "truncated": true,
+      "full_text": "Стоит ли обговаривать зарплату с коллегами? \nЯ считаю, стоит. \nЕсли вам \"переплачивают\" (мало вероятно), то вы займётесь саморазвитием (если вы не надменный мудак), но скорее всего вам не доплачивают. Вы или получите повышение, или уйдете.\n#день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/EaoAZ4TO9j",
-            "expanded_url": "https://twitter.com/i/web/status/1163377161245548544",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              117,
-              140
+              240,
+              249
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163373395838414800,
@@ -402,23 +448,25 @@
       "created_at": "Mon Aug 19 09:15:20 +0000 2019",
       "id": 1163378904456945700,
       "id_str": "1163378904456945664",
-      "text": "Все были свидетелями случаев когда кому-то не повышали ЗП, человек уходил в другую компанию и получал что, хотел. К… https://t.co/BM7EWsApkt",
-      "truncated": true,
+      "full_text": "Все были свидетелями случаев когда кому-то не повышали ЗП, человек уходил в другую компанию и получал что, хотел. Компании просто экономят большую кучу денег платя разные зарплаты за те же навыки. Не нужно обижаться, а нужно понять и простить. #день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        253
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/BM7EWsApkt",
-            "expanded_url": "https://twitter.com/i/web/status/1163378904456945664",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              117,
-              140
+              244,
+              253
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163377161245548500,
@@ -445,20 +493,32 @@
       "created_at": "Mon Aug 19 09:24:36 +0000 2019",
       "id": 1163381238058639400,
       "id_str": "1163381238058639360",
-      "text": "Также и в UK. Я здесь считаюсь \"Jumper\"-ом. Почти все  работодатели поднимали этот вопрос чтобы: 1) получить успоко… https://t.co/Iv0gGgth1P",
-      "truncated": true,
+      "full_text": "Также и в UK. Я здесь считаюсь \"Jumper\"-ом. Почти все  работодатели поднимали этот вопрос чтобы: 1) получить успокоительную речь о том, как их компания отличается 2) попытаться занизить зарплату. На горячем рынке работодателю сложно быть придирчивым.\n#день1из7 https://t.co/vyVCxFv5fG",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        260
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день1из7",
+            "indices": [
+              251,
+              260
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/Iv0gGgth1P",
-            "expanded_url": "https://twitter.com/i/web/status/1163381238058639360",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/vyVCxFv5fG",
+            "expanded_url": "https://twitter.com/pingwinator/status/1163378401648005122",
+            "display_url": "twitter.com/pingwinator/st…",
             "indices": [
-              117,
-              140
+              261,
+              284
             ]
           }
         ]
@@ -480,12 +540,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1163378401648005000,
       "quoted_status_id_str": "1163378401648005122",
+      "quoted_status_permalink": {
+        "url": "https://t.co/vyVCxFv5fG",
+        "expanded": "https://twitter.com/pingwinator/status/1163378401648005122",
+        "display": "twitter.com/pingwinator/st…"
+      },
       "quoted_status": {
         "created_at": "Mon Aug 19 09:13:20 +0000 2019",
         "id": 1163378401648005000,
         "id_str": "1163378401648005122",
-        "text": "@mobileunderhood А вот другая точка зрения - в Германии я столкнулся с тем, что многие компании считают, если челов… https://t.co/XwywK0LLmq",
-        "truncated": true,
+        "full_text": "@mobileunderhood А вот другая точка зрения - в Германии я столкнулся с тем, что многие компании считают, если человек проработал менее 2 лет в 1 компании, то он «не надёжный». Это прежде всего из-за сложности найма (дорого, долго, буткамп 3 мес). Прокоментируете?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          263
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -501,17 +570,7 @@
               ]
             }
           ],
-          "urls": [
-            {
-              "url": "https://t.co/XwywK0LLmq",
-              "expanded_url": "https://twitter.com/i/web/status/1163378401648005122",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
+          "urls": []
         },
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "in_reply_to_status_id": 1163373395838414800,
@@ -545,8 +604,12 @@
       "created_at": "Mon Aug 19 09:56:14 +0000 2019",
       "id": 1163389199388684300,
       "id_str": "1163389199388684288",
-      "text": "@pingwinator 1) Речь о том почему не долго проработал в предыдущей компании. Тут важно подать все нейтрально, так к… https://t.co/69f6skuCic",
-      "truncated": true,
+      "full_text": "@pingwinator 1) Речь о том почему не долго проработал в предыдущей компании. Тут важно подать все нейтрально, так как негатив будет скорее всего спроецирован на вас.\n2) Давят по темах: мало лет опыта, часто прыгаешь, есть другой похожий кандидат. Я всегда говорил — не уверенны, не нанимайте.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        292
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -562,17 +625,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/69f6skuCic",
-            "expanded_url": "https://twitter.com/i/web/status/1163389199388684288",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163386331063607300,
@@ -599,8 +652,12 @@
       "created_at": "Mon Aug 19 11:00:07 +0000 2019",
       "id": 1163405277707812900,
       "id_str": "1163405277707812866",
-      "text": "@pingwinator Ну как в анекдоте:\nЕсли в компании одни распиздяи - \"уровень ответственности коллег был ниже моих ожид… https://t.co/xiNV8WOcVW",
-      "truncated": true,
+      "full_text": "@pingwinator Ну как в анекдоте:\nЕсли в компании одни распиздяи - \"уровень ответственности коллег был ниже моих ожиданий\"\nЕсли отбитое начальство - \"стратегия руководства не совпадает с моими убеждениями\"\nЕсли мало платят - \"моя компания не предоставляет возможности для роста\"",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        276
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -616,17 +673,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/xiNV8WOcVW",
-            "expanded_url": "https://twitter.com/i/web/status/1163405277707812866",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163391074116747300,
@@ -653,23 +700,25 @@
       "created_at": "Mon Aug 19 13:43:28 +0000 2019",
       "id": 1163446383803818000,
       "id_str": "1163446383803817984",
-      "text": "Теперь поговорим о том, когда стоит менять роботу. Часто люди ищут роботу, когда на роботе что-то пошло не так. Как… https://t.co/ZQHMleN3TW",
-      "truncated": true,
+      "full_text": "Теперь поговорим о том, когда стоит менять роботу. Часто люди ищут роботу, когда на роботе что-то пошло не так. Как мы знаем разработчика легко обидеть.\n\n#день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/ZQHMleN3TW",
-            "expanded_url": "https://twitter.com/i/web/status/1163446383803817984",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              117,
-              140
+              154,
+              163
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": null,
@@ -696,8 +745,12 @@
       "created_at": "Mon Aug 19 13:43:28 +0000 2019",
       "id": 1163446385108291600,
       "id_str": "1163446385108291585",
-      "text": "Если вам стало не комфортно работать, накидывать наверх стресс собеседований не лучшая идея. #день1из7",
+      "full_text": "Если вам стало не комфортно работать, накидывать наверх стресс собеседований не лучшая идея. #день1из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        102
+      ],
       "entities": {
         "hashtags": [
           {
@@ -737,23 +790,25 @@
       "created_at": "Mon Aug 19 13:43:28 +0000 2019",
       "id": 1163446386253283300,
       "id_str": "1163446386253283329",
-      "text": "А вот ходить на собеседования когда у вас на роботе все хорошо — это сказка! Себя показал, других посмотрел, а не с… https://t.co/RiSHblZ4zF",
-      "truncated": true,
+      "full_text": "А вот ходить на собеседования когда у вас на роботе все хорошо — это сказка! Себя показал, других посмотрел, а не срослось — ну ничего страшного, не очень-то и хотелось!  #день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/RiSHblZ4zF",
-            "expanded_url": "https://twitter.com/i/web/status/1163446386253283329",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              117,
-              140
+              171,
+              180
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163446385108291600,
@@ -780,20 +835,32 @@
       "created_at": "Mon Aug 19 14:55:28 +0000 2019",
       "id": 1163464502433734700,
       "id_str": "1163464502433734658",
-      "text": "Проясняю, свою позицию. \nЕсли плохо, то искать и сваливать безусловно нужно. \nНо если все идет стабильно то это не… https://t.co/iMn0GV8uP7",
-      "truncated": true,
+      "full_text": "Проясняю, свою позицию. \nЕсли плохо, то искать и сваливать безусловно нужно. \nНо если все идет стабильно то это не значит что нужно 5 лет сидеть на попе и ждать пока плохо не станет — нужно быть про-активным. \n#день1из7 https://t.co/qsbrrzdojW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день1из7",
+            "indices": [
+              210,
+              219
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/iMn0GV8uP7",
-            "expanded_url": "https://twitter.com/i/web/status/1163464502433734658",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/qsbrrzdojW",
+            "expanded_url": "https://twitter.com/iLLuzor/status/1163452136577011713",
+            "display_url": "twitter.com/iLLuzor/status…",
             "indices": [
-              116,
-              139
+              220,
+              243
             ]
           }
         ]
@@ -815,12 +882,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1163452136577011700,
       "quoted_status_id_str": "1163452136577011713",
+      "quoted_status_permalink": {
+        "url": "https://t.co/qsbrrzdojW",
+        "expanded": "https://twitter.com/iLLuzor/status/1163452136577011713",
+        "display": "twitter.com/iLLuzor/status…"
+      },
       "quoted_status": {
         "created_at": "Mon Aug 19 14:06:19 +0000 2019",
         "id": 1163452136577011700,
         "id_str": "1163452136577011713",
-        "text": "@mobileunderhood Странная логика. Что ж тогда делать в подобном случае?",
+        "full_text": "@mobileunderhood Странная логика. Что ж тогда делать в подобном случае?",
         "truncated": false,
+        "display_text_range": [
+          17,
+          71
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -870,23 +946,25 @@
       "created_at": "Mon Aug 19 14:59:22 +0000 2019",
       "id": 1163465487193448400,
       "id_str": "1163465487193448448",
-      "text": "Но что подумает менеджер, если узнает что я пошел на собеседование почти сразу после повышения? Если вы найдете нов… https://t.co/Kh1Mr8JvoW",
-      "truncated": true,
+      "full_text": "Но что подумает менеджер, если узнает что я пошел на собеседование почти сразу после повышения? Если вы найдете новую роботу — то вам не доплачивали, и ваш менеджер не ваш союзник. А если нет то вы \"откалибровали\" себя ;)\n\n#день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/Kh1Mr8JvoW",
-            "expanded_url": "https://twitter.com/i/web/status/1163465487193448448",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              117,
-              140
+              223,
+              232
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163446386253283300,
@@ -913,8 +991,12 @@
       "created_at": "Mon Aug 19 15:00:20 +0000 2019",
       "id": 1163465727329919000,
       "id_str": "1163465727329918976",
-      "text": "Если говорить о не материальных причинах менять работу, то есть минимум две — опыт и развитие личности.\n\n#день1из7",
+      "full_text": "Если говорить о не материальных причинах менять работу, то есть минимум две — опыт и развитие личности.\n\n#день1из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        114
+      ],
       "entities": {
         "hashtags": [
           {
@@ -954,23 +1036,25 @@
       "created_at": "Mon Aug 19 15:04:28 +0000 2019",
       "id": 1163466770046488600,
       "id_str": "1163466770046488576",
-      "text": "При смене работы вы конечно теряете возможность наблюдать долгосрочные эффекты своих \"архитектур\". Зато вас ждет не… https://t.co/PIFfkfiNMI",
-      "truncated": true,
+      "full_text": "При смене работы вы конечно теряете возможность наблюдать долгосрочные эффекты своих \"архитектур\". Зато вас ждет несравнимое количество \"свободного опыта\", которое вы можете перенять у новых коллег.\n\n#день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        209
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/PIFfkfiNMI",
-            "expanded_url": "https://twitter.com/i/web/status/1163466770046488576",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              117,
-              140
+              200,
+              209
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163465727329919000,
@@ -997,23 +1081,25 @@
       "created_at": "Mon Aug 19 15:04:29 +0000 2019",
       "id": 1163466771434823700,
       "id_str": "1163466771434823680",
-      "text": "Новая компания это сильный культурный стрессор. Увидеть восход и закат всяких скрамов, спотифай моделей и вайперов… https://t.co/IEgO8Q5QOv",
-      "truncated": true,
+      "full_text": "Новая компания это сильный культурный стрессор. Увидеть восход и закат всяких скрамов, спотифай моделей и вайперов 7 раз — бесценно. Я не утверждаю что я теперь эксперт в этих подходах, но я знаю что обычно не работает.\n\n#день1из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        230
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/IEgO8Q5QOv",
-            "expanded_url": "https://twitter.com/i/web/status/1163466771434823680",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день1из7",
             "indices": [
-              116,
-              139
+              221,
+              230
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163466770046488600,
@@ -1040,8 +1126,12 @@
       "created_at": "Mon Aug 19 15:20:09 +0000 2019",
       "id": 1163470714302845000,
       "id_str": "1163470714302844929",
-      "text": "Стоит ли оставаться в компании потому что есть чувство долга перед сотрудниками даже если ЗП меньше рыночной? #день1из7",
+      "full_text": "Стоит ли оставаться в компании потому что есть чувство долга перед сотрудниками даже если ЗП меньше рыночной? #день1из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
       "entities": {
         "hashtags": [
           {
@@ -1081,8 +1171,12 @@
       "created_at": "Mon Aug 19 15:48:22 +0000 2019",
       "id": 1163477815674769400,
       "id_str": "1163477815674769409",
-      "text": "@vvsevolodovich Только ЗП. Компании которые дают стоки нужно отдельно сравнивать, так как сложнее намного.",
+      "full_text": "@vvsevolodovich Только ЗП. Компании которые дают стоки нужно отдельно сравнивать, так как сложнее намного.",
       "truncated": false,
+      "display_text_range": [
+        16,
+        106
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1125,8 +1219,12 @@
       "created_at": "Mon Aug 19 15:51:53 +0000 2019",
       "id": 1163478700773580800,
       "id_str": "1163478700773580803",
-      "text": "@dimarious @Tarasminin Неадекватная реакция менеджмента. Даже если им не нравилась ваша робота и запрос стал послед… https://t.co/GMR1r3ErYi",
-      "truncated": true,
+      "full_text": "@dimarious @Tarasminin Неадекватная реакция менеджмента. Даже если им не нравилась ваша робота и запрос стал последней каплей. Вы должны были узнать об этом раньше.",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        164
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1152,17 +1250,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/GMR1r3ErYi",
-            "expanded_url": "https://twitter.com/i/web/status/1163478700773580803",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163471469415927800,
@@ -1189,8 +1277,12 @@
       "created_at": "Mon Aug 19 15:58:41 +0000 2019",
       "id": 1163480414247358500,
       "id_str": "1163480414247358464",
-      "text": "Платит ли ваш работодатель значительную часть компенсации стоками (Restricted Stock Unit)?\n#день1из7",
+      "full_text": "Платит ли ваш работодатель значительную часть компенсации стоками (Restricted Stock Unit)?\n#день1из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        100
+      ],
       "entities": {
         "hashtags": [
           {
@@ -1230,20 +1322,32 @@
       "created_at": "Mon Aug 19 18:18:14 +0000 2019",
       "id": 1163515531900653600,
       "id_str": "1163515531900653569",
-      "text": "В итоге кто-то прокачает навыки и запросит больше. Идея не в том чтобы у всех было одинаково, а в том чтобы друг на… https://t.co/SIgwVGHi6w",
-      "truncated": true,
+      "full_text": "В итоге кто-то прокачает навыки и запросит больше. Идея не в том чтобы у всех было одинаково, а в том чтобы друг на друга и рынок равнялись. Хочешь быть самим \"дорогим\"? Иди и докажи, начальству или рынку что ты стоишь денег.\n#день1из7 https://t.co/khFUT4c74M",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день1из7",
+            "indices": [
+              226,
+              235
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/SIgwVGHi6w",
-            "expanded_url": "https://twitter.com/i/web/status/1163515531900653569",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/khFUT4c74M",
+            "expanded_url": "https://twitter.com/stevenpigeon3/status/1163499900455325697",
+            "display_url": "twitter.com/stevenpigeon3/…",
             "indices": [
-              117,
-              140
+              236,
+              259
             ]
           }
         ]
@@ -1265,12 +1369,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1163499900455325700,
       "quoted_status_id_str": "1163499900455325697",
+      "quoted_status_permalink": {
+        "url": "https://t.co/khFUT4c74M",
+        "expanded": "https://twitter.com/stevenpigeon3/status/1163499900455325697",
+        "display": "twitter.com/stevenpigeon3/…"
+      },
       "quoted_status": {
         "created_at": "Mon Aug 19 17:16:07 +0000 2019",
         "id": 1163499900455325700,
         "id_str": "1163499900455325697",
-        "text": "@mobileunderhood Есть же известное когнитивное искажение: человеку свойственно переоценивать себя и недооценивать д… https://t.co/xCnoEKXYu0",
-        "truncated": true,
+        "full_text": "@mobileunderhood Есть же известное когнитивное искажение: человеку свойственно переоценивать себя и недооценивать других. Если пять одинаковых разработчиков узнают, что у них одинаковые зарплаты, обидятся все пятеро.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          216
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -1286,17 +1399,7 @@
               ]
             }
           ],
-          "urls": [
-            {
-              "url": "https://t.co/xCnoEKXYu0",
-              "expanded_url": "https://twitter.com/i/web/status/1163499900455325697",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
+          "urls": []
         },
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "in_reply_to_status_id": 1163377161245548500,
@@ -1330,8 +1433,12 @@
       "created_at": "Mon Aug 19 18:30:36 +0000 2019",
       "id": 1163518643289952300,
       "id_str": "1163518643289952256",
-      "text": "Это не точно. https://t.co/bbx5cRJF5W",
+      "full_text": "Это не точно. https://t.co/bbx5cRJF5W",
       "truncated": false,
+      "display_text_range": [
+        0,
+        13
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1365,12 +1472,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1163517399926268000,
       "quoted_status_id_str": "1163517399926267904",
+      "quoted_status_permalink": {
+        "url": "https://t.co/bbx5cRJF5W",
+        "expanded": "https://twitter.com/industrieapps/status/1163517399926267904",
+        "display": "twitter.com/industrieapps/…"
+      },
       "quoted_status": {
         "created_at": "Mon Aug 19 18:25:39 +0000 2019",
         "id": 1163517399926268000,
         "id_str": "1163517399926267904",
-        "text": "@mobileunderhood А это точно не тот случай когда из всех статистик выбрал только ту что подходит под свой опыт?",
+        "full_text": "@mobileunderhood А это точно не тот случай когда из всех статистик выбрал только ту что подходит под свой опыт?",
         "truncated": false,
+        "display_text_range": [
+          17,
+          111
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -1420,8 +1536,12 @@
       "created_at": "Mon Aug 19 20:31:36 +0000 2019",
       "id": 1163549095610462200,
       "id_str": "1163549095610462208",
-      "text": "@ZiminAlex Теперь понятна!\n\nЯ думал софт скилл, это типа съездил с докладом на конфу, рассказал какая хорошая компа… https://t.co/40JefiKCP0",
-      "truncated": true,
+      "full_text": "@ZiminAlex Теперь понятна!\n\nЯ думал софт скилл, это типа съездил с докладом на конфу, рассказал какая хорошая компания!\n\nА оказалось правильно побухать тоже нужно уметь :)",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        171
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1437,17 +1557,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/40JefiKCP0",
-            "expanded_url": "https://twitter.com/i/web/status/1163549095610462208",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163531396771659800,
@@ -1474,8 +1584,12 @@
       "created_at": "Tue Aug 20 08:41:04 +0000 2019",
       "id": 1163732668778975200,
       "id_str": "1163732668778975234",
-      "text": "Сегодня говорим о требованиях, а конкретно о Product Requirement Document (PRD).\n\n#день2из7",
+      "full_text": "Сегодня говорим о требованиях, а конкретно о Product Requirement Document (PRD).\n\n#день2из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        91
+      ],
       "entities": {
         "hashtags": [
           {
@@ -1515,23 +1629,25 @@
       "created_at": "Tue Aug 20 08:59:00 +0000 2019",
       "id": 1163737183783719000,
       "id_str": "1163737183783718912",
-      "text": "Любой продуктовый разработчик знает, что самая важная часть роботы это понять что нужно делать. Иначе работа в кома… https://t.co/5SrXT6Tgvd",
-      "truncated": true,
+      "full_text": "Любой продуктовый разработчик знает, что самая важная часть роботы это понять что нужно делать. Иначе работа в команде превращается в бег по кругу. \n\n#день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        159
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/5SrXT6Tgvd",
-            "expanded_url": "https://twitter.com/i/web/status/1163737183783718912",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              150,
+              159
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163732668778975200,
@@ -1558,23 +1674,25 @@
       "created_at": "Tue Aug 20 08:59:00 +0000 2019",
       "id": 1163737185373307000,
       "id_str": "1163737185373306880",
-      "text": "В большинстве известных мне компаниях необходимость записывать (и предоставлять разработчикам) требования продукт м… https://t.co/RMFk8PJIQV",
-      "truncated": true,
+      "full_text": "В большинстве известных мне компаниях необходимость записывать (и предоставлять разработчикам) требования продукт менеджеры или заказчики закидывают отмашками: это не Agile, это трата времени, это никому не нужно.\n\n#день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        224
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/RMFk8PJIQV",
-            "expanded_url": "https://twitter.com/i/web/status/1163737185373306880",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              215,
+              224
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163737183783719000,
@@ -1601,23 +1719,25 @@
       "created_at": "Tue Aug 20 08:59:01 +0000 2019",
       "id": 1163737186740703200,
       "id_str": "1163737186740703232",
-      "text": "В итоге запечатление требований это забота тех на кого это влияет в первую очередь — разработчиков. Которые делают… https://t.co/6AffzeQDU6",
-      "truncated": true,
+      "full_text": "В итоге запечатление требований это забота тех на кого это влияет в первую очередь — разработчиков. Которые делают это только потому, что часто запомнить все не получается. В итоге получаются заметки которые, выбрасываются как только задача готова.\n\n#день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/6AffzeQDU6",
-            "expanded_url": "https://twitter.com/i/web/status/1163737186740703232",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              116,
-              139
+              250,
+              259
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163737185373307000,
@@ -1644,23 +1764,25 @@
       "created_at": "Tue Aug 20 08:59:01 +0000 2019",
       "id": 1163737188095451100,
       "id_str": "1163737188095451136",
-      "text": "Другим результатом есть сложность взаимодействия команд с разными правилами к требованиям: одни верят в что все дол… https://t.co/bgzqp2pOVW",
-      "truncated": true,
+      "full_text": "Другим результатом есть сложность взаимодействия команд с разными правилами к требованиям: одни верят в что все должно быть в JIRA другие утверждены что нужны Google docs для общей картины.\n\n#день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        200
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/bgzqp2pOVW",
-            "expanded_url": "https://twitter.com/i/web/status/1163737188095451136",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              191,
+              200
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163737186740703200,
@@ -1687,23 +1809,25 @@
       "created_at": "Tue Aug 20 08:59:01 +0000 2019",
       "id": 1163737189395644400,
       "id_str": "1163737189395644417",
-      "text": "Оказывается можно относиться к требованиям таким же образом как мы все относимся к дизайну (UI). Формальные требова… https://t.co/Lazz6GUqa1",
-      "truncated": true,
+      "full_text": "Оказывается можно относиться к требованиям таким же образом как мы все относимся к дизайну (UI). Формальные требования могут быть артефактом который блокирует разработчика, так же как и отсутствующий дизайн. \n\n#день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/Lazz6GUqa1",
-            "expanded_url": "https://twitter.com/i/web/status/1163737189395644417",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              210,
+              219
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163737188095451100,
@@ -1730,8 +1854,12 @@
       "created_at": "Tue Aug 20 08:59:02 +0000 2019",
       "id": 1163737190746210300,
       "id_str": "1163737190746210311",
-      "text": "Таким образом у продукт менеджера появляется конкретный выхлоп — требования в форме PRD. #день2из7",
+      "full_text": "Таким образом у продукт менеджера появляется конкретный выхлоп — требования в форме PRD. #день2из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        98
+      ],
       "entities": {
         "hashtags": [
           {
@@ -1771,8 +1899,12 @@
       "created_at": "Tue Aug 20 08:59:02 +0000 2019",
       "id": 1163737192847618000,
       "id_str": "1163737192847618053",
-      "text": "Как в вашей компании относятся к качеству требований?",
+      "full_text": "Как в вашей компании относятся к качеству требований?",
       "truncated": false,
+      "display_text_range": [
+        0,
+        53
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1804,8 +1936,12 @@
       "created_at": "Tue Aug 20 11:04:49 +0000 2019",
       "id": 1163768846064476200,
       "id_str": "1163768846064476163",
-      "text": "@shaukote Product Manager - дословно руководит продуктом.\nBussines Analyst - может делать то же самое, только название не отображает суть.",
+      "full_text": "@shaukote Product Manager - дословно руководит продуктом.\nBussines Analyst - может делать то же самое, только название не отображает суть.",
       "truncated": false,
+      "display_text_range": [
+        10,
+        138
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1848,23 +1984,25 @@
       "created_at": "Tue Aug 20 11:10:09 +0000 2019",
       "id": 1163770187079925800,
       "id_str": "1163770187079925760",
-      "text": "Мне удалось поработать в Badoo (MagicLab) где компетентные продукт менеджеры реализовали формальный подход PRD.  \nО… https://t.co/d0t8cmIbcg",
-      "truncated": true,
+      "full_text": "Мне удалось поработать в Badoo (MagicLab) где компетентные продукт менеджеры реализовали формальный подход PRD.  \nОни понимают, что задача ПМа не только придумать что делать, но еще и запечатлеть это в документе и вовремя вносить в него правки.\n\n#день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/d0t8cmIbcg",
-            "expanded_url": "https://twitter.com/i/web/status/1163770187079925760",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              246,
+              255
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163737192847618000,
@@ -1891,20 +2029,32 @@
       "created_at": "Tue Aug 20 11:13:14 +0000 2019",
       "id": 1163770964989096000,
       "id_str": "1163770964989095937",
-      "text": "Лучший обзор как работает Badoo и как PRD играет ключевую роль в жизни компании глазами разработчика, Александра Ба… https://t.co/BBXmLNQMrU",
-      "truncated": true,
+      "full_text": "Лучший обзор как работает Badoo и как PRD играет ключевую роль в жизни компании глазами разработчика, Александра Балабана. https://t.co/5YN8CbGf6g\n\n#день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        157
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день2из7",
+            "indices": [
+              148,
+              157
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/BBXmLNQMrU",
-            "expanded_url": "https://twitter.com/i/web/status/1163770964989095937",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/5YN8CbGf6g",
+            "expanded_url": "https://www.youtube.com/watch?v=eehzud6CmD0",
+            "display_url": "youtube.com/watch?v=eehzud…",
             "indices": [
-              117,
-              140
+              123,
+              146
             ]
           }
         ]
@@ -1935,21 +2085,101 @@
       "created_at": "Tue Aug 20 13:37:01 +0000 2019",
       "id": 1163807149866176500,
       "id_str": "1163807149866176512",
-      "text": "Ключевая часть PRD это скриншоты сырого дизайна которые подкрепляют user story. Скриншоты не заменяют Figma или Zep… https://t.co/Oa28LI3OCF",
-      "truncated": true,
+      "full_text": "Ключевая часть PRD это скриншоты сырого дизайна которые подкрепляют user story. Скриншоты не заменяют Figma или Zeplin. Они нужны чтобы можно понять большую картину быстро просмотрев документ.\n\n#день2из7 https://t.co/Vn9PofxzUE",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день2из7",
+            "indices": [
+              194,
+              203
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
+        "urls": [],
+        "media": [
           {
-            "url": "https://t.co/Oa28LI3OCF",
-            "expanded_url": "https://twitter.com/i/web/status/1163807149866176512",
-            "display_url": "twitter.com/i/web/status/1…",
+            "id": 1163807141158764500,
+            "id_str": "1163807141158764546",
             "indices": [
-              117,
-              140
-            ]
+              204,
+              227
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECasbcPUwAIQaNx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECasbcPUwAIQaNx.jpg",
+            "url": "https://t.co/Vn9PofxzUE",
+            "display_url": "pic.twitter.com/Vn9PofxzUE",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1163807149866176512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 974,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 552,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1538,
+                "h": 1248,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1163807141158764500,
+            "id_str": "1163807141158764546",
+            "indices": [
+              204,
+              227
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECasbcPUwAIQaNx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECasbcPUwAIQaNx.jpg",
+            "url": "https://t.co/Vn9PofxzUE",
+            "display_url": "pic.twitter.com/Vn9PofxzUE",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1163807149866176512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 974,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 552,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1538,
+                "h": 1248,
+                "resize": "fit"
+              }
+            }
           }
         ]
       },
@@ -1979,23 +2209,25 @@
       "created_at": "Tue Aug 20 13:37:02 +0000 2019",
       "id": 1163807152407863300,
       "id_str": "1163807152407863296",
-      "text": "Добавление технических деталей в PRD это типичная ошибка разработчиков, которые пытаются начать писать документ с т… https://t.co/e2VZnoh9jz",
-      "truncated": true,
+      "full_text": "Добавление технических деталей в PRD это типичная ошибка разработчиков, которые пытаются начать писать документ с требованиями. Очень важно разделять ЧТО и КАК, поэтому технические детали должны быть в отдельном документе. #день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/e2VZnoh9jz",
-            "expanded_url": "https://twitter.com/i/web/status/1163807152407863296",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              223,
+              232
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163807149866176500,
@@ -2022,21 +2254,101 @@
       "created_at": "Tue Aug 20 13:37:04 +0000 2019",
       "id": 1163807162461634600,
       "id_str": "1163807162461634562",
-      "text": "Делать проект или фичу и не измерять её производительность — это деньги на ветер. Бизнес аналитики описывают как эт… https://t.co/WnDI9DAMsg",
-      "truncated": true,
+      "full_text": "Делать проект или фичу и не измерять её производительность — это деньги на ветер. Бизнес аналитики описывают как это сделать в PRD, фича без аналитики в продакшин не ходит. #день2из7 https://t.co/z0kwSRBfQs",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день2из7",
+            "indices": [
+              173,
+              182
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
+        "urls": [],
+        "media": [
           {
-            "url": "https://t.co/WnDI9DAMsg",
-            "expanded_url": "https://twitter.com/i/web/status/1163807162461634562",
-            "display_url": "twitter.com/i/web/status/1…",
+            "id": 1163807153938768000,
+            "id_str": "1163807153938767881",
             "indices": [
-              117,
-              140
-            ]
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECascL2UIAki_QI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECascL2UIAki_QI.jpg",
+            "url": "https://t.co/z0kwSRBfQs",
+            "display_url": "pic.twitter.com/z0kwSRBfQs",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1163807162461634562/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 850,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1726,
+                "h": 1222,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1163807153938768000,
+            "id_str": "1163807153938767881",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECascL2UIAki_QI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECascL2UIAki_QI.jpg",
+            "url": "https://t.co/z0kwSRBfQs",
+            "display_url": "pic.twitter.com/z0kwSRBfQs",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1163807162461634562/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 850,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1726,
+                "h": 1222,
+                "resize": "fit"
+              }
+            }
           }
         ]
       },
@@ -2066,23 +2378,25 @@
       "created_at": "Tue Aug 20 13:37:05 +0000 2019",
       "id": 1163807164932059100,
       "id_str": "1163807164932059139",
-      "text": "Наличие PRD позволяет точно оценивать задачи по времени, подключать новых людей к исполнению за несколько часов, а… https://t.co/TgyBuy6tHT",
-      "truncated": true,
+      "full_text": "Наличие PRD позволяет точно оценивать задачи по времени, подключать новых людей к исполнению за несколько часов, а также накапливать и передавать знания \"новому поколению\". #день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/TgyBuy6tHT",
-            "expanded_url": "https://twitter.com/i/web/status/1163807164932059139",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              116,
-              139
+              173,
+              182
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163807162461634600,
@@ -2109,23 +2423,25 @@
       "created_at": "Tue Aug 20 13:37:05 +0000 2019",
       "id": 1163807166341324800,
       "id_str": "1163807166341324809",
-      "text": "Также важным отличием PRD от Google Doc описывающего хотелки это жесткая структура документа. В одной компании все… https://t.co/axSJwcuVYi",
-      "truncated": true,
+      "full_text": "Также важным отличием PRD от Google Doc описывающего хотелки это жесткая структура документа. В одной компании все PRD должны выглядеть одинаково, сотрудникам  очень легко искать информацию в гомогенных документах. #день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        224
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/axSJwcuVYi",
-            "expanded_url": "https://twitter.com/i/web/status/1163807166341324809",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              116,
-              139
+              215,
+              224
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163807164932059100,
@@ -2152,23 +2468,25 @@
       "created_at": "Tue Aug 20 13:37:05 +0000 2019",
       "id": 1163807167993876500,
       "id_str": "1163807167993876480",
-      "text": "Пример структуры PRD:\n\n- Links\n    - Designs\n    - Tech Spec(API)\n    - JIRA\n- Goals\n- What's New\n- Platform variat… https://t.co/V2c9LV9Nys",
-      "truncated": true,
+      "full_text": "Пример структуры PRD:\n\n- Links\n    - Designs\n    - Tech Spec(API)\n    - JIRA\n- Goals\n- What's New\n- Platform variations\n- Description\n- Communication\n- Use Cases\n- Edge Cases\n    - No Connection\n    - Tablet/Small Devices\n    - Error Handling\n- Release Plan\n- Analytics\n\n#день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/V2c9LV9Nys",
-            "expanded_url": "https://twitter.com/i/web/status/1163807167993876480",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              271,
+              280
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163807166341324800,
@@ -2195,23 +2513,25 @@
       "created_at": "Tue Aug 20 15:08:31 +0000 2019",
       "id": 1163830173923516400,
       "id_str": "1163830173923516416",
-      "text": "Самый простой способ внедрить PRD в компанию это нанять продукт менеджера, который уже спец по этому делу. Именно т… https://t.co/dn0VxRjlgj",
-      "truncated": true,
+      "full_text": "Самый простой способ внедрить PRD в компанию это нанять продукт менеджера, который уже спец по этому делу. Именно так и поступили в Badoo несколько лет назад наняв ПМа из Испанской компании Tuenti.\n\n#день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        208
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/dn0VxRjlgj",
-            "expanded_url": "https://twitter.com/i/web/status/1163830173923516416",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              199,
+              208
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163807167993876500,
@@ -2238,23 +2558,25 @@
       "created_at": "Tue Aug 20 15:08:31 +0000 2019",
       "id": 1163830175219486700,
       "id_str": "1163830175219486720",
-      "text": "Другой вариант это продвигать идею из \"низов\" когда разработчики и тестировщики сами пишут PRD пока практика не при… https://t.co/iMsrCR9926",
-      "truncated": true,
+      "full_text": "Другой вариант это продвигать идею из \"низов\" когда разработчики и тестировщики сами пишут PRD пока практика не приживется (все равно же записывают что нужно сделать). Но есть большая вероятность что ПМы так никогда и не поймут что это их робота. #день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/iMsrCR9926",
-            "expanded_url": "https://twitter.com/i/web/status/1163830175219486720",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              247,
+              256
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163830173923516400,
@@ -2281,23 +2603,25 @@
       "created_at": "Tue Aug 20 15:08:31 +0000 2019",
       "id": 1163830176393891800,
       "id_str": "1163830176393891841",
-      "text": "Доказать продукт менеджеру что его робота не только придумать что делать, а еще писать и редактировать PRD очень сл… https://t.co/jGrCMLGoe0",
-      "truncated": true,
+      "full_text": "Доказать продукт менеджеру что его робота не только придумать что делать, а еще писать и редактировать PRD очень сложно. Это не интересная задача от и от PRD мало толку если не знать как их использовать. #день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        213
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/jGrCMLGoe0",
-            "expanded_url": "https://twitter.com/i/web/status/1163830176393891841",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              204,
+              213
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163830175219486700,
@@ -2324,23 +2648,25 @@
       "created_at": "Tue Aug 20 15:08:31 +0000 2019",
       "id": 1163830177597657000,
       "id_str": "1163830177597657094",
-      "text": "Поднимайте вопрос о качестве требований на командных обсуждениях и предлагайте PRD как конкретное решение. Нужна кр… https://t.co/5L8RP0yNot",
-      "truncated": true,
+      "full_text": "Поднимайте вопрос о качестве требований на командных обсуждениях и предлагайте PRD как конкретное решение. Нужна критическая масса людей которые верят в то что это таки часть работы ПМа, а не просто хотелки разработчиков. #день2из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        231
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/5L8RP0yNot",
-            "expanded_url": "https://twitter.com/i/web/status/1163830177597657094",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день2из7",
             "indices": [
-              117,
-              140
+              222,
+              231
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1163830176393891800,
@@ -2367,23 +2693,25 @@
       "created_at": "Wed Aug 21 08:34:49 +0000 2019",
       "id": 1164093485957484500,
       "id_str": "1164093485957484544",
-      "text": "\"Мама, я тимлид!\" Многие разработчики становятся тимлидами потому что это круто и они не видят альтернативы. Сегодн… https://t.co/4DE8UShaG7",
-      "truncated": true,
+      "full_text": "\"Мама, я тимлид!\" Многие разработчики становятся тимлидами потому что это круто и они не видят альтернативы. Сегодня будем отделять котлеты от мух. \n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        159
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/4DE8UShaG7",
-            "expanded_url": "https://twitter.com/i/web/status/1164093485957484544",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              150,
+              159
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": null,
@@ -2410,8 +2738,12 @@
       "created_at": "Wed Aug 21 08:35:41 +0000 2019",
       "id": 1164093706070384600,
       "id_str": "1164093706070384640",
-      "text": "Согласно этой Teamlead Roadmap писать код как тимлид это 1 из 131 возможных обязанностей. https://t.co/iA4lCgQrqe\n\n#день3из7",
+      "full_text": "Согласно этой Teamlead Roadmap писать код как тимлид это 1 из 131 возможных обязанностей. https://t.co/iA4lCgQrqe\n\n#день3из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        124
+      ],
       "entities": {
         "hashtags": [
           {
@@ -2462,23 +2794,25 @@
       "created_at": "Wed Aug 21 08:38:36 +0000 2019",
       "id": 1164094437229760500,
       "id_str": "1164094437229760512",
-      "text": "Поэтому если любите кодить, но в компании нельзя развиваться как разработчик и путь вверх это позиция тимлида. То о… https://t.co/2bZ8T3wnX1",
-      "truncated": true,
+      "full_text": "Поэтому если любите кодить, но в компании нельзя развиваться как разработчик и путь вверх это позиция тимлида. То остановитесь, сделайте глубокий вдох и перейдите в другую компанию.\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        192
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/2bZ8T3wnX1",
-            "expanded_url": "https://twitter.com/i/web/status/1164094437229760512",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              183,
+              192
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164093706070384600,
@@ -2505,23 +2839,25 @@
       "created_at": "Wed Aug 21 08:39:29 +0000 2019",
       "id": 1164094658462605300,
       "id_str": "1164094658462605312",
-      "text": "Единственная причина становиться тимлидом это начинать прокачивать навык руководителя будучи еще одной ногой в зоне… https://t.co/jALU2moZXl",
-      "truncated": true,
+      "full_text": "Единственная причина становиться тимлидом это начинать прокачивать навык руководителя будучи еще одной ногой в зоне комфорта. Следующий шаг или назад в кодеры или вперед в менеджеры. Быть на заборе очень сложно.\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/jALU2moZXl",
-            "expanded_url": "https://twitter.com/i/web/status/1164094658462605312",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              213,
+              222
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164094437229760500,
@@ -2548,8 +2884,12 @@
       "created_at": "Wed Aug 21 08:40:30 +0000 2019",
       "id": 1164094915418165200,
       "id_str": "1164094915418165249",
-      "text": "Чтобы быть лучшим разработчиком нужно писать и думать о коде, чтобы быть хорошим руководителем нужно решать проблемы людей вокруг. #день3из7",
+      "full_text": "Чтобы быть лучшим разработчиком нужно писать и думать о коде, чтобы быть хорошим руководителем нужно решать проблемы людей вокруг. #день3из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
       "entities": {
         "hashtags": [
           {
@@ -2589,23 +2929,25 @@
       "created_at": "Wed Aug 21 08:42:09 +0000 2019",
       "id": 1164095331300184000,
       "id_str": "1164095331300184066",
-      "text": "Динамика этих задач совсем разная, чтобы успешно кодить нужны непрерывные часы роботы, а задачи руководителя требую… https://t.co/mJe0sO9pJK",
-      "truncated": true,
+      "full_text": "Динамика этих задач совсем разная, чтобы успешно кодить нужны непрерывные часы роботы, а задачи руководителя требуют много небольших интервалов времени для разных задач.\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/mJe0sO9pJK",
-            "expanded_url": "https://twitter.com/i/web/status/1164095331300184066",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              171,
+              180
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164094915418165200,
@@ -2632,8 +2974,12 @@
       "created_at": "Wed Aug 21 08:44:19 +0000 2019",
       "id": 1164095878656905200,
       "id_str": "1164095878656905216",
-      "text": "Роли и вопрос становления тимлидом я более детально разобрал  в прошлогодней заметке: https://t.co/5BgL1PWDDe\n\n#день3из7",
+      "full_text": "Роли и вопрос становления тимлидом я более детально разобрал  в прошлогодней заметке: https://t.co/5BgL1PWDDe\n\n#день3из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        120
+      ],
       "entities": {
         "hashtags": [
           {
@@ -2684,23 +3030,25 @@
       "created_at": "Wed Aug 21 12:57:51 +0000 2019",
       "id": 1164159680777740300,
       "id_str": "1164159680777740288",
-      "text": "Тимлида в любой момент времени кто-то  считает конченым мудаком. Если никто не обижен на тимлида скорее всего он пл… https://t.co/zXtQfxCNmR",
-      "truncated": true,
+      "full_text": "Тимлида в любой момент времени кто-то  считает конченым мудаком. Если никто не обижен на тимлида скорее всего он плохо продвигает интересы компании/подчиненных. \n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/zXtQfxCNmR",
-            "expanded_url": "https://twitter.com/i/web/status/1164159680777740288",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              163,
+              172
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164095878656905200,
@@ -2727,23 +3075,25 @@
       "created_at": "Wed Aug 21 12:57:51 +0000 2019",
       "id": 1164159682207985700,
       "id_str": "1164159682207985665",
-      "text": "Быть ТЛом это не только принимать важные решения, а также защищать своих подчинённых и продвигать их интересы в ком… https://t.co/DOPbuhQmq5",
-      "truncated": true,
+      "full_text": "Быть ТЛом это не только принимать важные решения, а также защищать своих подчинённых и продвигать их интересы в компании. Помните, вы начальник своих подчиненных временно, а как долго зависит во многом от вас. #день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/DOPbuhQmq5",
-            "expanded_url": "https://twitter.com/i/web/status/1164159682207985665",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              210,
+              219
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164159680777740300,
@@ -2770,23 +3120,25 @@
       "created_at": "Wed Aug 21 12:57:52 +0000 2019",
       "id": 1164159683512418300,
       "id_str": "1164159683512418304",
-      "text": "Старайтесь минимизировать количество маразма которое идёт со стороны вашего начальства. Обеспечение продуктивной об… https://t.co/qaotO57kci",
-      "truncated": true,
+      "full_text": "Старайтесь минимизировать количество маразма которое идёт со стороны вашего начальства. Обеспечение продуктивной обстановки это ваша задача, даже если ваша галера в огне. Если вы просто перекидываете указания вниз по цепочке, в чем ваша польза?\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/qaotO57kci",
-            "expanded_url": "https://twitter.com/i/web/status/1164159683512418304",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              246,
+              255
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164159682207985700,
@@ -2813,23 +3165,25 @@
       "created_at": "Wed Aug 21 12:57:52 +0000 2019",
       "id": 1164159684753969200,
       "id_str": "1164159684753969152",
-      "text": "Не делайте работу за своих разработчиков. Думайте как улучшить их жизнь и продуктивность на работе. Если у вас есть… https://t.co/j7Ms7paOLV",
-      "truncated": true,
+      "full_text": "Не делайте работу за своих разработчиков. Думайте как улучшить их жизнь и продуктивность на работе. Если у вас есть любимый руководитель сядьте и проанализируйте его подход. \n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        185
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/j7Ms7paOLV",
-            "expanded_url": "https://twitter.com/i/web/status/1164159684753969152",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              176,
+              185
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164159683512418300,
@@ -2856,23 +3210,25 @@
       "created_at": "Wed Aug 21 12:57:52 +0000 2019",
       "id": 1164159685936734200,
       "id_str": "1164159685936734209",
-      "text": "Вы всегда в центре внимания своих подчинённых, они все замечают и понимают. Если вы сами не являетесь образцом каче… https://t.co/8Z4K3qZMMe",
-      "truncated": true,
+      "full_text": "Вы всегда в центре внимания своих подчинённых, они все замечают и понимают. Если вы сами не являетесь образцом качеств которые вы считаете важными, то подчинённые не будут развивать их только потому что вы начальник.\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        227
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/8Z4K3qZMMe",
-            "expanded_url": "https://twitter.com/i/web/status/1164159685936734209",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              218,
+              227
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164159684753969200,
@@ -2899,23 +3255,25 @@
       "created_at": "Wed Aug 21 16:23:14 +0000 2019",
       "id": 1164211368477827000,
       "id_str": "1164211368477827073",
-      "text": "Будучи разработчиком достаточно легко анализировать свои промахи: не сделал фичу или сделал плохо, кто-то будет нед… https://t.co/wRgfMBIKaZ",
-      "truncated": true,
+      "full_text": "Будучи разработчиком достаточно легко анализировать свои промахи: не сделал фичу или сделал плохо, кто-то будет недовольный. Это очень простой сигнал что нужно что-то делать. #день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/wRgfMBIKaZ",
-            "expanded_url": "https://twitter.com/i/web/status/1164211368477827073",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              175,
+              184
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164159685936734200,
@@ -2942,23 +3300,25 @@
       "created_at": "Wed Aug 21 16:23:15 +0000 2019",
       "id": 1164211369933189000,
       "id_str": "1164211369933189123",
-      "text": "Понят что ты не делаешь как ТЛ сложнее, нужно все время использовать множество подходов и инструментов:\n\n- эмпатию… https://t.co/yajZXbpWIm",
-      "truncated": true,
+      "full_text": "Понят что ты не делаешь как ТЛ сложнее, нужно все время использовать множество подходов и инструментов:\n\n- эмпатию\n- делегацию\n- фильтрацию указаний сверху\n- обратную связь\n- авторитет\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        195
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/yajZXbpWIm",
-            "expanded_url": "https://twitter.com/i/web/status/1164211369933189123",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              116,
-              139
+              186,
+              195
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164211368477827000,
@@ -2985,8 +3345,12 @@
       "created_at": "Wed Aug 21 16:23:15 +0000 2019",
       "id": 1164211371241889800,
       "id_str": "1164211371241889792",
-      "text": "Эмпатия — если вы не понимаете проблемы людей вокруг шансов что вы решите их случайно очень мало. \n\n#день3из7",
+      "full_text": "Эмпатия — если вы не понимаете проблемы людей вокруг шансов что вы решите их случайно очень мало. \n\n#день3из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        109
+      ],
       "entities": {
         "hashtags": [
           {
@@ -3026,20 +3390,32 @@
       "created_at": "Wed Aug 21 16:23:15 +0000 2019",
       "id": 1164211372676276200,
       "id_str": "1164211372676276226",
-      "text": "Делегация — нужно отдавать задачи другим, а это очень тяжело. Особенно, если вы уверены что сами сделаете лучше. Хо… https://t.co/Y06rwObWjO",
-      "truncated": true,
+      "full_text": "Делегация — нужно отдавать задачи другим, а это очень тяжело. Особенно, если вы уверены что сами сделаете лучше. Хороший доклад на тему: https://t.co/yNcXuxJqPa\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        171
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день3из7",
+            "indices": [
+              162,
+              171
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/Y06rwObWjO",
-            "expanded_url": "https://twitter.com/i/web/status/1164211372676276226",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/yNcXuxJqPa",
+            "expanded_url": "https://www.youtube.com/watch?v=1bZ9EJ8o7Io",
+            "display_url": "youtube.com/watch?v=1bZ9EJ…",
             "indices": [
-              117,
-              140
+              137,
+              160
             ]
           }
         ]
@@ -3070,23 +3446,25 @@
       "created_at": "Wed Aug 21 16:25:12 +0000 2019",
       "id": 1164211861547561000,
       "id_str": "1164211861547560960",
-      "text": "Фильтрация указаний сверху — если на вас упала глупая задача, не спешите ее скидывать подчиненным. Можно ее сделать… https://t.co/D6JOH8MrO9",
-      "truncated": true,
+      "full_text": "Фильтрация указаний сверху — если на вас упала глупая задача, не спешите ее скидывать подчиненным. Можно ее сделать самому? Можно тупо забить на нее? Можно сделать фоновой задачей у сильного разработчика?\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        215
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/D6JOH8MrO9",
-            "expanded_url": "https://twitter.com/i/web/status/1164211861547560960",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              206,
+              215
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164211372676276200,
@@ -3113,23 +3491,25 @@
       "created_at": "Wed Aug 21 16:25:12 +0000 2019",
       "id": 1164211863216955400,
       "id_str": "1164211863216955392",
-      "text": "Обратная связь — создавайте возможность жаловаться: \n\n- 1-to-1\n- 360 team feedback\n- Ретроспективы/Пост-мортемы\n- В… https://t.co/I6xtwmDo4F",
-      "truncated": true,
+      "full_text": "Обратная связь — создавайте возможность жаловаться: \n\n- 1-to-1\n- 360 team feedback\n- Ретроспективы/Пост-мортемы\n- Встречи вашего начальника и подчиненного (skip meeting)\n\nИ конвертировать в действия для себя и команды. #день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        228
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/I6xtwmDo4F",
-            "expanded_url": "https://twitter.com/i/web/status/1164211863216955392",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              219,
+              228
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164211861547561000,
@@ -3156,23 +3536,25 @@
       "created_at": "Wed Aug 21 16:25:13 +0000 2019",
       "id": 1164211864601059300,
       "id_str": "1164211864601059328",
-      "text": "Авторитет — это топливо для принятия решений с которым сотрудники не согласны. Не использовать намного опаснее чем… https://t.co/taIlsKhULI",
-      "truncated": true,
+      "full_text": "Авторитет — это топливо для принятия решений с которым сотрудники не согласны. Не использовать намного опаснее чем использовать аккуратно. Будьте готовы брать ответственность на себя.\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/taIlsKhULI",
-            "expanded_url": "https://twitter.com/i/web/status/1164211864601059328",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              116,
-              139
+              185,
+              194
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164211863216955400,
@@ -3199,20 +3581,24 @@
       "created_at": "Wed Aug 21 18:38:30 +0000 2019",
       "id": 1164245409209946000,
       "id_str": "1164245409209946113",
-      "text": "У меня так и было, лид ушел, а с новым не сработался потому что он просто все перекидывал на низ по цепочке и стара… https://t.co/bq0i4PHWV7",
-      "truncated": true,
+      "full_text": "У меня так и было, лид ушел, а с новым не сработался потому что он просто все перекидывал на низ по цепочке и старался не вступать в конфликт со своим начальством. \n\"Мне сказали делать глупость - я вам сказал делать то же самое\". https://t.co/O5WggYCSDH",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        229
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/bq0i4PHWV7",
-            "expanded_url": "https://twitter.com/i/web/status/1164245409209946113",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/O5WggYCSDH",
+            "expanded_url": "https://twitter.com/mike_emelyanov/status/1164243391036764162",
+            "display_url": "twitter.com/mike_emelyanov…",
             "indices": [
-              117,
-              140
+              230,
+              253
             ]
           }
         ]
@@ -3234,24 +3620,33 @@
       "is_quote_status": true,
       "quoted_status_id": 1164243391036764200,
       "quoted_status_id_str": "1164243391036764162",
+      "quoted_status_permalink": {
+        "url": "https://t.co/O5WggYCSDH",
+        "expanded": "https://twitter.com/mike_emelyanov/status/1164243391036764162",
+        "display": "twitter.com/mike_emelyanov…"
+      },
       "quoted_status": {
         "created_at": "Wed Aug 21 18:30:29 +0000 2019",
         "id": 1164243391036764200,
         "id_str": "1164243391036764162",
-        "text": "\"Фильтрация указаний сверху\" может привезти к образованию диады \"папа - ребёнок\" в команде. В итоге, цели лида могу… https://t.co/fHwRKKpOu2",
-        "truncated": true,
+        "full_text": "\"Фильтрация указаний сверху\" может привезти к образованию диады \"папа - ребёнок\" в команде. В итоге, цели лида могут могут не совпать с целями компании. Если связь сильная, лид решает уйти, то команда обречена, другой лид не сработается. Это вредит компании. Не надо так делать) https://t.co/VU4ZZ7fE6C",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          278
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
           "user_mentions": [],
           "urls": [
             {
-              "url": "https://t.co/fHwRKKpOu2",
-              "expanded_url": "https://twitter.com/i/web/status/1164243391036764162",
-              "display_url": "twitter.com/i/web/status/1…",
+              "url": "https://t.co/VU4ZZ7fE6C",
+              "expanded_url": "https://twitter.com/mobileunderhood/status/1164211369933189123",
+              "display_url": "twitter.com/mobileunderhoo…",
               "indices": [
-                117,
-                140
+                279,
+                302
               ]
             }
           ]
@@ -3273,6 +3668,11 @@
         "is_quote_status": true,
         "quoted_status_id": 1164211369933189000,
         "quoted_status_id_str": "1164211369933189123",
+        "quoted_status_permalink": {
+          "url": "https://t.co/VU4ZZ7fE6C",
+          "expanded": "https://twitter.com/mobileunderhood/status/1164211369933189123",
+          "display": "twitter.com/mobileunderhoo…"
+        },
         "retweet_count": 0,
         "favorite_count": 1,
         "favorited": false,
@@ -3291,23 +3691,25 @@
       "created_at": "Wed Aug 21 18:40:20 +0000 2019",
       "id": 1164245869849469000,
       "id_str": "1164245869849468934",
-      "text": "Разработчики часто считают 1-to-1 как трату времени. И чаще всего так и есть. Неопытные тимлиды используют встречу… https://t.co/Dt3jbvMQSk",
-      "truncated": true,
+      "full_text": "Разработчики часто считают 1-to-1 как трату времени. И чаще всего так и есть. Неопытные тимлиды используют встречу с разработчиком, чтобы узнать о прогрессе над задачами, дать ценные указания и возможно накинуть еще задач.\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        233
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/Dt3jbvMQSk",
-            "expanded_url": "https://twitter.com/i/web/status/1164245869849468934",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              116,
-              139
+              224,
+              233
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164211864601059300,
@@ -3334,23 +3736,25 @@
       "created_at": "Wed Aug 21 18:40:21 +0000 2019",
       "id": 1164245871409729500,
       "id_str": "1164245871409729536",
-      "text": "1-to-1 это встреча принадлежащая разработчику. Разработчик должен говорить о том что ему лично важно минимум 2/3 вс… https://t.co/fekluDQvX6",
-      "truncated": true,
+      "full_text": "1-to-1 это встреча принадлежащая разработчику. Разработчик должен говорить о том что ему лично важно минимум 2/3 встречи. Поэтому задача ТЛа это установить доверие, чтобы разработчику не хотелось свалить по-быстрее и он видел в вас союзника.\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/fekluDQvX6",
-            "expanded_url": "https://twitter.com/i/web/status/1164245871409729536",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              243,
+              252
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164245869849469000,
@@ -3377,23 +3781,25 @@
       "created_at": "Wed Aug 21 18:40:21 +0000 2019",
       "id": 1164245872688947200,
       "id_str": "1164245872688947201",
-      "text": "Ведите заметки и \"личную карточку\" для каждого подчиненного, записывайте то что пообещали друг-другу сделать, начин… https://t.co/bmeQgbryhp",
-      "truncated": true,
+      "full_text": "Ведите заметки и \"личную карточку\" для каждого подчиненного, записывайте то что пообещали друг-другу сделать, начинайте следующую встречу с просмотра результатов действий.\n\n#день3из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/bmeQgbryhp",
-            "expanded_url": "https://twitter.com/i/web/status/1164245872688947201",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день3из7",
             "indices": [
-              117,
-              140
+              173,
+              182
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164245871409729500,
@@ -3420,23 +3826,25 @@
       "created_at": "Thu Aug 22 08:27:06 +0000 2019",
       "id": 1164453932934021000,
       "id_str": "1164453932934021120",
-      "text": "Сегодня говорим о UK Tier 1 Talent Visa.\n\nМногие знают (или догадываются) что можно переехать в Лондон по рабочей в… https://t.co/Pk6PwrdDtS",
-      "truncated": true,
+      "full_text": "Сегодня говорим о UK Tier 1 Talent Visa.\n\nМногие знают (или догадываются) что можно переехать в Лондон по рабочей визе от компании-работодателя (Tier 2 General), но большинство не слышали о визе таланта.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        214
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/Pk6PwrdDtS",
-            "expanded_url": "https://twitter.com/i/web/status/1164453932934021120",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день4из7",
             "indices": [
-              117,
-              140
+              205,
+              214
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": null,
@@ -3463,10 +3871,22 @@
       "created_at": "Thu Aug 22 08:29:04 +0000 2019",
       "id": 1164454426985357300,
       "id_str": "1164454426985357313",
-      "text": "Для меня просветителем оказался @wiruzx, который меня познакомил с обладателями визы (о важности их помощи ниже). А… https://t.co/b4MJn0zvGd",
-      "truncated": true,
+      "full_text": "Для меня просветителем оказался @wiruzx, который меня познакомил с обладателями визы (о важности их помощи ниже). А я, пользуясь случаем, передаю большое спасибо Виктору :)\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        183
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              174,
+              183
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -3480,17 +3900,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/b4MJn0zvGd",
-            "expanded_url": "https://twitter.com/i/web/status/1164454426985357313",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164453932934021000,
@@ -3517,10 +3927,22 @@
       "created_at": "Thu Aug 22 08:30:26 +0000 2019",
       "id": 1164454769978695700,
       "id_str": "1164454769978695684",
-      "text": "@wiruzx Начну с того, что получить визу таланта проще, чем вы думаете, особенно потому что она существует в двух ва… https://t.co/KbXITWoINy",
-      "truncated": true,
+      "full_text": "@wiruzx Начну с того, что получить визу таланта проще, чем вы думаете, особенно потому что она существует в двух вариантах: Exceptional Talent и Exceptional Promise.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        176
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              167,
+              176
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -3534,17 +3956,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/KbXITWoINy",
-            "expanded_url": "https://twitter.com/i/web/status/1164454769978695684",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164454426985357300,
@@ -3571,10 +3983,22 @@
       "created_at": "Thu Aug 22 08:31:07 +0000 2019",
       "id": 1164454943304142800,
       "id_str": "1164454943304142848",
-      "text": "@wiruzx Exceptional Talent(ET) - виза для признанных лидеров индустрии\n\nExceptional Promise(EP) - виза для восходящ… https://t.co/Gl81qQ2gBw",
-      "truncated": true,
+      "full_text": "@wiruzx Exceptional Talent(ET) - виза для признанных лидеров индустрии\n\nExceptional Promise(EP) - виза для восходящих лидеров индустрии\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        146
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              137,
+              146
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -3588,17 +4012,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/Gl81qQ2gBw",
-            "expanded_url": "https://twitter.com/i/web/status/1164454943304142848",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164454769978695700,
@@ -3625,10 +4039,22 @@
       "created_at": "Thu Aug 22 08:38:27 +0000 2019",
       "id": 1164456787879309300,
       "id_str": "1164456787879309314",
-      "text": "@wiruzx Полезное (и единственное известное мне) отличие ЕТ от ЕР это возможность получить вид на жительство после 3… https://t.co/lPQOBnGegd",
-      "truncated": true,
+      "full_text": "@wiruzx Полезное (и единственное известное мне) отличие ЕТ от ЕР это возможность получить вид на жительство после 3 лет, а не после 5 как на ЕР или Tier 2 General.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        174
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              165,
+              174
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -3642,17 +4068,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/lPQOBnGegd",
-            "expanded_url": "https://twitter.com/i/web/status/1164456787879309314",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164454943304142800,
@@ -3679,23 +4095,25 @@
       "created_at": "Thu Aug 22 08:38:27 +0000 2019",
       "id": 1164456789024432000,
       "id_str": "1164456789024432129",
-      "text": "Если сравнить EP и Tier 2 General, то ЕР не зависима от работодателя. \n\nЕсли временно перестали работать, то вас не… https://t.co/Hc28m9o7Cj",
-      "truncated": true,
+      "full_text": "Если сравнить EP и Tier 2 General, то ЕР не зависима от работодателя. \n\nЕсли временно перестали работать, то вас не будут пытаться депортировать домой. \n\nМожно стать контактором (LLC) что позволяет заработать намного больше денег сидя на контрактах по 6-12 месяцев.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/Hc28m9o7Cj",
-            "expanded_url": "https://twitter.com/i/web/status/1164456789024432129",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день4из7",
             "indices": [
-              117,
-              140
+              267,
+              276
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164456787879309300,
@@ -3722,23 +4140,25 @@
       "created_at": "Thu Aug 22 08:38:27 +0000 2019",
       "id": 1164456790119133200,
       "id_str": "1164456790119133187",
-      "text": "С точки зрения документации на ET и EP все одинаково, только планка на EP ниже.\n\nЯ делал EP вариант, так как вероят… https://t.co/dGDtPgKlri",
-      "truncated": true,
+      "full_text": "С точки зрения документации на ET и EP все одинаково, только планка на EP ниже.\n\nЯ делал EP вариант, так как вероятность получить визу больше.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        153
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/dGDtPgKlri",
-            "expanded_url": "https://twitter.com/i/web/status/1164456790119133187",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день4из7",
             "indices": [
-              117,
-              140
+              144,
+              153
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164456789024432000,
@@ -3765,8 +4185,12 @@
       "created_at": "Thu Aug 22 10:50:37 +0000 2019",
       "id": 1164490046889779200,
       "id_str": "1164490046889779200",
-      "text": "Получить абсолютно также.\n\nСогласно блогу @pomidorus средние обладатели:\n\nTier 1 EP Visa - 20-40 лет, 0-5 лет в инд… https://t.co/vPk6SoHDNJ",
-      "truncated": true,
+      "full_text": "Получить абсолютно также.\n\nСогласно блогу @pomidorus средние обладатели:\n\nTier 1 EP Visa - 20-40 лет, 0-5 лет в индустрии. И уже есть достижения, но еще есть куда расти.\n\nTier 1 ET Visa - 20-90 лет, 3-20 лет в индустрии. Признанный эксперт, часто цитируемый, иногда со стартапом. https://t.co/aFkYBF5rja",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3784,12 +4208,12 @@
         ],
         "urls": [
           {
-            "url": "https://t.co/vPk6SoHDNJ",
-            "expanded_url": "https://twitter.com/i/web/status/1164490046889779200",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/aFkYBF5rja",
+            "expanded_url": "https://twitter.com/igrekde/status/1164477843243450368",
+            "display_url": "twitter.com/igrekde/status…",
             "indices": [
-              117,
-              140
+              280,
+              303
             ]
           }
         ]
@@ -3811,12 +4235,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1164477843243450400,
       "quoted_status_id_str": "1164477843243450368",
+      "quoted_status_permalink": {
+        "url": "https://t.co/aFkYBF5rja",
+        "expanded": "https://twitter.com/igrekde/status/1164477843243450368",
+        "display": "twitter.com/igrekde/status…"
+      },
       "quoted_status": {
         "created_at": "Thu Aug 22 10:02:07 +0000 2019",
         "id": 1164477843243450400,
         "id_str": "1164477843243450368",
-        "text": "@mobileunderhood @wiruzx Так как ET то получить?",
+        "full_text": "@mobileunderhood @wiruzx Так как ET то получить?",
         "truncated": false,
+        "display_text_range": [
+          25,
+          48
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3876,10 +4309,22 @@
       "created_at": "Thu Aug 22 10:53:02 +0000 2019",
       "id": 1164490655105765400,
       "id_str": "1164490655105765376",
-      "text": "@pomidorus Есть мнение что можно спокойно подаваться на ЕТ, а вас если что пересмотрят на ЕР. \n\nТребования по докум… https://t.co/lR4HdBQ0jw",
-      "truncated": true,
+      "full_text": "@pomidorus Есть мнение что можно спокойно подаваться на ЕТ, а вас если что пересмотрят на ЕР. \n\nТребования по документам такие же.\nЕдинственное отличие это чекбокс при заполнении анкеты.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        197
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              188,
+              197
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -3893,17 +4338,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/lR4HdBQ0jw",
-            "expanded_url": "https://twitter.com/i/web/status/1164490655105765376",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164490046889779200,
@@ -3930,8 +4365,12 @@
       "created_at": "Thu Aug 22 10:56:00 +0000 2019",
       "id": 1164491405059854300,
       "id_str": "1164491405059854337",
-      "text": "Первым делом нужно прочитать требования на https://t.co/kVngMjMkuG\n\n#день4из7",
+      "full_text": "Первым делом нужно прочитать требования на https://t.co/kVngMjMkuG\n\n#день4из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        77
+      ],
       "entities": {
         "hashtags": [
           {
@@ -3982,20 +4421,43 @@
       "created_at": "Thu Aug 22 10:56:30 +0000 2019",
       "id": 1164491530473791500,
       "id_str": "1164491530473791488",
-      "text": "Дальше, очень полезно пообщаться с кем-то, кто уже делал визу. В моем случае мне помогало несколько человек, но сам… https://t.co/Fuo8vvCw0D",
-      "truncated": true,
+      "full_text": "Дальше, очень полезно пообщаться с кем-то, кто уже делал визу. В моем случае мне помогало несколько человек, но самую большую и безвозмездную инвестицию времени сделала @SBozhko. Света официальный Visa Ambassador, а также владыка https://t.co/smtZGOkuNc\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              255,
+              264
+            ]
+          }
+        ],
         "symbols": [],
-        "user_mentions": [],
+        "user_mentions": [
+          {
+            "screen_name": "SBozhko",
+            "name": "Sveta Bozhko",
+            "id": 140950559,
+            "id_str": "140950559",
+            "indices": [
+              169,
+              177
+            ]
+          }
+        ],
         "urls": [
           {
-            "url": "https://t.co/Fuo8vvCw0D",
-            "expanded_url": "https://twitter.com/i/web/status/1164491530473791488",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/smtZGOkuNc",
+            "expanded_url": "https://devzen.ru/",
+            "display_url": "devzen.ru",
             "indices": [
-              117,
-              140
+              230,
+              253
             ]
           }
         ]
@@ -4026,10 +4488,22 @@
       "created_at": "Thu Aug 22 10:57:56 +0000 2019",
       "id": 1164491890017886200,
       "id_str": "1164491890017886208",
-      "text": "@SBozhko Найти кого-то кто поможет советом и посмотрит на документы намного легче чем кажется, так как есть официал… https://t.co/t8WH3yi6Na",
-      "truncated": true,
+      "full_text": "@SBozhko Найти кого-то кто поможет советом и посмотрит на документы намного легче чем кажется, так как есть официальная сеть выпускников: https://t.co/cqflO9v7S2\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        172
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              163,
+              172
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -4045,12 +4519,12 @@
         ],
         "urls": [
           {
-            "url": "https://t.co/t8WH3yi6Na",
-            "expanded_url": "https://twitter.com/i/web/status/1164491890017886208",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/cqflO9v7S2",
+            "expanded_url": "https://technation.io/tech-nation-visa-alumni-network/",
+            "display_url": "technation.io/tech-nation-vi…",
             "indices": [
-              117,
-              140
+              138,
+              161
             ]
           }
         ]
@@ -4081,10 +4555,22 @@
       "created_at": "Thu Aug 22 10:59:06 +0000 2019",
       "id": 1164492184231579600,
       "id_str": "1164492184231579648",
-      "text": "@SBozhko @pomidorus сделал титаническую роботу по документации всего процесса, и ответил кажется на все возможные в… https://t.co/vlJWSpkU65",
-      "truncated": true,
+      "full_text": "@SBozhko @pomidorus сделал титаническую роботу по документации всего процесса, и ответил кажется на все возможные вопросы на своем блоге https://t.co/RghM3Raviz. Это самый полезный готовый материал по теме.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        217
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              208,
+              217
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -4110,12 +4596,12 @@
         ],
         "urls": [
           {
-            "url": "https://t.co/vlJWSpkU65",
-            "expanded_url": "https://twitter.com/i/web/status/1164492184231579648",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/RghM3Raviz",
+            "expanded_url": "http://aseleznov.com/",
+            "display_url": "aseleznov.com",
             "indices": [
-              117,
-              140
+              137,
+              160
             ]
           }
         ]
@@ -4146,10 +4632,22 @@
       "created_at": "Thu Aug 22 10:59:54 +0000 2019",
       "id": 1164492384492761000,
       "id_str": "1164492384492761088",
-      "text": "@SBozhko @pomidorus Есть разные ключевые критерии оценки, но большинство впирается в то что ваши достижения должны… https://t.co/lz4HU3H697",
-      "truncated": true,
+      "full_text": "@SBozhko @pomidorus Есть разные ключевые критерии оценки, но большинство впирается в то что ваши достижения должны признаны в сообществе.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        20,
+        148
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              139,
+              148
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -4173,17 +4671,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/lz4HU3H697",
-            "expanded_url": "https://twitter.com/i/web/status/1164492384492761088",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164492184231579600,
@@ -4210,10 +4698,22 @@
       "created_at": "Thu Aug 22 11:00:45 +0000 2019",
       "id": 1164492598003867600,
       "id_str": "1164492598003867648",
-      "text": "@SBozhko @pomidorus В моем случае я подавал статистику просмотра своих заметок (Medium), количество звездочек (Gith… https://t.co/Ypo6pLj6cs",
-      "truncated": true,
+      "full_text": "@SBozhko @pomidorus В моем случае я подавал статистику просмотра своих заметок (Medium), количество звездочек (Github) и количество подписчиков как доказательства того что у меня есть вклад в сообщество iOS разработчиков.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        20,
+        232
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              223,
+              232
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -4237,17 +4737,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/Ypo6pLj6cs",
-            "expanded_url": "https://twitter.com/i/web/status/1164492598003867648",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164492384492761000,
@@ -4274,10 +4764,22 @@
       "created_at": "Thu Aug 22 11:02:01 +0000 2019",
       "id": 1164492916842254300,
       "id_str": "1164492916842254337",
-      "text": "@SBozhko @pomidorus Документов нужно очень мало, у меня было 14 листов бумаги:\n\n- 10 листов \"доказательства\"\n- 2 ре… https://t.co/qc8JEYdsX7",
-      "truncated": true,
+      "full_text": "@SBozhko @pomidorus Документов нужно очень мало, у меня было 14 листов бумаги:\n\n- 10 листов \"доказательства\"\n- 2 рекомендательные письма\n- 1 резюме (CV)\n- 1 личное заявление (описываете что вы уникальная ❄️)\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        20,
+        218
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              209,
+              218
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -4301,17 +4803,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/qc8JEYdsX7",
-            "expanded_url": "https://twitter.com/i/web/status/1164492916842254337",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164492598003867600,
@@ -4338,10 +4830,22 @@
       "created_at": "Thu Aug 22 11:06:33 +0000 2019",
       "id": 1164494058196222000,
       "id_str": "1164494058196221952",
-      "text": "@SBozhko @pomidorus Очень важно содержимое документов, я много времени потратил на выбор самых сильных доказательст… https://t.co/PZRBnTr4C9",
-      "truncated": true,
+      "full_text": "@SBozhko @pomidorus Очень важно содержимое документов, я много времени потратил на выбор самых сильных доказательств. У вас жесткий лимит 10 листов. Поэтому нужно сжимать и выбирать самые яркие заслуги.\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        20,
+        213
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              204,
+              213
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -4365,17 +4869,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/PZRBnTr4C9",
-            "expanded_url": "https://twitter.com/i/web/status/1164494058196221952",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164492916842254300,
@@ -4402,10 +4896,22 @@
       "created_at": "Thu Aug 22 11:10:43 +0000 2019",
       "id": 1164495105908191200,
       "id_str": "1164495105908191232",
-      "text": "@SBozhko @pomidorus Также у меня 3 документа-доказательства были просто рекомендательными письмами:\n\n- СЕО стартапа… https://t.co/O2Dfkb7sDq",
-      "truncated": true,
+      "full_text": "@SBozhko @pomidorus Также у меня 3 документа-доказательства были просто рекомендательными письмами:\n\n- СЕО стартапа где я был \"ключевой инженер\"\n- СТО известной UK компании об инженерном вкладе\n- известного человека в iOS сообществе UK о вкладе в сообщество\n\n#день4из7",
+      "truncated": false,
+      "display_text_range": [
+        20,
+        268
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день4из7",
+            "indices": [
+              259,
+              268
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -4429,17 +4935,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/O2Dfkb7sDq",
-            "expanded_url": "https://twitter.com/i/web/status/1164495105908191232",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164494058196222000,
@@ -4466,8 +4962,12 @@
       "created_at": "Thu Aug 22 11:13:36 +0000 2019",
       "id": 1164495833846431700,
       "id_str": "1164495833846431744",
-      "text": "Да, каждый год 6 апреля начинаться новая квота 2000 мест. https://t.co/jqTjC3yYbG",
+      "full_text": "Да, каждый год 6 апреля начинаться новая квота 2000 мест. https://t.co/jqTjC3yYbG",
       "truncated": false,
+      "display_text_range": [
+        0,
+        57
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4501,12 +5001,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1164483474251800600,
       "quoted_status_id_str": "1164483474251800576",
+      "quoted_status_permalink": {
+        "url": "https://t.co/jqTjC3yYbG",
+        "expanded": "https://twitter.com/romk1n/status/1164483474251800576",
+        "display": "twitter.com/romk1n/status/…"
+      },
       "quoted_status": {
         "created_at": "Thu Aug 22 10:24:29 +0000 2019",
         "id": 1164483474251800600,
         "id_str": "1164483474251800576",
-        "text": "@mobileunderhood Надо ещё учитывать, что на EP есть лимит. Точно не помню какой сейчас но было 2 тысячи в год.",
+        "full_text": "@mobileunderhood Надо ещё учитывать, что на EP есть лимит. Точно не помню какой сейчас но было 2 тысячи в год.",
         "truncated": false,
+        "display_text_range": [
+          17,
+          110
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -4556,21 +5065,103 @@
       "created_at": "Thu Aug 22 13:55:11 +0000 2019",
       "id": 1164536496612872200,
       "id_str": "1164536496612872192",
-      "text": "Определение достижения намерено размытое. \n\nНужно доказать что вы делали что-то больше чем работали в IT компании,… https://t.co/RSeakP81WM",
-      "truncated": true,
+      "full_text": "Определение достижения намерено размытое. \n\nНужно доказать что вы делали что-то больше чем работали в IT компании, как ваша деятельность повлияла на индустрию. А также ваш (потенциальный) вклад в экономику UK. https://t.co/EQ5UNbQaB3 https://t.co/HJ4hOnuPHy",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        233
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/RSeakP81WM",
-            "expanded_url": "https://twitter.com/i/web/status/1164536496612872192",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/EQ5UNbQaB3",
+            "expanded_url": "https://twitter.com/dskibin/status/1164529005351100416",
+            "display_url": "twitter.com/dskibin/status…",
             "indices": [
-              116,
-              139
+              210,
+              233
             ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1164536492913496000,
+            "id_str": "1164536492913496064",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/media/EClDxTQWkAAGyNX.png",
+            "media_url_https": "https://pbs.twimg.com/media/EClDxTQWkAAGyNX.png",
+            "url": "https://t.co/HJ4hOnuPHy",
+            "display_url": "pic.twitter.com/HJ4hOnuPHy",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1164536496612872192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 556,
+                "h": 783,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 483,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 556,
+                "h": 783,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1164536492913496000,
+            "id_str": "1164536492913496064",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/media/EClDxTQWkAAGyNX.png",
+            "media_url_https": "https://pbs.twimg.com/media/EClDxTQWkAAGyNX.png",
+            "url": "https://t.co/HJ4hOnuPHy",
+            "display_url": "pic.twitter.com/HJ4hOnuPHy",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1164536496612872192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 556,
+                "h": 783,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 483,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 556,
+                "h": 783,
+                "resize": "fit"
+              }
+            }
           }
         ]
       },
@@ -4591,12 +5182,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1164529005351100400,
       "quoted_status_id_str": "1164529005351100416",
+      "quoted_status_permalink": {
+        "url": "https://t.co/EQ5UNbQaB3",
+        "expanded": "https://twitter.com/dskibin/status/1164529005351100416",
+        "display": "twitter.com/dskibin/status…"
+      },
       "quoted_status": {
         "created_at": "Thu Aug 22 13:25:25 +0000 2019",
         "id": 1164529005351100400,
         "id_str": "1164529005351100416",
-        "text": "@mobileunderhood @pomidorus Особо не изучал вопрос, поэтому заранее прошу прощения. Скажите,  что является достижен… https://t.co/rJoifbTpCG",
-        "truncated": true,
+        "full_text": "@mobileunderhood @pomidorus Особо не изучал вопрос, поэтому заранее прошу прощения. Скажите,  что является достижением в контексте этого вопроса?",
+        "truncated": false,
+        "display_text_range": [
+          28,
+          145
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -4622,17 +5222,7 @@
               ]
             }
           ],
-          "urls": [
-            {
-              "url": "https://t.co/rJoifbTpCG",
-              "expanded_url": "https://twitter.com/i/web/status/1164529005351100416",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
+          "urls": []
         },
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "in_reply_to_status_id": 1164490046889779200,
@@ -4666,8 +5256,12 @@
       "created_at": "Thu Aug 22 13:57:04 +0000 2019",
       "id": 1164536971563323400,
       "id_str": "1164536971563323394",
-      "text": "@M0rtyMerr @SBozhko @pomidorus Конечно. Хорошие IT-мемасики делать это разве не талант?",
+      "full_text": "@M0rtyMerr @SBozhko @pomidorus Конечно. Хорошие IT-мемасики делать это разве не талант?",
       "truncated": false,
+      "display_text_range": [
+        31,
+        87
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4730,8 +5324,12 @@
       "created_at": "Thu Aug 22 17:21:24 +0000 2019",
       "id": 1164588391578685400,
       "id_str": "1164588391578685440",
-      "text": "@ilyapuchka @SBozhko @pomidorus Максимум, нельзя больше 10 листов.",
+      "full_text": "@ilyapuchka @SBozhko @pomidorus Максимум, нельзя больше 10 листов.",
       "truncated": false,
+      "display_text_range": [
+        32,
+        66
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4794,8 +5392,12 @@
       "created_at": "Fri Aug 23 08:52:13 +0000 2019",
       "id": 1164822640202096600,
       "id_str": "1164822640202096642",
-      "text": "Сегодня я расскажу как перестать обсуждать iOS архитектуру. \n\n#день5из7",
+      "full_text": "Сегодня я расскажу как перестать обсуждать iOS архитектуру. \n\n#день5из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        71
+      ],
       "entities": {
         "hashtags": [
           {
@@ -4835,8 +5437,12 @@
       "created_at": "Fri Aug 23 08:53:45 +0000 2019",
       "id": 1164823026480758800,
       "id_str": "1164823026480758790",
-      "text": "iOS Архитектура — это религия для разработчиков. \n\n#день5из7",
+      "full_text": "iOS Архитектура — это религия для разработчиков. \n\n#день5из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        60
+      ],
       "entities": {
         "hashtags": [
           {
@@ -4876,8 +5482,12 @@
       "created_at": "Fri Aug 23 08:54:16 +0000 2019",
       "id": 1164823155522752500,
       "id_str": "1164823155522752514",
-      "text": "Религия — это миф о том как устроен мир\n\niOS Архитектура — это миф о том как должно быть устроено приложение\n\n#день5из7",
+      "full_text": "Религия — это миф о том как устроен мир\n\niOS Архитектура — это миф о том как должно быть устроено приложение\n\n#день5из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
       "entities": {
         "hashtags": [
           {
@@ -4917,23 +5527,25 @@
       "created_at": "Fri Aug 23 08:54:52 +0000 2019",
       "id": 1164823306681274400,
       "id_str": "1164823306681274368",
-      "text": "Какая религия \"правильная\"? Буддизм? MVP? Ислам? MVVM? Христианство? MVC?\n\nЯ считаю все религии полезны. Каждая учи… https://t.co/esmRvrJ02i",
-      "truncated": true,
+      "full_text": "Какая религия \"правильная\"? Буддизм? MVP? Ислам? MVVM? Христианство? MVC?\n\nЯ считаю все религии полезны. Каждая учит как сделать мир (приложение) лучше.\n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/esmRvrJ02i",
-            "expanded_url": "https://twitter.com/i/web/status/1164823306681274368",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              154,
+              163
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164823155522752500,
@@ -4960,23 +5572,25 @@
       "created_at": "Fri Aug 23 08:55:48 +0000 2019",
       "id": 1164823544074666000,
       "id_str": "1164823544074665985",
-      "text": "Стоит ли изучать и практиковать разные архитектуры? Безусловно, это единственный способ достичь просветления в теме… https://t.co/8y3jbpeFvK",
-      "truncated": true,
+      "full_text": "Стоит ли изучать и практиковать разные архитектуры? Безусловно, это единственный способ достичь просветления в теме проектирования приложений.\n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        153
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/8y3jbpeFvK",
-            "expanded_url": "https://twitter.com/i/web/status/1164823544074665985",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              144,
+              153
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164823306681274400,
@@ -5003,23 +5617,25 @@
       "created_at": "Fri Aug 23 08:57:57 +0000 2019",
       "id": 1164824085047545900,
       "id_str": "1164824085047545858",
-      "text": "Религия — это хорошее начало развития морального компаса\n\niOS Архитектура — это хорошее начало развития навыка прое… https://t.co/DKrPXcbEkS",
-      "truncated": true,
+      "full_text": "Религия — это хорошее начало развития морального компаса\n\niOS Архитектура — это хорошее начало развития навыка проектирования приложения\n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        147
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/DKrPXcbEkS",
-            "expanded_url": "https://twitter.com/i/web/status/1164824085047545858",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              138,
+              147
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164823544074666000,
@@ -5046,23 +5662,25 @@
       "created_at": "Fri Aug 23 08:58:37 +0000 2019",
       "id": 1164824250252812300,
       "id_str": "1164824250252812290",
-      "text": "Сила религии изменять мир вокруг зависит от количества последователей, если вашей архитектуре никто не следует, как… https://t.co/S33aCbpFJ9",
-      "truncated": true,
+      "full_text": "Сила религии изменять мир вокруг зависит от количества последователей, если вашей архитектуре никто не следует, какая разница что вы считаете ее лучшей?\n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/S33aCbpFJ9",
-            "expanded_url": "https://twitter.com/i/web/status/1164824250252812290",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              154,
+              163
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164824085047545900,
@@ -5089,23 +5707,25 @@
       "created_at": "Fri Aug 23 08:59:16 +0000 2019",
       "id": 1164824416716374000,
       "id_str": "1164824416716374016",
-      "text": "Не всем разработчика приходиться выбирать архитектуру, часто в команде уже есть критическая масса последователей. В… https://t.co/cJ7OzuNBQt",
-      "truncated": true,
+      "full_text": "Не всем разработчика приходиться выбирать архитектуру, часто в команде уже есть критическая масса последователей. Возможность улучшать/менять архитектуру зависит исключительно от их толерантности к новым идеям. \n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/cJ7OzuNBQt",
-            "expanded_url": "https://twitter.com/i/web/status/1164824416716374016",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              213,
+              222
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164824250252812300,
@@ -5132,23 +5752,25 @@
       "created_at": "Fri Aug 23 09:02:26 +0000 2019",
       "id": 1164825211499237400,
       "id_str": "1164825211499237377",
-      "text": "Также под которую мы пишем платформа уже следует какой-то архитектуре \"из коробки\". С этой архитектурой идеей часто… https://t.co/bop7KShd1N",
-      "truncated": true,
+      "full_text": "Также под которую мы пишем платформа уже следует какой-то архитектуре \"из коробки\". С этой архитектурой идеей часто очень сложно бороться, и не всегда имеет смысл.\n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/bop7KShd1N",
-            "expanded_url": "https://twitter.com/i/web/status/1164825211499237377",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              165,
+              174
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164824416716374000,
@@ -5175,23 +5797,25 @@
       "created_at": "Fri Aug 23 09:03:51 +0000 2019",
       "id": 1164825569986400300,
       "id_str": "1164825569986400257",
-      "text": "Вариант MVC от Apple это каменная табличка с 10 заповедями, которым нужно следовать, только их забыли написать, поэ… https://t.co/sqP3LE2aIM",
-      "truncated": true,
+      "full_text": "Вариант MVC от Apple это каменная табличка с 10 заповедями, которым нужно следовать, только их забыли написать, поэтому просто табличка.\n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        147
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/sqP3LE2aIM",
-            "expanded_url": "https://twitter.com/i/web/status/1164825569986400257",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              138,
+              147
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164825211499237400,
@@ -5218,23 +5842,25 @@
       "created_at": "Fri Aug 23 09:06:55 +0000 2019",
       "id": 1164826338043154400,
       "id_str": "1164826338043154432",
-      "text": "В итоге iOS разработчики, предоставлены сами себе, начали смотреть по сторонам и перетягивать другие архитектуры из… https://t.co/qEVKR8uriN",
-      "truncated": true,
+      "full_text": "В итоге iOS разработчики, предоставлены сами себе, начали смотреть по сторонам и перетягивать другие архитектуры из 3 букв из соседних цехов.\n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        152
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/qEVKR8uriN",
-            "expanded_url": "https://twitter.com/i/web/status/1164826338043154432",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              143,
+              152
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164825569986400300,
@@ -5261,8 +5887,12 @@
       "created_at": "Fri Aug 23 09:07:32 +0000 2019",
       "id": 1164826494620672000,
       "id_str": "1164826494620672001",
-      "text": "Добавляя новые буквы (и наделяя их сакральным смыслом) началась гонка вооружения  MVP/MVVM/VIPER/SILVER/DISCOVER/PIDOR.\n\n#день5из7",
+      "full_text": "Добавляя новые буквы (и наделяя их сакральным смыслом) началась гонка вооружения  MVP/MVVM/VIPER/SILVER/DISCOVER/PIDOR.\n\n#день5из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        130
+      ],
       "entities": {
         "hashtags": [
           {
@@ -5302,20 +5932,32 @@
       "created_at": "Fri Aug 23 09:10:47 +0000 2019",
       "id": 1164827311008391200,
       "id_str": "1164827311008391170",
-      "text": "Оговорюсь что Clean Swift Architecture (aka VIP) (набирающий популярность у павших от ВИПЕРА) это для сектантов и н… https://t.co/7Uc89hLhKI",
-      "truncated": true,
+      "full_text": "Оговорюсь что Clean Swift Architecture (aka VIP) (набирающий популярность у павших от ВИПЕРА) это для сектантов и не имеет ничего общего с Uncle Bob's Clean Architecture.\n\n#день5из7 https://t.co/t7vyrF4twO",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        181
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день5из7",
+            "indices": [
+              172,
+              181
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/7Uc89hLhKI",
-            "expanded_url": "https://twitter.com/i/web/status/1164827311008391170",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/t7vyrF4twO",
+            "expanded_url": "https://twitter.com/simonovvasiliy/status/1164824768773627905",
+            "display_url": "twitter.com/simonovvasiliy…",
             "indices": [
-              117,
-              140
+              182,
+              205
             ]
           }
         ]
@@ -5337,12 +5979,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1164824768773628000,
       "quoted_status_id_str": "1164824768773627905",
+      "quoted_status_permalink": {
+        "url": "https://t.co/t7vyrF4twO",
+        "expanded": "https://twitter.com/simonovvasiliy/status/1164824768773627905",
+        "display": "twitter.com/simonovvasiliy…"
+      },
       "quoted_status": {
         "created_at": "Fri Aug 23 09:00:40 +0000 2019",
         "id": 1164824768773628000,
         "id_str": "1164824768773627905",
-        "text": "@mobileunderhood Clean Architecture конечно! Сразу же подразумевается что все остальное unclean и даже dirty",
+        "full_text": "@mobileunderhood Clean Architecture конечно! Сразу же подразумевается что все остальное unclean и даже dirty",
         "truncated": false,
+        "display_text_range": [
+          17,
+          108
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -5392,23 +6043,25 @@
       "created_at": "Fri Aug 23 09:12:35 +0000 2019",
       "id": 1164827763867390000,
       "id_str": "1164827763867389952",
-      "text": "Где началось наше занимательное архитектурное путешествие? \n\nНа Apple's MVC. \n\nА почему мы не говорим о том что был… https://t.co/AfMMnmsuWD",
-      "truncated": true,
+      "full_text": "Где началось наше занимательное архитектурное путешествие? \n\nНа Apple's MVC. \n\nА почему мы не говорим о том что было до этого? Разве раньше не было архитектурных проблем?\n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        181
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/AfMMnmsuWD",
-            "expanded_url": "https://twitter.com/i/web/status/1164827763867389952",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              172,
+              181
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164826494620672000,
@@ -5435,20 +6088,32 @@
       "created_at": "Fri Aug 23 09:52:33 +0000 2019",
       "id": 1164837824727617500,
       "id_str": "1164837824727617538",
-      "text": "Откладываем архитектурные заметки с Medium в сторону и погружаемся в историю.\n\n1979, Trygve Reenskaug опубликовал о… https://t.co/LpTs4wfvcQ",
-      "truncated": true,
+      "full_text": "Откладываем архитектурные заметки с Medium в сторону и погружаемся в историю.\n\n1979, Trygve Reenskaug опубликовал оригинальный доклад об MVC. \n\nЕсли хотите понять где Apple сделала шаг не туда, читайте оригинал и делайте выводы сами. https://t.co/YozJCsfsgD\n\n#день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день5из7",
+            "indices": [
+              259,
+              268
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/LpTs4wfvcQ",
-            "expanded_url": "https://twitter.com/i/web/status/1164837824727617538",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/YozJCsfsgD",
+            "expanded_url": "http://folk.uio.no/trygver/2007/MVC_Originals.pdf",
+            "display_url": "folk.uio.no/trygver/2007/M…",
             "indices": [
-              117,
-              140
+              234,
+              257
             ]
           }
         ]
@@ -5479,8 +6144,12 @@
       "created_at": "Fri Aug 23 09:53:31 +0000 2019",
       "id": 1164838067670139000,
       "id_str": "1164838067670138880",
-      "text": "Очень сильная заметка-разбор оригинального MVC (не пропустите ссылку на вторую часть в конце текста)\n\nhttps://t.co/f93TCzZ0Cx\n\n#день5из7",
+      "full_text": "Очень сильная заметка-разбор оригинального MVC (не пропустите ссылку на вторую часть в конце текста)\n\nhttps://t.co/f93TCzZ0Cx\n\n#день5из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        136
+      ],
       "entities": {
         "hashtags": [
           {
@@ -5531,8 +6200,12 @@
       "created_at": "Fri Aug 23 09:54:05 +0000 2019",
       "id": 1164838210133885000,
       "id_str": "1164838210133884928",
-      "text": "Моя заметка показывающая как всякие ВИПЕРы не далеко-то убежали от MVC\n\nhttps://t.co/63QaxsVq8Q\n\n#день5из7",
+      "full_text": "Моя заметка показывающая как всякие ВИПЕРы не далеко-то убежали от MVC\n\nhttps://t.co/63QaxsVq8Q\n\n#день5из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        106
+      ],
       "entities": {
         "hashtags": [
           {
@@ -5583,8 +6256,12 @@
       "created_at": "Fri Aug 23 13:17:06 +0000 2019",
       "id": 1164889298807771100,
       "id_str": "1164889298807771137",
-      "text": "12 Мая 1979, день рождения MVC\n\n#ios #holiday",
+      "full_text": "12 Мая 1979, день рождения MVC\n\n#ios #holiday",
       "truncated": false,
+      "display_text_range": [
+        0,
+        45
+      ],
       "entities": {
         "hashtags": [
           {
@@ -5631,8 +6308,12 @@
       "created_at": "Fri Aug 23 13:17:06 +0000 2019",
       "id": 1164889300653076500,
       "id_str": "1164889300653076480",
-      "text": "Но если бы Trygve не переименовал THING-MODEL-VIEW-EDITOR в MODEL-VIEW-CONTROLLER у нас бы сейчас был TMVE\n\n#день5из7",
+      "full_text": "Но если бы Trygve не переименовал THING-MODEL-VIEW-EDITOR в MODEL-VIEW-CONTROLLER у нас бы сейчас был TMVE\n\n#день5из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        117
+      ],
       "entities": {
         "hashtags": [
           {
@@ -5672,21 +6353,101 @@
       "created_at": "Fri Aug 23 13:19:10 +0000 2019",
       "id": 1164889820553986000,
       "id_str": "1164889820553986050",
-      "text": "Еще накину на Clean Swift Architecture(VIP)\n\nСверху Clean Architecture\nСнизу Clean Swift Architecture\n\nНе говоря уж… https://t.co/MXWAAh8bMA",
-      "truncated": true,
+      "full_text": "Еще накину на Clean Swift Architecture(VIP)\n\nСверху Clean Architecture\nСнизу Clean Swift Architecture\n\nНе говоря уже о \"Worker\"\n\n#день5из7 https://t.co/m6MYpzM9pM",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        138
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "день5из7",
+            "indices": [
+              129,
+              138
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
+        "urls": [],
+        "media": [
           {
-            "url": "https://t.co/MXWAAh8bMA",
-            "expanded_url": "https://twitter.com/i/web/status/1164889820553986050",
-            "display_url": "twitter.com/i/web/status/1…",
+            "id": 1164889813507616800,
+            "id_str": "1164889813507616774",
             "indices": [
-              117,
-              140
-            ]
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECqFHRCXsAY2ETn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECqFHRCXsAY2ETn.jpg",
+            "url": "https://t.co/m6MYpzM9pM",
+            "display_url": "pic.twitter.com/m6MYpzM9pM",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1164889820553986050/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 838,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 475,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 958,
+                "h": 1372,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1164889813507616800,
+            "id_str": "1164889813507616774",
+            "indices": [
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECqFHRCXsAY2ETn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECqFHRCXsAY2ETn.jpg",
+            "url": "https://t.co/m6MYpzM9pM",
+            "display_url": "pic.twitter.com/m6MYpzM9pM",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1164889820553986050/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 838,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 475,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 958,
+                "h": 1372,
+                "resize": "fit"
+              }
+            }
           }
         ]
       },
@@ -5716,23 +6477,25 @@
       "created_at": "Fri Aug 23 13:46:07 +0000 2019",
       "id": 1164896604580720600,
       "id_str": "1164896604580720640",
-      "text": "Оригинальный МVC подразумевал что Модель и Вид живут отдельно и их можно легко подменять. Но мало кто пишет UI неза… https://t.co/W8qKJmOmqI",
-      "truncated": true,
+      "full_text": "Оригинальный МVC подразумевал что Модель и Вид живут отдельно и их можно легко подменять. Но мало кто пишет UI независимый от Модели/Домена. \n\nЕсли положить UI в отдельный фреймворк который не импортирует Модель/Домен. То его можно строить и тестировать отдельно. #день5из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/W8qKJmOmqI",
-            "expanded_url": "https://twitter.com/i/web/status/1164896604580720640",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день5из7",
             "indices": [
-              117,
-              140
+              264,
+              273
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164889300653076500,
@@ -5759,21 +6522,112 @@
       "created_at": "Fri Aug 23 14:34:10 +0000 2019",
       "id": 1164908694817202200,
       "id_str": "1164908694817202176",
-      "text": "Конкретный пример, вот в такие карточки можно прокидывать сущности модели типа User.\n\ncard.user = user:\n\nА можно де… https://t.co/MSNNWWVNnQ",
-      "truncated": true,
+      "full_text": "Конкретный пример, вот в такие карточки можно прокидывать сущности модели типа User.\n\ncard.user = user:\n\nА можно делать их независимыми от Домена:\n\n// Mediator\ncardData = {\n   title = user.title\n   subtitle = user.handle \n}\n\n// UI Framework:\nhttps://t.co/FbyoHaaqWv = cardData https://t.co/Xod1QpYMlJ https://t.co/3g3lQxIEuN",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        300
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/MSNNWWVNnQ",
-            "expanded_url": "https://twitter.com/i/web/status/1164908694817202176",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/FbyoHaaqWv",
+            "expanded_url": "http://card.data",
+            "display_url": "card.data",
             "indices": [
-              117,
-              140
+              242,
+              265
             ]
+          },
+          {
+            "url": "https://t.co/Xod1QpYMlJ",
+            "expanded_url": "https://twitter.com/AndreyMishanin/status/1164901085951221762",
+            "display_url": "twitter.com/AndreyMishanin…",
+            "indices": [
+              277,
+              300
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1164908691277123600,
+            "id_str": "1164908691277123586",
+            "indices": [
+              301,
+              324
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECqWSGNWkAIr2s6.png",
+            "media_url_https": "https://pbs.twimg.com/media/ECqWSGNWkAIr2s6.png",
+            "url": "https://t.co/3g3lQxIEuN",
+            "display_url": "pic.twitter.com/3g3lQxIEuN",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1164908694817202176/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 366,
+                "h": 301,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 366,
+                "h": 301,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 366,
+                "h": 301,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1164908691277123600,
+            "id_str": "1164908691277123586",
+            "indices": [
+              301,
+              324
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECqWSGNWkAIr2s6.png",
+            "media_url_https": "https://pbs.twimg.com/media/ECqWSGNWkAIr2s6.png",
+            "url": "https://t.co/3g3lQxIEuN",
+            "display_url": "pic.twitter.com/3g3lQxIEuN",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1164908694817202176/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 366,
+                "h": 301,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 366,
+                "h": 301,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 366,
+                "h": 301,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
           }
         ]
       },
@@ -5794,12 +6648,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1164901085951221800,
       "quoted_status_id_str": "1164901085951221762",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Xod1QpYMlJ",
+        "expanded": "https://twitter.com/AndreyMishanin/status/1164901085951221762",
+        "display": "twitter.com/AndreyMishanin…"
+      },
       "quoted_status": {
         "created_at": "Fri Aug 23 14:03:56 +0000 2019",
         "id": 1164901085951221800,
         "id_str": "1164901085951221762",
-        "text": "@mobileunderhood Можешь пояснить, что именно значит «UI независимый от модели / домена»?",
+        "full_text": "@mobileunderhood Можешь пояснить, что именно значит «UI независимый от модели / домена»?",
         "truncated": false,
+        "display_text_range": [
+          17,
+          88
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -5849,23 +6712,17 @@
       "created_at": "Fri Aug 23 14:34:11 +0000 2019",
       "id": 1164908697094623200,
       "id_str": "1164908697094623238",
-      "text": "То есть писать сначала карточку которая использует исключительно типы из вашего UI фрейморка.\n\nПокрывать ее тестами… https://t.co/5865CwTih0",
-      "truncated": true,
+      "full_text": "То есть писать сначала карточку которая использует исключительно типы из вашего UI фрейморка.\n\nПокрывать ее тестами, а потом в отдельном месте прикручивать свой домен (инжектить данные User или что угодно)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        205
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/5865CwTih0",
-            "expanded_url": "https://twitter.com/i/web/status/1164908697094623238",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164908694817202200,
@@ -5892,8 +6749,12 @@
       "created_at": "Fri Aug 23 14:34:11 +0000 2019",
       "id": 1164908698499735600,
       "id_str": "1164908698499735552",
-      "text": "Хороший доклад про то как делать \"props-driven UI\"\nhttps://t.co/UqxIgs62KI",
+      "full_text": "Хороший доклад про то как делать \"props-driven UI\"\nhttps://t.co/UqxIgs62KI",
       "truncated": false,
+      "display_text_range": [
+        0,
+        74
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5936,8 +6797,12 @@
       "created_at": "Fri Aug 23 19:53:27 +0000 2019",
       "id": 1164989043559547000,
       "id_str": "1164989043559546882",
-      "text": "@AndreyMishanin Есть такое дело, но альтернатива это подход когда UI как последний слой знающий обо всем. Тогда неб… https://t.co/97WWZ7TiHH",
-      "truncated": true,
+      "full_text": "@AndreyMishanin Есть такое дело, но альтернатива это подход когда UI как последний слой знающий обо всем. Тогда небольшие изменения в Модели вызывают каскад изменений включая UI код который бы казалось должен быть ни при чем.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        225
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5953,17 +6818,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/97WWZ7TiHH",
-            "expanded_url": "https://twitter.com/i/web/status/1164989043559546882",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1164979060998582300,
@@ -5990,8 +6845,12 @@
       "created_at": "Sat Aug 24 07:23:30 +0000 2019",
       "id": 1165162701527666700,
       "id_str": "1165162701527666688",
-      "text": "@siarheimisko Ну для тех у кого вся логика во ViewController’aх это одно и тоже :) Отдельная интересная тема это на… https://t.co/TaOlwFU24z",
-      "truncated": true,
+      "full_text": "@siarheimisko Ну для тех у кого вся логика во ViewController’aх это одно и тоже :) Отдельная интересная тема это навигация, но это уже другая история...",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        152
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6007,17 +6866,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/TaOlwFU24z",
-            "expanded_url": "https://twitter.com/i/web/status/1165162701527666688",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165148355661566000,
@@ -6044,8 +6893,12 @@
       "created_at": "Sat Aug 24 07:25:47 +0000 2019",
       "id": 1165163277430775800,
       "id_str": "1165163277430775810",
-      "text": "Сегодня (не) любимая тема всех разработчиков - собеседования! Поехали! #день6из7",
+      "full_text": "Сегодня (не) любимая тема всех разработчиков - собеседования! Поехали! #день6из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        80
+      ],
       "entities": {
         "hashtags": [
           {
@@ -6085,23 +6938,25 @@
       "created_at": "Sat Aug 24 07:27:05 +0000 2019",
       "id": 1165163604880048000,
       "id_str": "1165163604880048128",
-      "text": "Собеседования на первую работу это вообще цирк. У вас нету опыта и у нанимателя есть только два варианта: закидыват… https://t.co/EWOTbuLUtT",
-      "truncated": true,
+      "full_text": "Собеседования на первую работу это вообще цирк. У вас нету опыта и у нанимателя есть только два варианта: закидывать задачки алгоритмические (вы же только что в универе это проходили, да?) или давать писать код и смотреть что получаеться. #день6из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/EWOTbuLUtT",
-            "expanded_url": "https://twitter.com/i/web/status/1165163604880048128",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день6из7",
             "indices": [
-              117,
-              140
+              239,
+              248
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165163277430775800,
@@ -6128,23 +6983,25 @@
       "created_at": "Sat Aug 24 07:29:23 +0000 2019",
       "id": 1165164182670651400,
       "id_str": "1165164182670651393",
-      "text": "Дальше, чем ближе вы подбираетесь к топовым компаниям в своем регионе тем сложнее и структурирование становится про… https://t.co/wdMJS77a8e",
-      "truncated": true,
+      "full_text": "Дальше, чем ближе вы подбираетесь к топовым компаниям в своем регионе тем сложнее и структурирование становится процесс. \nУ меня всегда было так что чем сложнее задания спрашивают собеседующие - тем интереснее потом работать в компании. #день6из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        246
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/wdMJS77a8e",
-            "expanded_url": "https://twitter.com/i/web/status/1165164182670651393",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день6из7",
             "indices": [
-              117,
-              140
+              237,
+              246
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165163604880048000,
@@ -6171,8 +7028,12 @@
       "created_at": "Sat Aug 24 07:31:34 +0000 2019",
       "id": 1165164731860230100,
       "id_str": "1165164731860230144",
-      "text": "Есть ли корреляция между сложностью собеседования и техническим уровнем собеседующих? #день6из7",
+      "full_text": "Есть ли корреляция между сложностью собеседования и техническим уровнем собеседующих? #день6из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        95
+      ],
       "entities": {
         "hashtags": [
           {
@@ -6212,23 +7073,25 @@
       "created_at": "Sat Aug 24 07:35:35 +0000 2019",
       "id": 1165165743169855500,
       "id_str": "1165165743169855489",
-      "text": "У tech гигантов не спрашивают специфические знания платформы и часто нанимают просто software engineer. Также у них… https://t.co/9WtDu2lBJb",
-      "truncated": true,
+      "full_text": "У tech гигантов не спрашивают специфические знания платформы и часто нанимают просто software engineer. Также у них похожая структура собеседования и куча отзывов в интернетах. Это сильно помогает подготовиться. #день6из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/9WtDu2lBJb",
-            "expanded_url": "https://twitter.com/i/web/status/1165165743169855489",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день6из7",
             "indices": [
-              117,
-              140
+              212,
+              221
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165164731860230100,
@@ -6255,8 +7118,12 @@
       "created_at": "Sat Aug 24 07:39:31 +0000 2019",
       "id": 1165166731096133600,
       "id_str": "1165166731096133633",
-      "text": "Компании по меньше обычно не имеют устоявшихся практик и спрашивают там то, что сотрудники считают важным. #день6из7",
+      "full_text": "Компании по меньше обычно не имеют устоявшихся практик и спрашивают там то, что сотрудники считают важным. #день6из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        116
+      ],
       "entities": {
         "hashtags": [
           {
@@ -6296,23 +7163,25 @@
       "created_at": "Sat Aug 24 09:00:38 +0000 2019",
       "id": 1165187147671965700,
       "id_str": "1165187147671965696",
-      "text": "Проваливать собеседования - это не ошибка. Ошибка это не ходить на интервью и считать что уже самый умный, это коне… https://t.co/uzZo54OcJg",
-      "truncated": true,
+      "full_text": "Проваливать собеседования - это не ошибка. Ошибка это не ходить на интервью и считать что уже самый умный, это конечно проще. Провальные интервью учат нас намного больше чем успешные. #день6из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        193
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/uzZo54OcJg",
-            "expanded_url": "https://twitter.com/i/web/status/1165187147671965696",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день6из7",
             "indices": [
-              117,
-              140
+              184,
+              193
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165166731096133600,
@@ -6339,23 +7208,25 @@
       "created_at": "Sat Aug 24 09:02:32 +0000 2019",
       "id": 1165187625508114400,
       "id_str": "1165187625508114434",
-      "text": "Все собеседования построены сотрудниками для самовалидации собственных знаний. Поэтому не извергайте гроздья гнева… https://t.co/hwhnVOTZcd",
-      "truncated": true,
+      "full_text": "Все собеседования построены сотрудниками для самовалидации собственных знаний. Поэтому не извергайте гроздья гнева и не принимайте \"глупые\" вопросы как личное оскорбление, а просто берите себе на заметку. #день6из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        214
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/hwhnVOTZcd",
-            "expanded_url": "https://twitter.com/i/web/status/1165187625508114434",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день6из7",
             "indices": [
-              116,
-              139
+              205,
+              214
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165187147671965700,
@@ -6382,23 +7253,25 @@
       "created_at": "Sat Aug 24 09:03:15 +0000 2019",
       "id": 1165187806655844400,
       "id_str": "1165187806655844352",
-      "text": "У неопытных собеседующих есть такой подход который можно назвать \"техническая беседа о жизни\". Это очень привлекате… https://t.co/ePfNm1yazW",
-      "truncated": true,
+      "full_text": "У неопытных собеседующих есть такой подход который можно назвать \"техническая беседа о жизни\". Это очень привлекательный для собеседующего подход так как он задает \"интересные\" вопросы находясь в зоне комфорта. При этом он как бы \"копает в глубь\". #день6из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/ePfNm1yazW",
-            "expanded_url": "https://twitter.com/i/web/status/1165187806655844352",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день6из7",
             "indices": [
-              117,
-              140
+              248,
+              257
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165187625508114400,
@@ -6425,23 +7298,25 @@
       "created_at": "Sat Aug 24 09:05:34 +0000 2019",
       "id": 1165188386392596500,
       "id_str": "1165188386392596480",
-      "text": "Такой подход очень опасен для собеседующих: \n- они дойдут до уровня инкомпетенции, кандидата или своей. \n- они буде… https://t.co/Dg2l7dsE0g",
-      "truncated": true,
+      "full_text": "Такой подход очень опасен для собеседующих: \n- они дойдут до уровня инкомпетенции, кандидата или своей. \n- они будет спрашивать разных кандидатов разные вопросы (дискриминация возможностей) \n- их оценка будет очень сильно зависеть от того как вы \"сошлись\" с кандидатом \n#день6из7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
+        "hashtags": [
           {
-            "url": "https://t.co/Dg2l7dsE0g",
-            "expanded_url": "https://twitter.com/i/web/status/1165188386392596480",
-            "display_url": "twitter.com/i/web/status/1…",
+            "text": "день6из7",
             "indices": [
-              117,
-              140
+              270,
+              279
             ]
           }
-        ]
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165187806655844400,
@@ -6468,23 +7343,17 @@
       "created_at": "Sat Aug 24 09:26:25 +0000 2019",
       "id": 1165193633928241200,
       "id_str": "1165193633928241152",
-      "text": "Не так важно что спрашивается а важно чтобы была \"ровная планка\" (even ground). То-есть вы спрашиваете всегда одни… https://t.co/IGEDEvCzR7",
-      "truncated": true,
+      "full_text": "Не так важно что спрашивается а важно чтобы была \"ровная планка\" (even ground). То-есть вы спрашиваете всегда одни и те же вопросы и какдидат зарабатывает баллы. В конце у вас список с оценками, удобно, честно и мало места для бессознательных предубеждений (unconscious bias).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/IGEDEvCzR7",
-            "expanded_url": "https://twitter.com/i/web/status/1165193633928241152",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165188386392596500,
@@ -6511,8 +7380,12 @@
       "created_at": "Sat Aug 24 15:57:33 +0000 2019",
       "id": 1165292066341118000,
       "id_str": "1165292066341117953",
-      "text": "@aleks_voronov По логике вещей, ViewControllers должны быть самими «тонкими» потому что они медиаторы и их нельзя п… https://t.co/YzDY5viFKt",
-      "truncated": true,
+      "full_text": "@aleks_voronov По логике вещей, ViewControllers должны быть самими «тонкими» потому что они медиаторы и их нельзя переиспользовать.\nЧего же тогда только ленивый не жалуется на massive view controllers?",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        201
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6528,17 +7401,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/YzDY5viFKt",
-            "expanded_url": "https://twitter.com/i/web/status/1165292066341117953",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165249329793249300,
@@ -6565,8 +7428,12 @@
       "created_at": "Sat Aug 24 16:22:55 +0000 2019",
       "id": 1165298450046623700,
       "id_str": "1165298450046623744",
-      "text": "Отдаю на общее растерзание список iOS вопросов, которые я когда-то спрашивал на первом интервью. https://t.co/njyuN3KsmA #день6из7",
+      "full_text": "Отдаю на общее растерзание список iOS вопросов, которые я когда-то спрашивал на первом интервью. https://t.co/njyuN3KsmA #день6из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        130
+      ],
       "entities": {
         "hashtags": [
           {
@@ -6617,8 +7484,12 @@
       "created_at": "Sat Aug 24 17:01:19 +0000 2019",
       "id": 1165308116126318600,
       "id_str": "1165308116126318592",
-      "text": "@aleks_voronov Скрестив View и Controller(Mediator) Apple обрекла разработчиков на двухслойную архитектуру View+Mod… https://t.co/6tmNfN539q",
-      "truncated": true,
+      "full_text": "@aleks_voronov Скрестив View и Controller(Mediator) Apple обрекла разработчиков на двухслойную архитектуру View+Model. \nТри слоя с отдельным Контроллером-Медиатором «принимающим удар» изменений из View и Model это то, что я ожидаю когда вижу MVC.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        246
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6634,17 +7505,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/6tmNfN539q",
-            "expanded_url": "https://twitter.com/i/web/status/1165308116126318592",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "in_reply_to_status_id": 1165302452608020500,
@@ -6671,20 +7532,24 @@
       "created_at": "Sat Aug 24 20:16:53 +0000 2019",
       "id": 1165357331019907000,
       "id_str": "1165357331019907073",
-      "text": "То есть, если в компании есть 3 разработчика задротa то и нечего набирать скиловых кандидатов с которыми не сошлись… https://t.co/CNuAKSfxn4",
-      "truncated": true,
+      "full_text": "То есть, если в компании есть 3 разработчика задротa то и нечего набирать скиловых кандидатов с которыми не сошлись в интервью? https://t.co/uwPd3FxOzK",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/CNuAKSfxn4",
-            "expanded_url": "https://twitter.com/i/web/status/1165357331019907073",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/uwPd3FxOzK",
+            "expanded_url": "https://twitter.com/Kan__Nabi/status/1165213872124387328",
+            "display_url": "twitter.com/Kan__Nabi/stat…",
             "indices": [
-              117,
-              140
+              128,
+              151
             ]
           }
         ]
@@ -6706,12 +7571,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1165213872124387300,
       "quoted_status_id_str": "1165213872124387328",
+      "quoted_status_permalink": {
+        "url": "https://t.co/uwPd3FxOzK",
+        "expanded": "https://twitter.com/Kan__Nabi/status/1165213872124387328",
+        "display": "twitter.com/Kan__Nabi/stat…"
+      },
       "quoted_status": {
         "created_at": "Sat Aug 24 10:46:50 +0000 2019",
         "id": 1165213872124387300,
         "id_str": "1165213872124387328",
-        "text": "@mobileunderhood Для небольших компаний компаний последний пункт минусом по сути и не является. Если собеседуемый с… https://t.co/4u1v2XSEvb",
-        "truncated": true,
+        "full_text": "@mobileunderhood Для небольших компаний компаний последний пункт минусом по сути и не является. Если собеседуемый сильно не \"сходится\" с членом команды, то возможно для всех лучше, если оффера не случится.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          205
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -6727,17 +7601,7 @@
               ]
             }
           ],
-          "urls": [
-            {
-              "url": "https://t.co/4u1v2XSEvb",
-              "expanded_url": "https://twitter.com/i/web/status/1165213872124387328",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
+          "urls": []
         },
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
         "in_reply_to_status_id": 1165188386392596500,
@@ -6771,8 +7635,12 @@
       "created_at": "Sun Aug 25 07:39:33 +0000 2019",
       "id": 1165529129128738800,
       "id_str": "1165529129128738816",
-      "text": "@obrizan Нету, навык проектирования лучше проверять маленьким домашним заданием. \n\nВот я говорю много а может написать ничего и не могу?",
+      "full_text": "@obrizan Нету, навык проектирования лучше проверять маленьким домашним заданием. \n\nВот я говорю много а может написать ничего и не могу?",
       "truncated": false,
+      "display_text_range": [
+        9,
+        136
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6815,8 +7683,12 @@
       "created_at": "Sun Aug 25 09:12:17 +0000 2019",
       "id": 1165552465762300000,
       "id_str": "1165552465762299904",
-      "text": "В этот выходной отдыхаем. Темы нету, но отвечу на вопросы. #день7из7 #WorkLifeBalance https://t.co/4yxF8dt77U",
+      "full_text": "В этот выходной отдыхаем. Темы нету, но отвечу на вопросы. #день7из7 #WorkLifeBalance https://t.co/4yxF8dt77U",
       "truncated": false,
+      "display_text_range": [
+        0,
+        85
+      ],
       "entities": {
         "hashtags": [
           {
@@ -6975,8 +7847,12 @@
       "created_at": "Sun Aug 25 10:54:39 +0000 2019",
       "id": 1165578227970203600,
       "id_str": "1165578227970203648",
-      "text": "@imgnta Bedruthan steps in Cornwall.",
+      "full_text": "@imgnta Bedruthan steps in Cornwall.",
       "truncated": false,
+      "display_text_range": [
+        8,
+        36
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7052,8 +7928,12 @@
       "created_at": "Sun Aug 25 13:02:58 +0000 2019",
       "id": 1165610520839413800,
       "id_str": "1165610520839413761",
-      "text": "Всем спасибо за активное участие и отдельное @igrekde за приглашение! \nС вами был @bohdan_orlov, до новых встреч! https://t.co/fZGoerbIuH",
+      "full_text": "Всем спасибо за активное участие и отдельное @igrekde за приглашение! \nС вами был @bohdan_orlov, до новых встреч! https://t.co/fZGoerbIuH",
       "truncated": false,
+      "display_text_range": [
+        0,
+        113
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7108,12 +7988,21 @@
       "is_quote_status": true,
       "quoted_status_id": 1165596414321320000,
       "quoted_status_id_str": "1165596414321319936",
+      "quoted_status_permalink": {
+        "url": "https://t.co/fZGoerbIuH",
+        "expanded": "https://twitter.com/EbTvoy/status/1165596414321319936",
+        "display": "twitter.com/EbTvoy/status/…"
+      },
       "quoted_status": {
         "created_at": "Sun Aug 25 12:06:55 +0000 2019",
         "id": 1165596414321320000,
         "id_str": "1165596414321319936",
-        "text": "@mobileunderhood Спасибо за крутую неделю! Было интересно 😊",
+        "full_text": "@mobileunderhood Спасибо за крутую неделю! Было интересно 😊",
         "truncated": false,
+        "display_text_range": [
+          17,
+          59
+        ],
         "entities": {
           "hashtags": [],
           "symbols": [],

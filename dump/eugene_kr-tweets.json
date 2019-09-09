@@ -4,8 +4,12 @@
       "created_at": "Mon Aug 26 07:55:46 +0000 2019",
       "id": 1165895598886854700,
       "id_str": "1165895598886854656",
-      "text": "Всем привет!\nНа этой неделе с вами я, Евгений Кривобоков (@eugene_kr).\n #НоваяАватарка #АвторНедели #день1из7",
+      "full_text": "Всем привет!\nНа этой неделе с вами я, Евгений Кривобоков (@eugene_kr).\n #НоваяАватарка #АвторНедели #день1из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        109
+      ],
       "entities": {
         "hashtags": [
           {
@@ -70,8 +74,12 @@
       "created_at": "Mon Aug 26 08:00:43 +0000 2019",
       "id": 1165896842619609000,
       "id_str": "1165896842619609088",
-      "text": "@eugene_kr Кратко обо мне: \nРаботаю в компании Авито с 2014 года. Сейчас в платформенной команде, помогаю другим ра… https://t.co/Qk8rDolh5h",
-      "truncated": true,
+      "full_text": "@eugene_kr Кратко обо мне: \nРаботаю в компании Авито с 2014 года. Сейчас в платформенной команде, помогаю другим разработчикам быстрее делать фичи.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        147
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -87,17 +95,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/Qk8rDolh5h",
-            "expanded_url": "https://twitter.com/i/web/status/1165896842619609088",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1165895598886854700,
@@ -124,8 +122,12 @@
       "created_at": "Mon Aug 26 08:41:19 +0000 2019",
       "id": 1165907059034005500,
       "id_str": "1165907059034005504",
-      "text": "@eugene_kr План на неделю:\n\nДень 1: Gradle и скорость сборки приложения\nДень 2: Метрики сборки и мониторинг\nДень 3:… https://t.co/y8v87435wo",
-      "truncated": true,
+      "full_text": "@eugene_kr План на неделю:\n\nДень 1: Gradle и скорость сборки приложения\nДень 2: Метрики сборки и мониторинг\nДень 3: Android Studio\nДень 4: Немного про CI\nДень 5: UI тесты\nДень 6: Feature toggles\nДень 7: Отдых",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        208
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -141,17 +143,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/y8v87435wo",
-            "expanded_url": "https://twitter.com/i/web/status/1165907059034005504",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1165896842619609000,
@@ -178,8 +170,12 @@
       "created_at": "Mon Aug 26 10:15:53 +0000 2019",
       "id": 1165930860442521600,
       "id_str": "1165930860442521600",
-      "text": "Начнем неделю. Сегодня расскажу про сборку приложения. \nБудет много капитанства, но это стоит проговорить для полноты картины.  #день1из7",
+      "full_text": "Начнем неделю. Сегодня расскажу про сборку приложения. \nБудет много капитанства, но это стоит проговорить для полноты картины.  #день1из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        137
+      ],
       "entities": {
         "hashtags": [
           {
@@ -219,8 +215,12 @@
       "created_at": "Mon Aug 26 10:21:41 +0000 2019",
       "id": 1165932319414411300,
       "id_str": "1165932319414411264",
-      "text": "Начать хорошо бы с официальных рекомендаций \n- https://t.co/youwvPINa6 \n- https://t.co/AWaayDRBXK\nОни обновляются п… https://t.co/aMFLTP9nor",
-      "truncated": true,
+      "full_text": "Начать хорошо бы с официальных рекомендаций \n- https://t.co/youwvPINa6 \n- https://t.co/AWaayDRBXK\nОни обновляются под новые версии. Если давно не заглядывали, то самое время освежить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        183
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -242,15 +242,6 @@
             "indices": [
               74,
               97
-            ]
-          },
-          {
-            "url": "https://t.co/aMFLTP9nor",
-            "expanded_url": "https://twitter.com/i/web/status/1165932319414411264",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -281,23 +272,17 @@
       "created_at": "Mon Aug 26 12:33:20 +0000 2019",
       "id": 1165965448845975600,
       "id_str": "1165965448845975552",
-      "text": "Используем последние версии AGP, Gradle и всех тулзов с кодогенерацией. \nНасколько свежие? Выбираем подходящий для… https://t.co/tnr8VcgROX",
-      "truncated": true,
+      "full_text": "Используем последние версии AGP, Gradle и всех тулзов с кодогенерацией. \nНасколько свежие? Выбираем подходящий для команды баланс между стабильностью и новыми фичами.\nВчитываемся в changelog и пробуем.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        201
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/tnr8VcgROX",
-            "expanded_url": "https://twitter.com/i/web/status/1165965448845975552",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1165932319414411300,
@@ -324,23 +309,17 @@
       "created_at": "Mon Aug 26 12:34:48 +0000 2019",
       "id": 1165965820180217900,
       "id_str": "1165965820180217861",
-      "text": "\"Сделать ли мне \"Х\", ускорит ли сборку?\" - на такой вопрос нет однозначного и простого ответа.\nЭто гипотеза. Чтобы… https://t.co/O0VT8ad0NL",
-      "truncated": true,
+      "full_text": "\"Сделать ли мне \"Х\", ускорит ли сборку?\" - на такой вопрос нет однозначного и простого ответа.\nЭто гипотеза. Чтобы ее проверить, надо представлять как это работает внутри. Чем лучше мы понимаем внутренности работы, тем более эффективные модели получается строить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/O0VT8ad0NL",
-            "expanded_url": "https://twitter.com/i/web/status/1165965820180217861",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1165965448845975600,
@@ -367,8 +346,12 @@
       "created_at": "Mon Aug 26 12:36:19 +0000 2019",
       "id": 1165966202394546200,
       "id_str": "1165966202394546177",
-      "text": "А что собственно ускоряем? Надо найти где болит и научиться это измерять. Используем   https://t.co/cCAt41PHrE. \nСц… https://t.co/n3LL0EvnRC",
-      "truncated": true,
+      "full_text": "А что собственно ускоряем? Надо найти где болит и научиться это измерять. Используем   https://t.co/cCAt41PHrE. \nСценарии должны отражать типовые изменения в проекте и покрывать оптимизации в системе сборки (изменение ABI, инкрементальность, чистые сборки и т.п.).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -381,15 +364,6 @@
             "indices": [
               87,
               110
-            ]
-          },
-          {
-            "url": "https://t.co/n3LL0EvnRC",
-            "expanded_url": "https://twitter.com/i/web/status/1165966202394546177",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -420,23 +394,17 @@
       "created_at": "Mon Aug 26 12:38:13 +0000 2019",
       "id": 1165966680465580000,
       "id_str": "1165966680465580032",
-      "text": "Такие проверки дорогие, поэтому запускаем их уже в develop. Это дает понимание трендов и ловит только очень крупные… https://t.co/UinXsFjN4R",
-      "truncated": true,
+      "full_text": "Такие проверки дорогие, поэтому запускаем их уже в develop. Это дает понимание трендов и ловит только очень крупные изменения.\nОсновная ценность готовых сценариев в другом. Мы упрощаем себе проверку подозрительных изменений, которые влияют на сборку.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/UinXsFjN4R",
-            "expanded_url": "https://twitter.com/i/web/status/1165966680465580032",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1165966202394546200,
@@ -463,8 +431,12 @@
       "created_at": "Mon Aug 26 16:19:01 +0000 2019",
       "id": 1166022244960821200,
       "id_str": "1166022244960821248",
-      "text": "@ashumidub Можете привести примеры, что за кейсы? Именно этот id? (https://t.co/95iw4m7vh2)\nИспользуем org.jetbrain… https://t.co/N3UpAbqpLs",
-      "truncated": true,
+      "full_text": "@ashumidub Можете привести примеры, что за кейсы? Именно этот id? (https://t.co/95iw4m7vh2)\nИспользуем org.jetbrains.kotlin:kotlin-gradle-plugin в плагинах для Gradle, чтобы модели использовать. \nВ android модулях подключен плагин kotlin-android.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        246
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -488,15 +460,6 @@
             "indices": [
               67,
               90
-            ]
-          },
-          {
-            "url": "https://t.co/N3UpAbqpLs",
-            "expanded_url": "https://twitter.com/i/web/status/1166022244960821248",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -527,8 +490,12 @@
       "created_at": "Mon Aug 26 16:25:54 +0000 2019",
       "id": 1166023978160394200,
       "id_str": "1166023978160394240",
-      "text": "Выносим сборку на более мощную машину: https://t.co/GTnTCtkBlE\nДля мелких изменений иногда медленнее получается, до… https://t.co/o8MdeNxHc5",
-      "truncated": true,
+      "full_text": "Выносим сборку на более мощную машину: https://t.co/GTnTCtkBlE\nДля мелких изменений иногда медленнее получается, дольше ждем синхронизацию файлов. \nТакже при изменении структуры модулей может сломать модели проекта для IDE, приходится все чистить. \nВ целом есть смысл пробовать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -541,15 +508,6 @@
             "indices": [
               39,
               62
-            ]
-          },
-          {
-            "url": "https://t.co/o8MdeNxHc5",
-            "expanded_url": "https://twitter.com/i/web/status/1166023978160394240",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -580,8 +538,12 @@
       "created_at": "Mon Aug 26 16:31:15 +0000 2019",
       "id": 1166025323030438000,
       "id_str": "1166025323030437889",
-      "text": "Для поиска узких мест - build scan https://t.co/TPoxR6QVdc. Визуализация решает, да и типовые проблемы подсвечивают… https://t.co/tZ57pBGatc",
-      "truncated": true,
+      "full_text": "Для поиска узких мест - build scan https://t.co/TPoxR6QVdc. Визуализация решает, да и типовые проблемы подсвечивают явно. \nБольшую часть информации можно достать самостоятельно, через API. Завтра про это подробнее.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        214
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -594,15 +556,6 @@
             "indices": [
               35,
               58
-            ]
-          },
-          {
-            "url": "https://t.co/tZ57pBGatc",
-            "expanded_url": "https://twitter.com/i/web/status/1166025323030437889",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -633,8 +586,12 @@
       "created_at": "Mon Aug 26 16:56:38 +0000 2019",
       "id": 1166031709827162000,
       "id_str": "1166031709827162113",
-      "text": "@jack_martynov Боюсь чеклист превратится в банальное копирование документации Gradle (из первого сегодняшнего комме… https://t.co/K2Uleuniar",
-      "truncated": true,
+      "full_text": "@jack_martynov Боюсь чеклист превратится в банальное копирование документации Gradle (из первого сегодняшнего комментария). Там все уже довольно подробно и внятно описано.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        171
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -650,17 +607,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/K2Uleuniar",
-            "expanded_url": "https://twitter.com/i/web/status/1166031709827162113",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166027162857685000,
@@ -687,8 +634,12 @@
       "created_at": "Mon Aug 26 17:41:16 +0000 2019",
       "id": 1166042943972610000,
       "id_str": "1166042943972610048",
-      "text": "Свежее видео с Droidcon Berlin 2019: https://t.co/AjlHRuwXRK",
+      "full_text": "Свежее видео с Droidcon Berlin 2019: https://t.co/AjlHRuwXRK",
       "truncated": false,
+      "display_text_range": [
+        0,
+        60
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -731,21 +682,93 @@
       "created_at": "Mon Aug 26 19:08:17 +0000 2019",
       "id": 1166064842035335200,
       "id_str": "1166064842035335168",
-      "text": "Новый день - новые баги. А ведь только похвалил build scan. Говорят, что слишком много данных засылаем. Видимо это… https://t.co/wQWUhwyISp",
-      "truncated": true,
+      "full_text": "Новый день - новые баги. А ведь только похвалил build scan. Говорят, что слишком много данных засылаем. Видимо это толстый намек на покупку Gradle enterprise. https://t.co/AaMHAH7eGI",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        158
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
+        "urls": [],
+        "media": [
           {
-            "url": "https://t.co/wQWUhwyISp",
-            "expanded_url": "https://twitter.com/i/web/status/1166064842035335168",
-            "display_url": "twitter.com/i/web/status/1…",
+            "id": 1166064837572616200,
+            "id_str": "1166064837572616193",
             "indices": [
-              116,
-              139
-            ]
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC6xyqyW4AEX-7V.png",
+            "media_url_https": "https://pbs.twimg.com/media/EC6xyqyW4AEX-7V.png",
+            "url": "https://t.co/AaMHAH7eGI",
+            "display_url": "pic.twitter.com/AaMHAH7eGI",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1166064842035335168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 722,
+                "h": 386,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 722,
+                "h": 386,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 364,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1166064837572616200,
+            "id_str": "1166064837572616193",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC6xyqyW4AEX-7V.png",
+            "media_url_https": "https://pbs.twimg.com/media/EC6xyqyW4AEX-7V.png",
+            "url": "https://t.co/AaMHAH7eGI",
+            "display_url": "pic.twitter.com/AaMHAH7eGI",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1166064842035335168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 722,
+                "h": 386,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 722,
+                "h": 386,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 364,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
           }
         ]
       },
@@ -775,20 +798,24 @@
       "created_at": "Mon Aug 26 20:06:43 +0000 2019",
       "id": 1166079548129198000,
       "id_str": "1166079548129198085",
-      "text": "Пару слов про remote cache. Его легко настроить, но все веселье начинается потом. Хорошо если есть Gradle enterpise… https://t.co/x2gaKsJJ0v",
-      "truncated": true,
+      "full_text": "Пару слов про remote cache. Его легко настроить, но все веселье начинается потом. Хорошо если есть Gradle enterpise и он покажет корень проблемы. Но если нет, нужно самому искать.\nRTFM: https://t.co/A3hNLbAUTJ. С большинством описанных проблем уже столкнулись. А сейчас примеры:",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/x2gaKsJJ0v",
-            "expanded_url": "https://twitter.com/i/web/status/1166079548129198085",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/A3hNLbAUTJ",
+            "expanded_url": "https://guides.gradle.org/using-build-cache/",
+            "display_url": "guides.gradle.org/using-build-ca…",
             "indices": [
-              117,
-              140
+              186,
+              209
             ]
           }
         ]
@@ -819,20 +846,33 @@
       "created_at": "Mon Aug 26 20:15:11 +0000 2019",
       "id": 1166081678974050300,
       "id_str": "1166081678974050305",
-      "text": "Прогреваем remote cache на linux (docker) и в OSX, потому что есть баги с переносимостью кеша между ОС (… https://t.co/RDEaX1PAED",
-      "truncated": true,
+      "full_text": "Прогреваем remote cache на linux (docker) и в OSX, потому что есть баги с переносимостью кеша между ОС (https://t.co/i2Y38GEWhe)\n\nНаписали гит хук, который подчищает пустые директории. Ломалось кеширование после рефакторинга (https://t.co/zkJ6bkn3Cu)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/RDEaX1PAED",
-            "expanded_url": "https://twitter.com/i/web/status/1166081678974050305",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/i2Y38GEWhe",
+            "expanded_url": "https://issuetracker.google.com/issues/126775254",
+            "display_url": "issuetracker.google.com/issues/1267752…",
             "indices": [
-              106,
-              129
+              104,
+              127
+            ]
+          },
+          {
+            "url": "https://t.co/zkJ6bkn3Cu",
+            "expanded_url": "https://youtrack.jetbrains.com/issue/KT-27687",
+            "display_url": "youtrack.jetbrains.com/issue/KT-27687",
+            "indices": [
+              226,
+              249
             ]
           }
         ]
@@ -863,20 +903,33 @@
       "created_at": "Mon Aug 26 20:21:08 +0000 2019",
       "id": 1166083173530386400,
       "id_str": "1166083173530386440",
-      "text": "Как одна оптимизация ломает другую или еще один пример, почему не стоит их включать без проверки (… https://t.co/eKxFwAIWzD",
-      "truncated": true,
+      "full_text": "Как одна оптимизация ломает другую или еще один пример, почему не стоит их включать без проверки (https://t.co/ZWAJa4pUP8)\n\nВручную проверяем параметры окружения, версию build tools, не можем зафиксировать (https://t.co/8scYh2xfIn). Это тоже нужно для переиспользования кеша.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/eKxFwAIWzD",
-            "expanded_url": "https://twitter.com/i/web/status/1166083173530386440",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/ZWAJa4pUP8",
+            "expanded_url": "https://youtrack.jetbrains.com/issue/KT-31511",
+            "display_url": "youtrack.jetbrains.com/issue/KT-31511",
             "indices": [
-              100,
-              123
+              98,
+              121
+            ]
+          },
+          {
+            "url": "https://t.co/8scYh2xfIn",
+            "expanded_url": "https://issuetracker.google.com/issues/117789774",
+            "display_url": "issuetracker.google.com/issues/1177897…",
+            "indices": [
+              207,
+              230
             ]
           }
         ]
@@ -907,8 +960,12 @@
       "created_at": "Mon Aug 26 20:23:12 +0000 2019",
       "id": 1166083695301861400,
       "id_str": "1166083695301861381",
-      "text": "И мой любимчик в номинации \"веселой отладки, неудачники\" https://t.co/ffYMnL05tJ\n\nВот такие трудовые будни. Надеюсь… https://t.co/iHgCC8b8bK",
-      "truncated": true,
+      "full_text": "И мой любимчик в номинации \"веселой отладки, неудачники\" https://t.co/ffYMnL05tJ\n\nВот такие трудовые будни. Надеюсь удалось передать почему простые советы плохо работают и нужно разбираться в причинах.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        201
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -921,15 +978,6 @@
             "indices": [
               57,
               80
-            ]
-          },
-          {
-            "url": "https://t.co/iHgCC8b8bK",
-            "expanded_url": "https://twitter.com/i/web/status/1166083695301861381",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -960,8 +1008,12 @@
       "created_at": "Mon Aug 26 20:31:50 +0000 2019",
       "id": 1166085869373202400,
       "id_str": "1166085869373202432",
-      "text": "@VasiliyZukanov Да, пользуемся бесплатной. Build scan доступен по прямой ссылке, да и подсмотреть там можно только… https://t.co/4yDDCBwfAH",
-      "truncated": true,
+      "full_text": "@VasiliyZukanov Да, пользуемся бесплатной. Build scan доступен по прямой ссылке, да и подсмотреть там можно только  названия модулей, задач, часть логов сборки и т.п. В нашем случае не нашли ничего критичного.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        209
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -977,17 +1029,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/4yDDCBwfAH",
-            "expanded_url": "https://twitter.com/i/web/status/1166085869373202432",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166069078928347100,
@@ -1014,8 +1056,12 @@
       "created_at": "Mon Aug 26 20:35:23 +0000 2019",
       "id": 1166086762869002200,
       "id_str": "1166086762869002242",
-      "text": "@jack_martynov Добавил доклад с хорошими рекомендациями. Дальше этого общими советами не обойтись, нужно конкретные примеры разбирать.",
+      "full_text": "@jack_martynov Добавил доклад с хорошими рекомендациями. Дальше этого общими советами не обойтись, нужно конкретные примеры разбирать.",
       "truncated": false,
+      "display_text_range": [
+        15,
+        134
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1058,8 +1104,12 @@
       "created_at": "Mon Aug 26 20:40:25 +0000 2019",
       "id": 1166088029116801000,
       "id_str": "1166088029116801029",
-      "text": "@jack_martynov Закинул в оригинальный тред примеры ошибок, и как их обходим. Все такие баги отражают \"классы\" пробл… https://t.co/PZdzMhFUqI",
-      "truncated": true,
+      "full_text": "@jack_martynov Закинул в оригинальный тред примеры ошибок, и как их обходим. Все такие баги отражают \"классы\" проблем, под каждый свой способ диагностики и свои костыли, чтобы причину устранить.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        194
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1075,17 +1125,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/PZdzMhFUqI",
-            "expanded_url": "https://twitter.com/i/web/status/1166088029116801029",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166027162857685000,
@@ -1112,8 +1152,12 @@
       "created_at": "Mon Aug 26 20:46:44 +0000 2019",
       "id": 1166089616937693200,
       "id_str": "1166089616937693185",
-      "text": "@jack_martynov Честно говоря, никогда не буду доволен скоростью сборки андроида, это никуда не годится. \n\nИнкремент… https://t.co/917XxI6AgC",
-      "truncated": true,
+      "full_text": "@jack_martynov Честно говоря, никогда не буду доволен скоростью сборки андроида, это никуда не годится. \n\nИнкрементальная сборка редко бывает меньше минуты. Завтра как раз про это будет, выложу сырые данные по локальным сборкам.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        228
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1129,17 +1173,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/917XxI6AgC",
-            "expanded_url": "https://twitter.com/i/web/status/1166089616937693185",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166088170485801000,
@@ -1166,8 +1200,12 @@
       "created_at": "Mon Aug 26 20:56:24 +0000 2019",
       "id": 1166092048715452400,
       "id_str": "1166092048715452417",
-      "text": "Просто обязан упомянуть замечательный выпуск @PodlodkaPodcast c @artem_zin : https://t.co/Q49ImtPxW2\n\nСразу огворюс… https://t.co/Nmf4ztRtui",
-      "truncated": true,
+      "full_text": "Просто обязан упомянуть замечательный выпуск @PodlodkaPodcast c @artem_zin : https://t.co/Q49ImtPxW2\n\nСразу огворюсь, с bazel мало знаком, не могу по существу сравнивать. Затронем еще эту тему при обсуждении CI.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1202,15 +1240,6 @@
               77,
               100
             ]
-          },
-          {
-            "url": "https://t.co/Nmf4ztRtui",
-            "expanded_url": "https://twitter.com/i/web/status/1166092048715452417",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
           }
         ]
       },
@@ -1240,8 +1269,12 @@
       "created_at": "Tue Aug 27 09:08:14 +0000 2019",
       "id": 1166276223355576300,
       "id_str": "1166276223355576320",
-      "text": "@jack_martynov При переключении ветки как раз remote cache выручает.",
+      "full_text": "@jack_martynov При переключении ветки как раз remote cache выручает.",
       "truncated": false,
+      "display_text_range": [
+        15,
+        68
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1284,8 +1317,12 @@
       "created_at": "Tue Aug 27 09:09:54 +0000 2019",
       "id": 1166276642769133600,
       "id_str": "1166276642769133568",
-      "text": "@xanderblinov В общем, мне прямым текстом сказали, что в платной версии можно поднять лимиты.",
+      "full_text": "@xanderblinov В общем, мне прямым текстом сказали, что в платной версии можно поднять лимиты.",
       "truncated": false,
+      "display_text_range": [
+        14,
+        93
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1328,8 +1365,12 @@
       "created_at": "Tue Aug 27 09:11:58 +0000 2019",
       "id": 1166277160606343200,
       "id_str": "1166277160606343174",
-      "text": "@xanderblinov Да, есть такая проблема, когда сильно модули меняются, например, после переключения ветки. Не знаю ка… https://t.co/LoiTPEPRTt",
-      "truncated": true,
+      "full_text": "@xanderblinov Да, есть такая проблема, когда сильно модули меняются, например, после переключения ветки. Не знаю как детектировать, поэтому когда сталкиваешься с таким, приходится чистить.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        188
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1345,17 +1386,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/LoiTPEPRTt",
-            "expanded_url": "https://twitter.com/i/web/status/1166277160606343174",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166264272860668000,
@@ -1382,8 +1413,12 @@
       "created_at": "Tue Aug 27 09:19:41 +0000 2019",
       "id": 1166279103277949000,
       "id_str": "1166279103277948928",
-      "text": "Сегодня поговорим про метрики сборки и их мониторинг #день2из7",
+      "full_text": "Сегодня поговорим про метрики сборки и их мониторинг #день2из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        62
+      ],
       "entities": {
         "hashtags": [
           {
@@ -1423,20 +1458,33 @@
       "created_at": "Tue Aug 27 09:34:59 +0000 2019",
       "id": 1166282956505276400,
       "id_str": "1166282956505276422",
-      "text": "Собирать данные конечно нужно со всех машин, потому что окружение отличается. К счастью, есть готовые бесплатные ре… https://t.co/Q9pAV8ghoV",
-      "truncated": true,
+      "full_text": "Собирать данные конечно нужно со всех машин, потому что окружение отличается. К счастью, есть готовые бесплатные решения:\n\n- https://t.co/x6VIHOdbgH \n- https://t.co/ieWdEc9Mr7\n\nДаже если и решите написать свое, это отличные примеры как добраться до нужных данных.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/Q9pAV8ghoV",
-            "expanded_url": "https://twitter.com/i/web/status/1166282956505276422",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/x6VIHOdbgH",
+            "expanded_url": "https://github.com/cdsap/Talaiot",
+            "display_url": "github.com/cdsap/Talaiot",
             "indices": [
-              117,
-              140
+              125,
+              148
+            ]
+          },
+          {
+            "url": "https://t.co/ieWdEc9Mr7",
+            "expanded_url": "https://github.com/nebula-plugins/gradle-metrics-plugin",
+            "display_url": "github.com/nebula-plugins…",
+            "indices": [
+              152,
+              175
             ]
           }
         ]
@@ -1467,20 +1515,24 @@
       "created_at": "Tue Aug 27 09:54:37 +0000 2019",
       "id": 1166287893649854500,
       "id_str": "1166287893649854464",
-      "text": "У нас свое решение, на порядок упрощенный аналог Talaoit. Из важных показателей: \n- Общее время сборки\n- Время конф… https://t.co/Kyzc8opstH",
-      "truncated": true,
+      "full_text": "У нас свое решение, на порядок упрощенный аналог Talaoit. Из важных показателей: \n- Общее время сборки\n- Время конфигурации\n- Медленные задачи\n- Кешируемость* задач \n(ставьте лайки - https://t.co/wjLHuLmQ4Z)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/Kyzc8opstH",
-            "expanded_url": "https://twitter.com/i/web/status/1166287893649854464",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/wjLHuLmQ4Z",
+            "expanded_url": "https://github.com/gradle/gradle/issues/9333",
+            "display_url": "github.com/gradle/gradle/…",
             "indices": [
-              117,
-              140
+              183,
+              206
             ]
           }
         ]
@@ -1511,8 +1563,12 @@
       "created_at": "Tue Aug 27 09:56:47 +0000 2019",
       "id": 1166288441589588000,
       "id_str": "1166288441589587968",
-      "text": "Хороший подход - как в build scan, хранить сырые данные по каждой сборке и по ним уже строить агрегаты.",
+      "full_text": "Хороший подход - как в build scan, хранить сырые данные по каждой сборке и по ним уже строить агрегаты.",
       "truncated": false,
+      "display_text_range": [
+        0,
+        103
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1544,8 +1600,12 @@
       "created_at": "Tue Aug 27 10:04:41 +0000 2019",
       "id": 1166290426900471800,
       "id_str": "1166290426900471808",
-      "text": "95 перцентиль https://t.co/33unfs6sxv",
+      "full_text": "95 перцентиль https://t.co/33unfs6sxv",
       "truncated": false,
+      "display_text_range": [
+        0,
+        13
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1656,23 +1716,17 @@
       "created_at": "Tue Aug 27 13:02:29 +0000 2019",
       "id": 1166335172586999800,
       "id_str": "1166335172586999808",
-      "text": "Мы любим fail-fast подход.\nЕсли нашли причину performance деградации и можем ее проверить автоматически, то добавля… https://t.co/0kW7iwrOUN",
-      "truncated": true,
+      "full_text": "Мы любим fail-fast подход.\nЕсли нашли причину performance деградации и можем ее проверить автоматически, то добавляем в сборку.\nНапример, если попытаться собрать проект с неподдерживаемой версией Java, то сборка сразу упадет с пояснением причины. Так зачастую дешевле и понятнее.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/0kW7iwrOUN",
-            "expanded_url": "https://twitter.com/i/web/status/1166335172586999808",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166290426900471800,
@@ -1699,21 +1753,93 @@
       "created_at": "Tue Aug 27 13:10:17 +0000 2019",
       "id": 1166337137488384000,
       "id_str": "1166337137488384002",
-      "text": "Все ошибки сборки перенаправляем в Sentry. \nИнструмент как раз под такую модель данных - stacktrace и параметры окр… https://t.co/T9RnJ0jlk2",
-      "truncated": true,
+      "full_text": "Все ошибки сборки перенаправляем в Sentry. \nИнструмент как раз под такую модель данных - stacktrace и параметры окружения. https://t.co/ampFjex4ub",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        122
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
+        "urls": [],
+        "media": [
           {
-            "url": "https://t.co/T9RnJ0jlk2",
-            "expanded_url": "https://twitter.com/i/web/status/1166337137488384002",
-            "display_url": "twitter.com/i/web/status/1…",
+            "id": 1166337133424062500,
+            "id_str": "1166337133424062466",
             "indices": [
-              117,
-              140
-            ]
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC-pcX4WsAIYPDW.png",
+            "media_url_https": "https://pbs.twimg.com/media/EC-pcX4WsAIYPDW.png",
+            "url": "https://t.co/ampFjex4ub",
+            "display_url": "pic.twitter.com/ampFjex4ub",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1166337137488384002/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 851,
+                "h": 224,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 851,
+                "h": 224,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 179,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1166337133424062500,
+            "id_str": "1166337133424062466",
+            "indices": [
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC-pcX4WsAIYPDW.png",
+            "media_url_https": "https://pbs.twimg.com/media/EC-pcX4WsAIYPDW.png",
+            "url": "https://t.co/ampFjex4ub",
+            "display_url": "pic.twitter.com/ampFjex4ub",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1166337137488384002/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 851,
+                "h": 224,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 851,
+                "h": 224,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 179,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
           }
         ]
       },
@@ -1743,8 +1869,12 @@
       "created_at": "Tue Aug 27 16:38:24 +0000 2019",
       "id": 1166389512722878500,
       "id_str": "1166389512722878467",
-      "text": "@PodlodkaPodcast @artem_zin Если уже попробовали все простые оптимизации и хочется немного уличной магии: https://t.co/UD4GDQOUw7",
+      "full_text": "@PodlodkaPodcast @artem_zin Если уже попробовали все простые оптимизации и хочется немного уличной магии: https://t.co/UD4GDQOUw7",
       "truncated": false,
+      "display_text_range": [
+        28,
+        129
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1808,8 +1938,12 @@
       "created_at": "Wed Aug 28 05:37:17 +0000 2019",
       "id": 1166585522774585300,
       "id_str": "1166585522774585344",
-      "text": "Сегодня про Android Studio :harold:\n#день3из7",
+      "full_text": "Сегодня про Android Studio :harold:\n#день3из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        45
+      ],
       "entities": {
         "hashtags": [
           {
@@ -1849,8 +1983,12 @@
       "created_at": "Wed Aug 28 05:41:00 +0000 2019",
       "id": 1166586457009590300,
       "id_str": "1166586457009590273",
-      "text": "Какую IDE используете под android?",
+      "full_text": "Какую IDE используете под android?",
       "truncated": false,
+      "display_text_range": [
+        0,
+        34
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1882,8 +2020,12 @@
       "created_at": "Wed Aug 28 06:00:50 +0000 2019",
       "id": 1166591448109764600,
       "id_str": "1166591448109764610",
-      "text": "Как можем повлиять на IDE? \nКак минимум, отключаем все что только можно. \nСобрал все что нашли: https://t.co/LW8MWO2Luw",
+      "full_text": "Как можем повлиять на IDE? \nКак минимум, отключаем все что только можно. \nСобрал все что нашли: https://t.co/LW8MWO2Luw",
       "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1926,20 +2068,24 @@
       "created_at": "Wed Aug 28 07:14:28 +0000 2019",
       "id": 1166609981208182800,
       "id_str": "1166609981208182786",
-      "text": "Когда смотрите время исполнения gradle задач, помните что оно может быть завышено для worker api (… https://t.co/a5g6bS1Bun",
-      "truncated": true,
+      "full_text": "Когда смотрите время исполнения gradle задач, помните что оно может быть завышено для worker api (https://t.co/ku7L0zfAeJ). В AGP 3.5 уже перевели большинство задач (android.enableWorkers). \nПомогает другой профайлер - android.enableProfileJson, который показывали на Google IO.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/a5g6bS1Bun",
-            "expanded_url": "https://twitter.com/i/web/status/1166609981208182786",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/ku7L0zfAeJ",
+            "expanded_url": "https://github.com/gradle/gradle/issues/8630#issuecomment-488161594",
+            "display_url": "github.com/gradle/gradle/…",
             "indices": [
-              100,
-              123
+              98,
+              121
             ]
           }
         ]
@@ -1970,8 +2116,12 @@
       "created_at": "Wed Aug 28 11:10:28 +0000 2019",
       "id": 1166669371240013800,
       "id_str": "1166669371240013825",
-      "text": "Узнал лимит для бесплатной версии: 5242880",
+      "full_text": "Узнал лимит для бесплатной версии: 5242880",
       "truncated": false,
+      "display_text_range": [
+        0,
+        42
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2003,20 +2153,24 @@
       "created_at": "Wed Aug 28 11:16:08 +0000 2019",
       "id": 1166670798217781200,
       "id_str": "1166670798217781248",
-      "text": "Несмотря на Project Marble, AS все еще тормозит как не в себя, особенно в тестах. Мы подумали, что могут быть специ… https://t.co/g5mm6V6zhe",
-      "truncated": true,
+      "full_text": "Несмотря на Project Marble, AS все еще тормозит как не в себя, особенно в тестах. Мы подумали, что могут быть специфичные проблемы в нашем проекте. Стали проверять разные гипотезы на тестовом проекте. Пример генератора, чтобы с нуля не начинать: https://t.co/ka7oJ5aK6B",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/g5mm6V6zhe",
-            "expanded_url": "https://twitter.com/i/web/status/1166670798217781248",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/ka7oJ5aK6B",
+            "expanded_url": "https://github.com/android/android-studio-poet",
+            "display_url": "github.com/android/androi…",
             "indices": [
-              117,
-              140
+              246,
+              269
             ]
           }
         ]
@@ -2047,23 +2201,17 @@
       "created_at": "Wed Aug 28 11:19:20 +0000 2019",
       "id": 1166671603733868500,
       "id_str": "1166671603733868544",
-      "text": "На тестовых проектах все отлично, как бы ни пытались их усложнять. Были разные гипотезы: количество модулей, какие-… https://t.co/FUrUJN2PFq",
-      "truncated": true,
+      "full_text": "На тестовых проектах все отлично, как бы ни пытались их усложнять. Были разные гипотезы: количество модулей, какие-то фичи языка, тяжелые инспекции, lint проверки и т.п. Ничего из этого не получилось достоверно подтвердить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/FUrUJN2PFq",
-            "expanded_url": "https://twitter.com/i/web/status/1166671603733868544",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166670798217781200,
@@ -2090,20 +2238,24 @@
       "created_at": "Wed Aug 28 11:20:25 +0000 2019",
       "id": 1166671875487015000,
       "id_str": "1166671875487014912",
-      "text": "Пока подтвердилось очевидное: размер classpath. \nЕсли модулю доступно много классов, это негативно влияет.\nПример б… https://t.co/5WnHdlDupU",
-      "truncated": true,
+      "full_text": "Пока подтвердилось очевидное: размер classpath. \nЕсли модулю доступно много классов, это негативно влияет.\nПример бага на эту тему: https://t.co/NeYUFdaL3Y",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/5WnHdlDupU",
-            "expanded_url": "https://twitter.com/i/web/status/1166671875487014912",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/NeYUFdaL3Y",
+            "expanded_url": "https://issuetracker.google.com/issues/133124247",
+            "display_url": "issuetracker.google.com/issues/1331242…",
             "indices": [
-              117,
-              140
+              132,
+              155
             ]
           }
         ]
@@ -2134,20 +2286,24 @@
       "created_at": "Wed Aug 28 12:46:08 +0000 2019",
       "id": 1166693447148998700,
       "id_str": "1166693447148998656",
-      "text": "Когда все плохо и AS не справляется с крупными изменениями в проекте (mirakle в пример), либо реимпортируем проект,… https://t.co/783YxjB5jG",
-      "truncated": true,
+      "full_text": "Когда все плохо и AS не справляется с крупными изменениями в проекте (mirakle в пример), либо реимпортируем проект, либо вручную чистим .iml модели. \n\nНапример, вот так: https://t.co/ZDn63bZArD \n(скрипт в стиле дешево и сердито, только ради  примера)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/783YxjB5jG",
-            "expanded_url": "https://twitter.com/i/web/status/1166693447148998656",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/ZDn63bZArD",
+            "expanded_url": "https://git.io/fjxI1",
+            "display_url": "git.io/fjxI1",
             "indices": [
-              117,
-              140
+              170,
+              193
             ]
           }
         ]
@@ -2178,23 +2334,17 @@
       "created_at": "Wed Aug 28 13:45:25 +0000 2019",
       "id": 1166708367731175400,
       "id_str": "1166708367731175424",
-      "text": "Если синхронизация проекта не прошла успешно, то AS может запустить совсем не ту задачу, которая указана в конфигур… https://t.co/4Vd9JCtXfl",
-      "truncated": true,
+      "full_text": "Если синхронизация проекта не прошла успешно, то AS может запустить совсем не ту задачу, которая указана в конфигурации.\nПроверить можно во вкладке Build | Build Output. В  начале лога будет Executing tasks: [assemble]. Без конкретного модуля, значит запустит все с таким именем.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/4Vd9JCtXfl",
-            "expanded_url": "https://twitter.com/i/web/status/1166708367731175424",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166693447148998700,
@@ -2221,20 +2371,24 @@
       "created_at": "Wed Aug 28 14:12:55 +0000 2019",
       "id": 1166715287040864300,
       "id_str": "1166715287040864257",
-      "text": "Достали сообщения \"WARNING: The option setting '...' is experimental and unsupported.\"? На каждый модуль?!\nОтключае… https://t.co/CpMouo7PHP",
-      "truncated": true,
+      "full_text": "Достали сообщения \"WARNING: The option setting '...' is experimental and unsupported.\"? На каждый модуль?!\nОтключаем с помощью android.suppressUnsupportedOptionWarnings.\n\nИ голосуем про похожий шум в котлин плагине: https://t.co/pKZiAeqidM",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/CpMouo7PHP",
-            "expanded_url": "https://twitter.com/i/web/status/1166715287040864257",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/pKZiAeqidM",
+            "expanded_url": "https://youtrack.jetbrains.com/issue/KT-33065",
+            "display_url": "youtrack.jetbrains.com/issue/KT-33065",
             "indices": [
-              117,
-              140
+              216,
+              239
             ]
           }
         ]
@@ -2265,8 +2419,12 @@
       "created_at": "Wed Aug 28 15:36:00 +0000 2019",
       "id": 1166736193935089700,
       "id_str": "1166736193935089665",
-      "text": "@PodlodkaPodcast @artem_zin В многомодульном проекте хотим находить частые проблемы с зависимостями: \n- Не использу… https://t.co/6da0ajXCEm",
-      "truncated": true,
+      "full_text": "@PodlodkaPodcast @artem_zin В многомодульном проекте хотим находить частые проблемы с зависимостями: \n- Не используется\n- Подключили ради пары классов\n- Не опубликовали как api, хотя классы входят в ABI\n- и т.п.\nЕсть похожие проверки в плагине https://t.co/EWrbYXEVk3, но он не подошел. Не умею готовить?",
+      "truncated": false,
+      "display_text_range": [
+        28,
+        304
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2294,12 +2452,12 @@
         ],
         "urls": [
           {
-            "url": "https://t.co/6da0ajXCEm",
-            "expanded_url": "https://twitter.com/i/web/status/1166736193935089665",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/EWrbYXEVk3",
+            "expanded_url": "https://git.io/fjxqe",
+            "display_url": "git.io/fjxqe",
             "indices": [
-              117,
-              140
+              244,
+              267
             ]
           }
         ]
@@ -2330,8 +2488,12 @@
       "created_at": "Wed Aug 28 15:38:58 +0000 2019",
       "id": 1166736940181446700,
       "id_str": "1166736940181446656",
-      "text": "@PodlodkaPodcast @artem_zin Достать необходимые данные можем двумя путями.\n1. В Android lint проверке из AST. Не зн… https://t.co/2DqgjqSraJ",
-      "truncated": true,
+      "full_text": "@PodlodkaPodcast @artem_zin Достать необходимые данные можем двумя путями.\n1. В Android lint проверке из AST. Не знаю как связать с графом модулей, но его можно и снаружи пробросить.\n\nС AST работать нетривиально (https://t.co/wUfvk0kCD3), зато все доступно.",
+      "truncated": false,
+      "display_text_range": [
+        28,
+        257
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2359,12 +2521,12 @@
         ],
         "urls": [
           {
-            "url": "https://t.co/2DqgjqSraJ",
-            "expanded_url": "https://twitter.com/i/web/status/1166736940181446656",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/wUfvk0kCD3",
+            "expanded_url": "https://youtu.be/p8yX5-lPS6o",
+            "display_url": "youtu.be/p8yX5-lPS6o",
             "indices": [
-              117,
-              140
+              213,
+              236
             ]
           }
         ]
@@ -2395,8 +2557,12 @@
       "created_at": "Wed Aug 28 15:41:31 +0000 2019",
       "id": 1166737581419221000,
       "id_str": "1166737581419220994",
-      "text": "@PodlodkaPodcast @artem_zin 2. Как в gradle-lint-plugin, достать из байткода.\nНедостатки: \n- Большая привязка к сис… https://t.co/xWhhytwZ9B",
-      "truncated": true,
+      "full_text": "@PodlodkaPodcast @artem_zin 2. Как в gradle-lint-plugin, достать из байткода.\nНедостатки: \n- Большая привязка к системе сборки\n- В байткоде теряется часть информации про модули, например, inline функции и константы.\n\nПробуем этот подход. Даже простое MVP решение уже находит часть проблем.",
+      "truncated": false,
+      "display_text_range": [
+        28,
+        289
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2422,17 +2588,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/xWhhytwZ9B",
-            "expanded_url": "https://twitter.com/i/web/status/1166737581419220994",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166736940181446700,
@@ -2459,8 +2615,12 @@
       "created_at": "Wed Aug 28 17:01:26 +0000 2019",
       "id": 1166757696479072300,
       "id_str": "1166757696479072256",
-      "text": "@jack_martynov На этот раз уперлись в лимит. Пообщался с поддержкой. Так защищаются от злоумышленников, ограничивая… https://t.co/kfB8EiGTkw",
-      "truncated": true,
+      "full_text": "@jack_martynov На этот раз уперлись в лимит. Пообщался с поддержкой. Так защищаются от злоумышленников, ограничивая размер отчета. Причем заранее никак не проверить со своей стороны. Помимо размера отправляемого файла еще какие-то \"внутренние события\" в лимит упираются.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        270
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2476,17 +2636,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/kfB8EiGTkw",
-            "expanded_url": "https://twitter.com/i/web/status/1166757696479072256",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166735574398623700,
@@ -2513,8 +2663,12 @@
       "created_at": "Wed Aug 28 21:14:27 +0000 2019",
       "id": 1166821369465712600,
       "id_str": "1166821369465712641",
-      "text": "@produnderhood Это пример фундаментальной ошибки атрибуции? Правильно понял? Если так, на эту тему действительно ес… https://t.co/pnx0dku1so",
-      "truncated": true,
+      "full_text": "@produnderhood Это пример фундаментальной ошибки атрибуции? Правильно понял? Если так, на эту тему действительно есть много аргументированной критики.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        150
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2530,17 +2684,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/pnx0dku1so",
-            "expanded_url": "https://twitter.com/i/web/status/1166821369465712641",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166811949901987800,
@@ -2567,8 +2711,12 @@
       "created_at": "Thu Aug 29 07:49:22 +0000 2019",
       "id": 1166981149819887600,
       "id_str": "1166981149819887617",
-      "text": "@jack_martynov У меня пока только очевидный ответ, пробовать комбинировать другие доступные инструменты, а если не… https://t.co/xoCBGo4H9g",
-      "truncated": true,
+      "full_text": "@jack_martynov У меня пока только очевидный ответ, пробовать комбинировать другие доступные инструменты, а если не хватит делать свой.\nКак вижу эту задачу в целом. В основном в данные упирается. Первый подход: со стороны JVM. Пример: Android json profile - java agent, инструментирует методы.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        292
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2584,17 +2732,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/xoCBGo4H9g",
-            "expanded_url": "https://twitter.com/i/web/status/1166981149819887617",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1166970945472553000,
@@ -2621,8 +2759,12 @@
       "created_at": "Thu Aug 29 07:49:55 +0000 2019",
       "id": 1166981287602770000,
       "id_str": "1166981287602769920",
-      "text": "@jack_martynov Основной же подход - собирать из API в Gradle. Хороший пример: https://t.co/4SxFkmPHAB\nНедавно мы на… https://t.co/PR0idBF6Ke",
-      "truncated": true,
+      "full_text": "@jack_martynov Основной же подход - собирать из API в Gradle. Хороший пример: https://t.co/4SxFkmPHAB\nНедавно мы начали логировать отдельно связи между задачами (dependsOn, finalizedBy, ...). Не нашли нигде этой инфы, а дебажить сильно помогает, чтобы понять, почему именно запустилась задача.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        293
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2646,15 +2788,6 @@
             "indices": [
               78,
               101
-            ]
-          },
-          {
-            "url": "https://t.co/PR0idBF6Ke",
-            "expanded_url": "https://twitter.com/i/web/status/1166981287602769920",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -2685,8 +2818,12 @@
       "created_at": "Thu Aug 29 07:53:33 +0000 2019",
       "id": 1166982203085136000,
       "id_str": "1166982203085135872",
-      "text": "@jack_martynov Кажется что у Gradle конфликт интересов. Если API для диагностики хороший, то и резона покупать Grad… https://t.co/vC87gxRMD7",
-      "truncated": true,
+      "full_text": "@jack_martynov Кажется что у Gradle конфликт интересов. Если API для диагностики хороший, то и резона покупать Gradle Enterprise уже меньше. \nПример недавней проблемы: https://t.co/o0VcgjqyeO.  Пользовались этим API, а его прикрыли.\nПоэтому build-scan всегда будет в привилегированном положении",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        294
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2704,12 +2841,12 @@
         ],
         "urls": [
           {
-            "url": "https://t.co/vC87gxRMD7",
-            "expanded_url": "https://twitter.com/i/web/status/1166982203085135872",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/o0VcgjqyeO",
+            "expanded_url": "https://git.io/fjx8c",
+            "display_url": "git.io/fjx8c",
             "indices": [
-              117,
-              140
+              168,
+              191
             ]
           }
         ]
@@ -2740,8 +2877,12 @@
       "created_at": "Thu Aug 29 08:44:45 +0000 2019",
       "id": 1166995086699356200,
       "id_str": "1166995086699356167",
-      "text": "Поговорим про жизнь маленького коммита в CI\n\n#день4из7",
+      "full_text": "Поговорим про жизнь маленького коммита в CI\n\n#день4из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        54
+      ],
       "entities": {
         "hashtags": [
           {
@@ -2781,20 +2922,24 @@
       "created_at": "Thu Aug 29 08:50:05 +0000 2019",
       "id": 1166996432479559700,
       "id_str": "1166996432479559680",
-      "text": "Пару лет назад наш CI был очень простой. Мы смотрели на опыт других компаний. Здесь хочу упомянуть старую и все еще… https://t.co/TrVuk5rz4a",
-      "truncated": true,
+      "full_text": "Пару лет назад наш CI был очень простой. Мы смотрели на опыт других компаний. Здесь хочу упомянуть старую и все еще полезную публикацию от facebook: https://t.co/YHsvmB7oHP\nВ итоге многое вышло довольно похожим.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/TrVuk5rz4a",
-            "expanded_url": "https://twitter.com/i/web/status/1166996432479559680",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/YHsvmB7oHP",
+            "expanded_url": "https://research.fb.com/publications/continuous-deployment-of-mobile-software-at-facebook-showcase/",
+            "display_url": "research.fb.com/publications/c…",
             "indices": [
-              117,
-              140
+              149,
+              172
             ]
           }
         ]
@@ -2825,20 +2970,24 @@
       "created_at": "Thu Aug 29 09:30:41 +0000 2019",
       "id": 1167006648797413400,
       "id_str": "1167006648797413376",
-      "text": "По мере роста команды и с жаркими спорами пришли к trunk based модели ветвления. Хорошо масштабируется. \nКачественн… https://t.co/36aqqfXkgP",
-      "truncated": true,
+      "full_text": "По мере роста команды и с жаркими спорами пришли к trunk based модели ветвления. Хорошо масштабируется. \nКачественный обзор: https://t.co/i2yNqJCikS \nПосле такого даже нечего добавить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/36aqqfXkgP",
-            "expanded_url": "https://twitter.com/i/web/status/1167006648797413376",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/i2yNqJCikS",
+            "expanded_url": "https://trunkbaseddevelopment.com/",
+            "display_url": "trunkbaseddevelopment.com",
             "indices": [
-              117,
-              140
+              125,
+              148
             ]
           }
         ]
@@ -2869,23 +3018,17 @@
       "created_at": "Thu Aug 29 12:55:53 +0000 2019",
       "id": 1167058289974272000,
       "id_str": "1167058289974272001",
-      "text": "По верхам про инфаструктуру. \nВсе android приложения живут в монорепозитории. Любой исполняемый в CI код - в docker… https://t.co/jUpSc3jJEx",
-      "truncated": true,
+      "full_text": "По верхам про инфаструктуру. \nВсе android приложения живут в монорепозитории. Любой исполняемый в CI код - в docker, все это крутится в kubernetes. Для CI используем TeamCity.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        175
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/jUpSc3jJEx",
-            "expanded_url": "https://twitter.com/i/web/status/1167058289974272001",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167006648797413400,
@@ -2912,23 +3055,17 @@
       "created_at": "Thu Aug 29 12:57:18 +0000 2019",
       "id": 1167058645164712000,
       "id_str": "1167058645164711937",
-      "text": "Все изменения проходят через pull request'ы. \nЗадача CI - обеспечить \"стабильный\" trunk. Соответственно, набор пров… https://t.co/X5tKH2qMqv",
-      "truncated": true,
+      "full_text": "Все изменения проходят через pull request'ы. \nЗадача CI - обеспечить \"стабильный\" trunk. Соответственно, набор проверок подбираем сравнивая их стоимость и закрываемые риски. Универсальных рецептов нет.\nЗапускаем:\n- Юнит тесты\n- UI тесты (e2e в том числе). Завтра про это.\n- Lint",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/X5tKH2qMqv",
-            "expanded_url": "https://twitter.com/i/web/status/1167058645164711937",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167058289974272000,
@@ -2955,23 +3092,17 @@
       "created_at": "Thu Aug 29 12:58:04 +0000 2019",
       "id": 1167058837280608300,
       "id_str": "1167058837280608257",
-      "text": "Юнит теcты не параллелим. Нет необходимости, потому что модули уже довольно мелкие и хорошо параллелится на этом ур… https://t.co/O3ZoAK2ybO",
-      "truncated": true,
+      "full_text": "Юнит теcты не параллелим. Нет необходимости, потому что модули уже довольно мелкие и хорошо параллелится на этом уровне. \nТакже юнит тесты хорошо кешируются в gradle. Еще один довод в пользу remote cache.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        204
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/O3ZoAK2ybO",
-            "expanded_url": "https://twitter.com/i/web/status/1167058837280608257",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167058645164712000,
@@ -2998,23 +3129,17 @@
       "created_at": "Thu Aug 29 12:59:54 +0000 2019",
       "id": 1167059298897268700,
       "id_str": "1167059298897268736",
-      "text": "lint гонять по всем модулям нет смысла, дает ложно-положительные ошибки.\nПоэтому выгоднее только по приложениям, но… https://t.co/HU2UZ7iql6",
-      "truncated": true,
+      "full_text": "lint гонять по всем модулям нет смысла, дает ложно-положительные ошибки.\nПоэтому выгоднее только по приложениям, но с зависимостями checkDependencies (в lintOptions).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        166
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/HU2UZ7iql6",
-            "expanded_url": "https://twitter.com/i/web/status/1167059298897268736",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167058837280608300,
@@ -3041,20 +3166,24 @@
       "created_at": "Thu Aug 29 13:01:22 +0000 2019",
       "id": 1167059666469367800,
       "id_str": "1167059666469367808",
-      "text": "Если lint слишком медленный, попробуйте настройки:\n- checkGeneratedSources\n- checkTestSources\n- ignoreTestSources\n-… https://t.co/omzzJoRye9",
-      "truncated": true,
+      "full_text": "Если lint слишком медленный, попробуйте настройки:\n- checkGeneratedSources\n- checkTestSources\n- ignoreTestSources\n- checkReleaseBuilds\n\nПодробнее почитать про борьбу за performance и медленные проверки можно здесь: \nhttps://t.co/dhpHsVzlub",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/omzzJoRye9",
-            "expanded_url": "https://twitter.com/i/web/status/1167059666469367808",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/dhpHsVzlub",
+            "expanded_url": "https://groups.google.com/forum/#!topic/lint-dev/RGTvK_uHQGQ",
+            "display_url": "groups.google.com/forum/#!topic/…",
             "indices": [
-              117,
-              140
+              216,
+              239
             ]
           }
         ]
@@ -3085,20 +3214,33 @@
       "created_at": "Thu Aug 29 13:08:13 +0000 2019",
       "id": 1167061393104941000,
       "id_str": "1167061393104941056",
-      "text": "Чтобы сократить объем проверок, в тестировании есть практика impact analysis. Ее можно автоматизировать для тестов.… https://t.co/NPukw5sb6k",
-      "truncated": true,
+      "full_text": "Чтобы сократить объем проверок, в тестировании есть практика impact analysis. Ее можно автоматизировать для тестов.\nОписание концепции: https://t.co/nJg4ZvP9JX\nДля android тестов, в привязке к модулям: https://t.co/eEXYwP7meW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        225
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/NPukw5sb6k",
-            "expanded_url": "https://twitter.com/i/web/status/1167061393104941056",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/nJg4ZvP9JX",
+            "expanded_url": "https://martinfowler.com/articles/rise-test-impact-analysis.html",
+            "display_url": "martinfowler.com/articles/rise-…",
             "indices": [
-              117,
-              140
+              136,
+              159
+            ]
+          },
+          {
+            "url": "https://t.co/eEXYwP7meW",
+            "expanded_url": "https://youtu.be/EBO2S9qcp0s?t=6953",
+            "display_url": "youtu.be/EBO2S9qcp0s?t=…",
+            "indices": [
+              202,
+              225
             ]
           }
         ]
@@ -3129,8 +3271,12 @@
       "created_at": "Thu Aug 29 16:11:07 +0000 2019",
       "id": 1167107419606044700,
       "id_str": "1167107419606044672",
-      "text": "Важная концепция - IaC (https://t.co/PRlKzyYKTu)\nCI - это не инфраструктура \"сбоку\", это часть проекта.\nВсе изменен… https://t.co/73mgEokvtr",
-      "truncated": true,
+      "full_text": "Важная концепция - IaC (https://t.co/PRlKzyYKTu)\nCI - это не инфраструктура \"сбоку\", это часть проекта.\nВсе изменения - через PR, версии не разъезжаются, сборки получаются более воспроизводимые.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3143,15 +3289,6 @@
             "indices": [
               24,
               47
-            ]
-          },
-          {
-            "url": "https://t.co/73mgEokvtr",
-            "expanded_url": "https://twitter.com/i/web/status/1167107419606044672",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -3182,23 +3319,17 @@
       "created_at": "Thu Aug 29 16:16:22 +0000 2019",
       "id": 1167108743290601500,
       "id_str": "1167108743290601473",
-      "text": "Всю логику CI пишем в Gradle плагинах. \nПолучаем готовое решение для:\n- Построение графа исполняемых задач и его эф… https://t.co/Avl3xJd7Tc",
-      "truncated": true,
+      "full_text": "Всю логику CI пишем в Gradle плагинах. \nПолучаем готовое решение для:\n- Построение графа исполняемых задач и его эффективная параллелизация\n- Кеширование\n- Явно описаны input/output\n- Инфраструктура для тестирования\n- Доступна полная модель проекта (модули)\n- Под JVM (Kotlin)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/Avl3xJd7Tc",
-            "expanded_url": "https://twitter.com/i/web/status/1167108743290601473",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167107419606044700,
@@ -3225,8 +3356,12 @@
       "created_at": "Thu Aug 29 16:17:20 +0000 2019",
       "id": 1167108985255858200,
       "id_str": "1167108985255858178",
-      "text": "Плагины покрываем интеграционными тестами (https://t.co/17yq5xSmFt).\nКак это выглядит: \nГенерируем в тесте git репо… https://t.co/31mgMPqWve",
-      "truncated": true,
+      "full_text": "Плагины покрываем интеграционными тестами (https://t.co/17yq5xSmFt).\nКак это выглядит: \nГенерируем в тесте git репозиторий с небольшим многомодульным проектом. К нему применяем плагин, кусочек CI. Прогоняем разные сценарии. Зачастую даже удается test first применять.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3239,15 +3374,6 @@
             "indices": [
               43,
               66
-            ]
-          },
-          {
-            "url": "https://t.co/31mgMPqWve",
-            "expanded_url": "https://twitter.com/i/web/status/1167108985255858178",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -3278,20 +3404,24 @@
       "created_at": "Thu Aug 29 16:26:07 +0000 2019",
       "id": 1167111195297493000,
       "id_str": "1167111195297492992",
-      "text": "Любопытная задача: как держать в монорепозитории тесты, которые проверяют этот же репозиторий, целиком?\n\nДля этого… https://t.co/GQteJRU5wa",
-      "truncated": true,
+      "full_text": "Любопытная задача: как держать в монорепозитории тесты, которые проверяют этот же репозиторий, целиком?\n\nДля этого в тесте копируем репозиторий, и натравливаем на копию Gradle Tooling API (https://t.co/FcliGwMYbG). \nПозволяет снаружи получить модель проекта и позапускать задачи.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/GQteJRU5wa",
-            "expanded_url": "https://twitter.com/i/web/status/1167111195297492992",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/FcliGwMYbG",
+            "expanded_url": "https://docs.gradle.org/current/userguide/embedding.html",
+            "display_url": "docs.gradle.org/current/usergu…",
             "indices": [
-              116,
-              139
+              189,
+              212
             ]
           }
         ]
@@ -3322,23 +3452,17 @@
       "created_at": "Thu Aug 29 17:34:50 +0000 2019",
       "id": 1167128488748490800,
       "id_str": "1167128488748490753",
-      "text": "У каждой автоматизации своя цена, порой высокая. Мы не умеем проверять в PR абсолютно все инфраструктурные изменени… https://t.co/KTtUVOTXC4",
-      "truncated": true,
+      "full_text": "У каждой автоматизации своя цена, порой высокая. Мы не умеем проверять в PR абсолютно все инфраструктурные изменения.\nДля этого есть чеклисты с тем, что не забыть при изменения в критичных частях.\nБольшинство пунктов - запускаешь проверки вручную, глазами оцениваем результаты.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/KTtUVOTXC4",
-            "expanded_url": "https://twitter.com/i/web/status/1167128488748490753",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167111195297493000,
@@ -3365,23 +3489,17 @@
       "created_at": "Thu Aug 29 19:12:46 +0000 2019",
       "id": 1167153135913263000,
       "id_str": "1167153135913263104",
-      "text": "Часть проверок слишко дорогие для PR, никакого железа не хватит.\nНапример, e2e тесты на разных версиях SDK.\nЗапуска… https://t.co/ETL6ZZyotE",
-      "truncated": true,
+      "full_text": "Часть проверок слишко дорогие для PR, никакого железа не хватит.\nНапример, e2e тесты на разных версиях SDK.\nЗапускаем все проверки после слияния в develop, некоторые вообще только ночью.\nУтром команды разбирают найденные баги, чтобы поправить их до релиза.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/ETL6ZZyotE",
-            "expanded_url": "https://twitter.com/i/web/status/1167153135913263104",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167128488748490800,
@@ -3408,23 +3526,17 @@
       "created_at": "Thu Aug 29 19:16:41 +0000 2019",
       "id": 1167154118269554700,
       "id_str": "1167154118269554692",
-      "text": "CD тоже затрону. Уже несколько месяцев делаем canary релизы в android. \nЧередуем: одна неделя - полный регресс, дру… https://t.co/jZP98CKgfp",
-      "truncated": true,
+      "full_text": "CD тоже затрону. Уже несколько месяцев делаем canary релизы в android. \nЧередуем: одна неделя - полный регресс, другая - катим после авто-тестов.\nТеперь изменения доезжают в среднем на 5 дней быстрее. Чтобы не пострадало качество, пытаемся сравнивать метрики между релизами.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/jZP98CKgfp",
-            "expanded_url": "https://twitter.com/i/web/status/1167154118269554692",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167153135913263000,
@@ -3451,23 +3563,17 @@
       "created_at": "Thu Aug 29 19:20:05 +0000 2019",
       "id": 1167154976046637000,
       "id_str": "1167154976046637059",
-      "text": "До полной автоматизации еще далеко, все равно приходится приглядывать за метриками и крешами.\nНо даже если canary р… https://t.co/ewCiLoToW7",
-      "truncated": true,
+      "full_text": "До полной автоматизации еще далеко, все равно приходится приглядывать за метриками и крешами.\nНо даже если canary релиз остановлен из-за багов, обратная связь от него все равно полезна. Находим проблемы раньше.\nИ на команду меньше давления, если не успели, через неделю доедет.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/ewCiLoToW7",
-            "expanded_url": "https://twitter.com/i/web/status/1167154976046637059",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167154118269554700,
@@ -3494,8 +3600,12 @@
       "created_at": "Fri Aug 30 09:11:05 +0000 2019",
       "id": 1167364101946970000,
       "id_str": "1167364101946970112",
-      "text": "Продолжаем про CI, сфокусируемся на UI тестах #день5из7",
+      "full_text": "Продолжаем про CI, сфокусируемся на UI тестах #день5из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        55
+      ],
       "entities": {
         "hashtags": [
           {
@@ -3535,20 +3645,24 @@
       "created_at": "Fri Aug 30 09:43:31 +0000 2019",
       "id": 1167372266818216000,
       "id_str": "1167372266818215936",
-      "text": "UI тесты пишут все, кто коммитит в код приложений. Для команды это только один из инструментов, как обеспечить необ… https://t.co/Rsgdw88LdV",
-      "truncated": true,
+      "full_text": "UI тесты пишут все, кто коммитит в код приложений. Для команды это только один из инструментов, как обеспечить необходимое качество и скорость разработки. \nОтличный обзорный доклад про это: https://t.co/AA7DCJvp7h",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        213
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/Rsgdw88LdV",
-            "expanded_url": "https://twitter.com/i/web/status/1167372266818215936",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/AA7DCJvp7h",
+            "expanded_url": "https://youtu.be/25EO8E3DMPw",
+            "display_url": "youtu.be/25EO8E3DMPw",
             "indices": [
-              117,
-              140
+              190,
+              213
             ]
           }
         ]
@@ -3579,8 +3693,12 @@
       "created_at": "Fri Aug 30 09:54:36 +0000 2019",
       "id": 1167375055283806200,
       "id_str": "1167375055283806209",
-      "text": "@jack_martynov Да, такая уж цена за плотную интеграцию. Для нас плюсы все таки перевесили. Медленнее конечно чем по… https://t.co/iEkIFgTq2B",
-      "truncated": true,
+      "full_text": "@jack_martynov Да, такая уж цена за плотную интеграцию. Для нас плюсы все таки перевесили. Медленнее конечно чем под чистую JVM, но ничего критичного, по сравнению с android. Все плагины в buildSrc, довольно мелкие, прогон тестов быстрый.\nКоллеги в iOS на python пишут интеграции в CI.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        285
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3596,17 +3714,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/iEkIFgTq2B",
-            "expanded_url": "https://twitter.com/i/web/status/1167375055283806209",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167328121072177200,
@@ -3633,8 +3741,12 @@
       "created_at": "Fri Aug 30 10:06:40 +0000 2019",
       "id": 1167378093390127000,
       "id_str": "1167378093390127105",
-      "text": "https://t.co/49g7YtMZQF - наша обертка над espresso. \nПишу не с таким посылом, чтобы все пользовались, а чтобы заин… https://t.co/Osxdz3iwha",
-      "truncated": true,
+      "full_text": "https://t.co/49g7YtMZQF - наша обертка над espresso. \nПишу не с таким посылом, чтобы все пользовались, а чтобы заинтересовать вас проблемами в espresso. Сталкиваемся с ними даже в самых простых действиях, что делает тесты нестабильными. Защищаемся тремя слоями синей изоленты.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3647,15 +3759,6 @@
             "indices": [
               0,
               23
-            ]
-          },
-          {
-            "url": "https://t.co/Osxdz3iwha",
-            "expanded_url": "https://twitter.com/i/web/status/1167378093390127105",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
             ]
           }
         ]
@@ -3686,23 +3789,17 @@
       "created_at": "Fri Aug 30 10:22:01 +0000 2019",
       "id": 1167381952799879200,
       "id_str": "1167381952799879168",
-      "text": "Главная проблема с e2e тестами - стабильность. Любая проблема в сервисах сказывается на тестах. \nПерезапуски теста… https://t.co/NIeYUuXe2y",
-      "truncated": true,
+      "full_text": "Главная проблема с e2e тестами - стабильность. Любая проблема в сервисах сказывается на тестах. \nПерезапуски теста сами по себе не помогают.\nКлючевая идея: сравнивать результаты прогона на feature ветке и в trunk. Только после этого смогли сделать UI тесты блокирующими в PR.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/NIeYUuXe2y",
-            "expanded_url": "https://twitter.com/i/web/status/1167381952799879168",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167364101946970000,
@@ -3729,8 +3826,12 @@
       "created_at": "Fri Aug 30 10:23:47 +0000 2019",
       "id": 1167382400525115400,
       "id_str": "1167382400525115392",
-      "text": "https://t.co/foveDRrWk7",
+      "full_text": "https://t.co/foveDRrWk7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        0
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3872,8 +3973,12 @@
       "created_at": "Fri Aug 30 10:30:09 +0000 2019",
       "id": 1167383999452463000,
       "id_str": "1167383999452463105",
-      "text": "Метафора: нестабильность инфраструктуры размениваем на время проверок.",
+      "full_text": "Метафора: нестабильность инфраструктуры размениваем на время проверок.",
       "truncated": false,
+      "display_text_range": [
+        0,
+        70
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3905,23 +4010,17 @@
       "created_at": "Fri Aug 30 10:38:28 +0000 2019",
       "id": 1167386092951265300,
       "id_str": "1167386092951265280",
-      "text": "Абсолютно стабильные e2e тесты - это недостижимый идеал. \nИх задача в PR: убедиться что наши изменения _не сделали… https://t.co/W1OeYWVpaN",
-      "truncated": true,
+      "full_text": "Абсолютно стабильные e2e тесты - это недостижимый идеал. \nИх задача в PR: убедиться что наши изменения _не сделали хуже_. Иначе мы просто остановим разработку из-за проблем в любом сервисе.\nПоэтому оставляем сценарии, когда может просочиться нестабильное. \nВыбрали такой баланс.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/W1OeYWVpaN",
-            "expanded_url": "https://twitter.com/i/web/status/1167386092951265280",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167364101946970000,
@@ -3948,8 +4047,12 @@
       "created_at": "Fri Aug 30 12:27:40 +0000 2019",
       "id": 1167413575956226000,
       "id_str": "1167413575956226048",
-      "text": "@jack_martynov Честно говоря, язык тоже на последнем месте из критериев. Основные плюшки конечно не в нем.",
+      "full_text": "@jack_martynov Честно говоря, язык тоже на последнем месте из критериев. Основные плюшки конечно не в нем.",
       "truncated": false,
+      "display_text_range": [
+        15,
+        106
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3992,8 +4095,12 @@
       "created_at": "Fri Aug 30 12:28:52 +0000 2019",
       "id": 1167413875379249200,
       "id_str": "1167413875379249152",
-      "text": "@produnderhood Что порекомендуете почитать или посмотреть этой теме?",
+      "full_text": "@produnderhood Что порекомендуете почитать или посмотреть этой теме?",
       "truncated": false,
+      "display_text_range": [
+        15,
+        68
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4036,8 +4143,12 @@
       "created_at": "Fri Aug 30 13:26:05 +0000 2019",
       "id": 1167428275448291300,
       "id_str": "1167428275448291328",
-      "text": "А вот так тесты запускаются в CI https://t.co/gQov7KyEhT",
+      "full_text": "А вот так тесты запускаются в CI https://t.co/gQov7KyEhT",
       "truncated": false,
+      "display_text_range": [
+        0,
+        32
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4179,20 +4290,24 @@
       "created_at": "Fri Aug 30 13:27:16 +0000 2019",
       "id": 1167428573176770600,
       "id_str": "1167428573176770561",
-      "text": "Это пример подхода, когда клиент резервирует и управляет эмуляторами.\nАльтернатива - общая очередь. Эффективнее, но… https://t.co/1xA2k22EUi",
-      "truncated": true,
+      "full_text": "Это пример подхода, когда клиент резервирует и управляет эмуляторами.\nАльтернатива - общая очередь. Эффективнее, но сложнее и более хрупко.\nКоллеги для iOS написали такую очередь - emcee: https://t.co/sGyeuVZRxO",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/1xA2k22EUi",
-            "expanded_url": "https://twitter.com/i/web/status/1167428573176770561",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/sGyeuVZRxO",
+            "expanded_url": "https://git.io/fjxDr",
+            "display_url": "git.io/fjxDr",
             "indices": [
-              117,
-              140
+              188,
+              211
             ]
           }
         ]
@@ -4223,20 +4338,24 @@
       "created_at": "Sat Aug 31 07:34:31 +0000 2019",
       "id": 1167702189839663000,
       "id_str": "1167702189839663106",
-      "text": "Хотели бы больше делиться решениями по инфраструктуре. \nСчитаем что нам это будет только в плюс. \nОсталось найти вр… https://t.co/4oMaVdGXQx",
-      "truncated": true,
+      "full_text": "Хотели бы больше делиться решениями по инфраструктуре. \nСчитаем что нам это будет только в плюс. \nОсталось найти время и удобные форматы. \nСмотрели на https://t.co/OPML4SQiVl - громоздко, удорожает изменения и не факт что переиспользуемо.\nПосоветуйте хорошие примеры и практики",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/4oMaVdGXQx",
-            "expanded_url": "https://twitter.com/i/web/status/1167702189839663106",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/OPML4SQiVl",
+            "expanded_url": "https://git.io/fjxu9",
+            "display_url": "git.io/fjxu9",
             "indices": [
-              117,
-              140
+              151,
+              174
             ]
           }
         ]
@@ -4267,8 +4386,12 @@
       "created_at": "Sat Aug 31 07:40:43 +0000 2019",
       "id": 1167703747839049700,
       "id_str": "1167703747839049728",
-      "text": "На выходные оставил легкую тему, про branch by abstraction #день6из7",
+      "full_text": "На выходные оставил легкую тему, про branch by abstraction #день6из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        68
+      ],
       "entities": {
         "hashtags": [
           {
@@ -4308,20 +4431,24 @@
       "created_at": "Sat Aug 31 07:45:54 +0000 2019",
       "id": 1167705055287566300,
       "id_str": "1167705055287566341",
-      "text": "Заезженная и очевидная тема. Тем не менее, решил рассказать, потому что в последнее время спрашивали.\nЭта практика… https://t.co/au2KFqTolK",
-      "truncated": true,
+      "full_text": "Заезженная и очевидная тема. Тем не менее, решил рассказать, потому что в последнее время спрашивали.\nЭта практика одна из основных, которая помогла  сократить время релиза с месяцев до недель. Необходимая, но конечно не достаточная.\n\nhttps://t.co/6eBcReSnjx",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/au2KFqTolK",
-            "expanded_url": "https://twitter.com/i/web/status/1167705055287566341",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/6eBcReSnjx",
+            "expanded_url": "https://www.martinfowler.com/articles/feature-toggles.html",
+            "display_url": "martinfowler.com/articles/featu…",
             "indices": [
-              116,
-              139
+              235,
+              258
             ]
           }
         ]
@@ -4352,8 +4479,12 @@
       "created_at": "Sat Aug 31 09:25:02 +0000 2019",
       "id": 1167730001309044700,
       "id_str": "1167730001309044736",
-      "text": "@kamakarov Неготовые фичи по умолчанию отключены. Если все таки пропустим критичную ошибку, сможем отключить фичу.… https://t.co/i1tio0tdjn",
-      "truncated": true,
+      "full_text": "@kamakarov Неготовые фичи по умолчанию отключены. Если все таки пропустим критичную ошибку, сможем отключить фичу.\nИзменился подход - заранее думаем об отключаемости.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        166
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4369,17 +4500,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/i1tio0tdjn",
-            "expanded_url": "https://twitter.com/i/web/status/1167730001309044736",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1167707527724843000,
@@ -4406,8 +4527,12 @@
       "created_at": "Sat Aug 31 13:54:14 +0000 2019",
       "id": 1167797746797097000,
       "id_str": "1167797746797096961",
-      "text": "@kamakarov Решение с долгоживущими ветками тяжело масштабировать на большие команды. Подробно разобрано здесь:… https://t.co/LZaQcMGaKT",
-      "truncated": true,
+      "full_text": "@kamakarov Решение с долгоживущими ветками тяжело масштабировать на большие команды. Подробно разобрано здесь: https://t.co/i2yNqJCikS\nФича тоглы позволяют мержить мелкие изменения, не дожидаясь ее полной готовности. В этом и есть суть CI. К тестируемости наоборот требования повышаются.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        287
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4425,12 +4550,12 @@
         ],
         "urls": [
           {
-            "url": "https://t.co/LZaQcMGaKT",
-            "expanded_url": "https://twitter.com/i/web/status/1167797746797096961",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/i2yNqJCikS",
+            "expanded_url": "https://trunkbaseddevelopment.com/",
+            "display_url": "trunkbaseddevelopment.com",
             "indices": [
-              112,
-              135
+              111,
+              134
             ]
           }
         ]
@@ -4461,8 +4586,12 @@
       "created_at": "Sat Aug 31 13:56:23 +0000 2019",
       "id": 1167798288294322200,
       "id_str": "1167798288294322177",
-      "text": "@kamakarov Отсутствие тоглов мешает релизить тем, что нужно больше времени на стабилизацию. Любые нестабильные фичи… https://t.co/LJ4WwBoU90",
-      "truncated": true,
+      "full_text": "@kamakarov Отсутствие тоглов мешает релизить тем, что нужно больше времени на стабилизацию. Любые нестабильные фичи требуют ручного вмешательства, время труднее спрогнозировать. Если фича изначально сделана отключаемой, тогда всегда есть простой вариант.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        254
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4478,17 +4607,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/LJ4WwBoU90",
-            "expanded_url": "https://twitter.com/i/web/status/1167798288294322177",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167784977049763800,
@@ -4515,8 +4634,12 @@
       "created_at": "Sat Aug 31 14:00:06 +0000 2019",
       "id": 1167799224794255400,
       "id_str": "1167799224794255360",
-      "text": "@kamakarov Возможность выкатить что-то менее стабильное и отключить, это как раз удобный инструмент для бизнеса. Ст… https://t.co/3VrHE8F3NL",
-      "truncated": true,
+      "full_text": "@kamakarov Возможность выкатить что-то менее стабильное и отключить, это как раз удобный инструмент для бизнеса. Становится не техническим решением, а продуктовым. Если устраивает - пользуемся, не устраиваем - полируем фичу до блеска и только потом выкатываем.\nCanary релизы - в эту сторону",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        290
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4532,17 +4655,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/3VrHE8F3NL",
-            "expanded_url": "https://twitter.com/i/web/status/1167799224794255360",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167784977049763800,
@@ -4569,8 +4682,12 @@
       "created_at": "Sat Aug 31 14:02:12 +0000 2019",
       "id": 1167799753104642000,
       "id_str": "1167799753104642049",
-      "text": "Обязаны ли команды использовать тоглы? \nНет, это не самоцель. \nЗадача следующая: нестабильная фича не должна блокировать релиз.",
+      "full_text": "Обязаны ли команды использовать тоглы? \nНет, это не самоцель. \nЗадача следующая: нестабильная фича не должна блокировать релиз.",
       "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4602,23 +4719,17 @@
       "created_at": "Sat Aug 31 14:02:37 +0000 2019",
       "id": 1167799858012610600,
       "id_str": "1167799858012610560",
-      "text": "Теперь каждое изменение закрывать тоглом? Даже мелкий bugfix? \nРешение за командой. По опыту, лучше закрыть тоглом,… https://t.co/d7Xobg2y4s",
-      "truncated": true,
+      "full_text": "Теперь каждое изменение закрывать тоглом? Даже мелкий bugfix? \nРешение за командой. По опыту, лучше закрыть тоглом, даже bugfix. Особенно если его тяжело воспроизвести или исправляешь в спешке.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        193
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/d7Xobg2y4s",
-            "expanded_url": "https://twitter.com/i/web/status/1167799858012610560",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167799753104642000,
@@ -4645,23 +4756,17 @@
       "created_at": "Sat Aug 31 14:03:21 +0000 2019",
       "id": 1167800044529041400,
       "id_str": "1167800044529041408",
-      "text": "Все ли можно закрыть тоглом? Нет. \nЕсли в compile time меняем что-то, получим другой бинарник на выходе. В runtime… https://t.co/enRTKatIBC",
-      "truncated": true,
+      "full_text": "Все ли можно закрыть тоглом? Нет. \nЕсли в compile time меняем что-то, получим другой бинарник на выходе. В runtime уже не поменять.\nЕсли слишком дорого, тоже можем принять риск и катить без тогла.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        196
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/enRTKatIBC",
-            "expanded_url": "https://twitter.com/i/web/status/1167800044529041408",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167799858012610600,
@@ -4688,23 +4793,17 @@
       "created_at": "Sat Aug 31 14:04:59 +0000 2019",
       "id": 1167800451938574300,
       "id_str": "1167800451938574336",
-      "text": "Некоторые фичи в инфраструктуре тоже закрываем тоглами. \nВ отличие от приложений, не так критично, можем быстро пер… https://t.co/yI1FafrMkq",
-      "truncated": true,
+      "full_text": "Некоторые фичи в инфраструктуре тоже закрываем тоглами. \nВ отличие от приложений, не так критично, можем быстро перевыкатить изменения.\nПризываю только к более явным решениям в коде (IaC). Не раз были баги из-за неожиданных environment переменных.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        247
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/yI1FafrMkq",
-            "expanded_url": "https://twitter.com/i/web/status/1167800451938574336",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167800044529041400,
@@ -4731,23 +4830,17 @@
       "created_at": "Sat Aug 31 14:12:16 +0000 2019",
       "id": 1167802288087490600,
       "id_str": "1167802288087490560",
-      "text": "Пример заботы о пользователях, который кажется в AGP встречал. \n- В продукте удален deprecated тогл\n- Пытаемся его… https://t.co/XKQVQd4hf3",
-      "truncated": true,
+      "full_text": "Пример заботы о пользователях, который кажется в AGP встречал. \n- В продукте удален deprecated тогл\n- Пытаемся его использовать\n- Это детектируется и сообщается, что тогл уже не поддерживается, какие есть альтернативы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        218
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/XKQVQd4hf3",
-            "expanded_url": "https://twitter.com/i/web/status/1167802288087490560",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167800451938574300,
@@ -4774,20 +4867,24 @@
       "created_at": "Sat Aug 31 14:19:15 +0000 2019",
       "id": 1167804043500171300,
       "id_str": "1167804043500171264",
-      "text": "Обзорный доклад про то, как пришли к этому, как используем, и про свое решение для удаленного управления.\nНе смотри… https://t.co/3nAF7bVccu",
-      "truncated": true,
+      "full_text": "Обзорный доклад про то, как пришли к этому, как используем, и про свое решение для удаленного управления.\nНе смотрите что про iOS, почти все совпадает.\nhttps://t.co/BCK1j93qpF",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        175
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/3nAF7bVccu",
-            "expanded_url": "https://twitter.com/i/web/status/1167804043500171264",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/BCK1j93qpF",
+            "expanded_url": "https://youtu.be/wxB6Vzo_Xzc",
+            "display_url": "youtu.be/wxB6Vzo_Xzc",
             "indices": [
-              117,
-              140
+              152,
+              175
             ]
           }
         ]
@@ -4818,8 +4915,12 @@
       "created_at": "Sat Aug 31 14:21:38 +0000 2019",
       "id": 1167804644636135400,
       "id_str": "1167804644636135425",
-      "text": "@kamakarov Продублирую и в этот тред отличное пояснение от Вовы: https://t.co/BCK1j93qpF",
+      "full_text": "@kamakarov Продублирую и в этот тред отличное пояснение от Вовы: https://t.co/BCK1j93qpF",
       "truncated": false,
+      "display_text_range": [
+        11,
+        88
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4873,23 +4974,17 @@
       "created_at": "Sat Aug 31 14:24:44 +0000 2019",
       "id": 1167805424487338000,
       "id_str": "1167805424487337985",
-      "text": "Считаю ошибкой, что сделали отдельное решение для удаленного управление тоглами, не смогли объединить с сплит-теста… https://t.co/oE2Mk252Fa",
-      "truncated": true,
+      "full_text": "Считаю ошибкой, что сделали отдельное решение для удаленного управление тоглами, не смогли объединить с сплит-тестами. Это должен быть один продукт, во всех смыслах.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        165
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/oE2Mk252Fa",
-            "expanded_url": "https://twitter.com/i/web/status/1167805424487337985",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167804043500171300,
@@ -4916,8 +5011,12 @@
       "created_at": "Sat Aug 31 16:14:00 +0000 2019",
       "id": 1167832920305885200,
       "id_str": "1167832920305885184",
-      "text": "@ashumidub Инженерный подход к проблеме:\nСейчас простой скрипт парсит исходники и по git blame находит давно включе… https://t.co/lijqIEsYbR",
-      "truncated": true,
+      "full_text": "@ashumidub Инженерный подход к проблеме:\nСейчас простой скрипт парсит исходники и по git blame находит давно включенные тоглы, пишет в общий чат.\nБолее простое и правильное решение - смотреть в хранилище remote тоглов. В нем как раз тоглы по всем версиям приложения, с историей переключений.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        291
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4933,17 +5032,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/lijqIEsYbR",
-            "expanded_url": "https://twitter.com/i/web/status/1167832920305885184",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167819831497937000,
@@ -4970,8 +5059,12 @@
       "created_at": "Sat Aug 31 16:16:07 +0000 2019",
       "id": 1167833455444598800,
       "id_str": "1167833455444598784",
-      "text": "@ashumidub Не инженерный подход тоже работает.\nУ каждой команды ограниченное число тоглов, зачастую и так их знают… https://t.co/g2EBirbDpc",
-      "truncated": true,
+      "full_text": "@ashumidub Не инженерный подход тоже работает.\nУ каждой команды ограниченное число тоглов, зачастую и так их знают и после окончания эксперимента удаляют.\nЛибо при рефакторинге, когда спотыкаешься о тогл и видишь что он уже не нужен.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        233
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4987,17 +5080,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/g2EBirbDpc",
-            "expanded_url": "https://twitter.com/i/web/status/1167833455444598784",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1167819831497937000,
@@ -5024,8 +5107,12 @@
       "created_at": "Sun Sep 01 05:03:57 +0000 2019",
       "id": 1168026686769619000,
       "id_str": "1168026686769618947",
-      "text": "\"Лучше работать завтра, чем сегодня!\"\n#день7из7",
+      "full_text": "\"Лучше работать завтра, чем сегодня!\"\n#день7из7",
       "truncated": false,
+      "display_text_range": [
+        0,
+        47
+      ],
       "entities": {
         "hashtags": [
           {
@@ -5065,23 +5152,17 @@
       "created_at": "Sun Sep 01 07:40:49 +0000 2019",
       "id": 1168066162250395600,
       "id_str": "1168066162250395648",
-      "text": "5 сентября будет ровно 5 лет, как я работаю в Авито.\nПришел вторым android разработчиком, еще совсем зеленым.\nЗа эт… https://t.co/qQiW87XkRV",
-      "truncated": true,
+      "full_text": "5 сентября будет ровно 5 лет, как я работаю в Авито.\nПришел вторым android разработчиком, еще совсем зеленым.\nЗа это время многое изменилось, да и компания стала другой.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        169
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/qQiW87XkRV",
-            "expanded_url": "https://twitter.com/i/web/status/1168066162250395648",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1168026686769619000,
@@ -5108,8 +5189,12 @@
       "created_at": "Sun Sep 01 07:41:16 +0000 2019",
       "id": 1168066274171203600,
       "id_str": "1168066274171203584",
-      "text": "Как и зачем работать в одной компании 5 лет?\nУ меня нет ответа для всех. Упомяну лишь пару идей. Не воспринимайте их за абсолют.",
+      "full_text": "Как и зачем работать в одной компании 5 лет?\nУ меня нет ответа для всех. Упомяну лишь пару идей. Не воспринимайте их за абсолют.",
       "truncated": false,
+      "display_text_range": [
+        0,
+        128
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5141,23 +5226,17 @@
       "created_at": "Sun Sep 01 07:42:58 +0000 2019",
       "id": 1168066703563153400,
       "id_str": "1168066703563153408",
-      "text": "Необходимо менять проекты, технологии, зоны ответственности. Заниматься чем-то одним рано или поздно надоест, каким… https://t.co/4YpyfTBf9V",
-      "truncated": true,
+      "full_text": "Необходимо менять проекты, технологии, зоны ответственности. Заниматься чем-то одним рано или поздно надоест, каким-бы интересным это не было.\nЗа последние пару лет перестал писать продуктовый код, ознакомился с разными технологиями, попробовал себя в роли тимлида и вернулся.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/4YpyfTBf9V",
-            "expanded_url": "https://twitter.com/i/web/status/1168066703563153408",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1168066274171203600,
@@ -5184,23 +5263,17 @@
       "created_at": "Sun Sep 01 07:43:44 +0000 2019",
       "id": 1168066896694063000,
       "id_str": "1168066896694063104",
-      "text": "Коллега поделился: если в компании тебе никто умышленно не противодействует, то все ограничения только в тебе.\nЗвуч… https://t.co/6nFYqT6HHL",
-      "truncated": true,
+      "full_text": "Коллега поделился: если в компании тебе никто умышленно не противодействует, то все ограничения только в тебе.\nЗвучит претенциозно, но часто встречал обратную ситуацию, когда была возможность влиять и делать, но искали оправдания, перекладывали ответственность.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/6nFYqT6HHL",
-            "expanded_url": "https://twitter.com/i/web/status/1168066896694063104",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1168066703563153400,
@@ -5227,8 +5300,12 @@
       "created_at": "Sun Sep 01 09:11:46 +0000 2019",
       "id": 1168089049975939000,
       "id_str": "1168089049975939072",
-      "text": "А что вы писали запоминающегося в рабочие чаты? https://t.co/A2Wa2vowea",
+      "full_text": "А что вы писали запоминающегося в рабочие чаты? https://t.co/A2Wa2vowea",
       "truncated": false,
+      "display_text_range": [
+        0,
+        47
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5339,8 +5416,12 @@
       "created_at": "Sun Sep 01 09:16:36 +0000 2019",
       "id": 1168090266928107500,
       "id_str": "1168090266928107530",
-      "text": "https://t.co/jiYcNpdegx",
+      "full_text": "https://t.co/jiYcNpdegx",
       "truncated": false,
+      "display_text_range": [
+        0,
+        23
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5383,21 +5464,119 @@
       "created_at": "Sun Sep 01 09:18:22 +0000 2019",
       "id": 1168090711117500400,
       "id_str": "1168090711117500417",
-      "text": "Расскажу про свое хобби - rope-jumping\nЧто мне это дает:\n- Массу воспоминаний\n- Знакомлюсь с удивительными людьми,… https://t.co/CA3vo45JXG",
-      "truncated": true,
+      "full_text": "Расскажу про свое хобби - rope-jumping\nЧто мне это дает:\n- Массу воспоминаний\n- Знакомлюсь с удивительными людьми, с которыми вряд ли бы с ними вообще встретился в иных обстоятельствах\n- Возможность побывать в уникальных местах https://t.co/0673aLG2vW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        227
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
+        "urls": [],
+        "media": [
           {
-            "url": "https://t.co/CA3vo45JXG",
-            "expanded_url": "https://twitter.com/i/web/status/1168090711117500417",
-            "display_url": "twitter.com/i/web/status/1…",
+            "id": 1168090679391785000,
+            "id_str": "1168090679391784960",
             "indices": [
-              116,
-              139
-            ]
+              228,
+              251
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168090679391784960/pu/img/sBwqGbsaA3SKuoLc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168090679391784960/pu/img/sBwqGbsaA3SKuoLc.jpg",
+            "url": "https://t.co/0673aLG2vW",
+            "display_url": "pic.twitter.com/0673aLG2vW",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1168090711117500417/video/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1168090679391785000,
+            "id_str": "1168090679391784960",
+            "indices": [
+              228,
+              251
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168090679391784960/pu/img/sBwqGbsaA3SKuoLc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168090679391784960/pu/img/sBwqGbsaA3SKuoLc.jpg",
+            "url": "https://t.co/0673aLG2vW",
+            "display_url": "pic.twitter.com/0673aLG2vW",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1168090711117500417/video/1",
+            "type": "video",
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 17367,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1168090679391784960/pu/vid/480x480/it55GGfAZHytGqCN.mp4?tag=10"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1168090679391784960/pu/vid/320x320/aul-Hc0r6UtIDTQn.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1168090679391784960/pu/pl/L-llPyBTHDpyrYd2.m3u8?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
           }
         ]
       },
@@ -5427,8 +5606,12 @@
       "created_at": "Sun Sep 01 15:23:11 +0000 2019",
       "id": 1168182522964009000,
       "id_str": "1168182522964008961",
-      "text": "@Iliasmach В пустыне: Иордания, команда Rock&amp;Rope\nНад озером: Хорватия, команды Rock&amp;Rope и Pyrénaline.\nНа аватарке… https://t.co/9kG0eAN2Jp",
-      "truncated": true,
+      "full_text": "@Iliasmach В пустыне: Иордания, команда Rock&amp;Rope\nНад озером: Хорватия, команды Rock&amp;Rope и Pyrénaline.\nНа аватарке: Кабардино-Балкария, команда RAPT.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        158
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5444,17 +5627,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/9kG0eAN2Jp",
-            "expanded_url": "https://twitter.com/i/web/status/1168182522964008961",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              125,
-              148
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1168092419725942800,
@@ -5481,23 +5654,17 @@
       "created_at": "Sun Sep 01 15:30:32 +0000 2019",
       "id": 1168184369460240400,
       "id_str": "1168184369460240390",
-      "text": "10 != 11\n26 октября 2018 прилетел в Амман на прыжки, долго не мог понять, почему никого нет и рейсы какие-то странн… https://t.co/c9AjClHolB",
-      "truncated": true,
+      "full_text": "10 != 11\n26 октября 2018 прилетел в Амман на прыжки, долго не мог понять, почему никого нет и рейсы какие-то странные.\nОказалось, что перепутал месяц и все прилетают 26 ноября.\nИнтересно было наблюдать за собой в миниатюре фазы отрицания, гнева, ...\nИ такое бывает",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/c9AjClHolB",
-            "expanded_url": "https://twitter.com/i/web/status/1168184369460240390",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1168090711117500400,
@@ -5524,8 +5691,12 @@
       "created_at": "Sun Sep 01 15:47:21 +0000 2019",
       "id": 1168188603136118800,
       "id_str": "1168188603136118784",
-      "text": "С вами интересно, мне понравилось, но пора передавать эстафету.\nСпасибо @igrekde за приглашение!\n\nОстаёмся на связи.\ntelegram: @ekrivobokov",
+      "full_text": "С вами интересно, мне понравилось, но пора передавать эстафету.\nСпасибо @igrekde за приглашение!\n\nОстаёмся на связи.\ntelegram: @ekrivobokov",
       "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5578,8 +5749,12 @@
       "created_at": "Mon Sep 02 03:57:19 +0000 2019",
       "id": 1168372306307145700,
       "id_str": "1168372306307145728",
-      "text": "С вами на линии @igrekde с минуткой рекламы – ведь что может быть лучше утром в понедельник!",
+      "full_text": "С вами на линии @igrekde с минуткой рекламы – ведь что может быть лучше утром в понедельник!",
       "truncated": false,
+      "display_text_range": [
+        0,
+        92
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5622,20 +5797,24 @@
       "created_at": "Mon Sep 02 03:58:56 +0000 2019",
       "id": 1168372713297260500,
       "id_str": "1168372713297260545",
-      "text": "В московский офис Indriver открыты вакансии синьора и мидла айосера. У ребят 29млн пользователей и супер интересные… https://t.co/xuxkO9AuYh",
-      "truncated": true,
+      "full_text": "В московский офис Indriver открыты вакансии синьора и мидла айосера. У ребят 29млн пользователей и супер интересные задачи, которые делают жизнь этих людей лучше. \nЗа подробностями – sakhayaana в Телеграме.\nhttps://t.co/FPkrD8tu72",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        230
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/xuxkO9AuYh",
-            "expanded_url": "https://twitter.com/i/web/status/1168372713297260545",
-            "display_url": "twitter.com/i/web/status/1…",
+            "url": "https://t.co/FPkrD8tu72",
+            "expanded_url": "https://hh.ru/vacancy/32924564",
+            "display_url": "hh.ru/vacancy/329245…",
             "indices": [
-              117,
-              140
+              207,
+              230
             ]
           }
         ]
@@ -5666,8 +5845,12 @@
       "created_at": "Mon Sep 02 04:07:44 +0000 2019",
       "id": 1168374924601430000,
       "id_str": "1168374924601430016",
-      "text": "И пора брать билеты на осенний @AppsConfRussia – конфу, которая помогает мобильным разработчикам расти. \nИ там можн… https://t.co/VRPjivdUsv",
-      "truncated": true,
+      "full_text": "И пора брать билеты на осенний @AppsConfRussia – конфу, которая помогает мобильным разработчикам расти. \nИ там можно будет вживую послушать многих авторов этого твиттера, например: @0leGG @nekdenis @ZiminAlex @M0rtyMerr @posipov @sboishtyan",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5681,19 +5864,69 @@
               31,
               46
             ]
-          }
-        ],
-        "urls": [
+          },
           {
-            "url": "https://t.co/VRPjivdUsv",
-            "expanded_url": "https://twitter.com/i/web/status/1168374924601430016",
-            "display_url": "twitter.com/i/web/status/1…",
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
             "indices": [
-              117,
-              140
+              181,
+              187
+            ]
+          },
+          {
+            "screen_name": "nekdenis",
+            "name": "Denis Nek",
+            "id": 149568924,
+            "id_str": "149568924",
+            "indices": [
+              188,
+              197
+            ]
+          },
+          {
+            "screen_name": "ZiminAlex",
+            "name": "Alexander Zimin",
+            "id": 241640832,
+            "id_str": "241640832",
+            "indices": [
+              198,
+              208
+            ]
+          },
+          {
+            "screen_name": "M0rtyMerr",
+            "name": "Anton Nazarov",
+            "id": 1082227064688775200,
+            "id_str": "1082227064688775174",
+            "indices": [
+              209,
+              219
+            ]
+          },
+          {
+            "screen_name": "posipov",
+            "name": "Pavel Osipov",
+            "id": 440618700,
+            "id_str": "440618700",
+            "indices": [
+              220,
+              228
+            ]
+          },
+          {
+            "screen_name": "sboishtyan",
+            "name": "Сергей Боиштян",
+            "id": 1898457668,
+            "id_str": "1898457668",
+            "indices": [
+              229,
+              240
             ]
           }
-        ]
+        ],
+        "urls": []
       },
       "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
       "in_reply_to_status_id": null,

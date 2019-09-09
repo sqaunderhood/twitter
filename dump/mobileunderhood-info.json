@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2447,
+  "followers_count": 2450,
   "friends_count": 2,
   "listed_count": 28,
   "created_at": "Sat Oct 27 14:48:40 +0000 2018",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8882,
+  "statuses_count": 8883,
   "lang": null,
   "status": {
-    "created_at": "Sat Sep 07 16:08:02 +0000 2019",
-    "id": 1170368135943336000,
-    "id_str": "1170368135943335938",
-    "text": "Первые полгода самые заметные наверно. Потом скорее профилактика и анализ шаблонов поведения. \n\nОт скуки меня спаса… https://t.co/rivXq9Pz5i",
+    "created_at": "Mon Sep 09 02:33:54 +0000 2019",
+    "id": 1170888029088682000,
+    "id_str": "1170888029088681986",
+    "text": "Выходные пролетели очень активно и не все успел из того что хотел. Для меня эта неделя была интересным и запоминающ… https://t.co/HijTolNufK",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/rivXq9Pz5i",
-          "expanded_url": "https://twitter.com/i/web/status/1170368135943335938",
+          "url": "https://t.co/HijTolNufK",
+          "expanded_url": "https://twitter.com/i/web/status/1170888029088681986",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -69,14 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1170320061158047700,
-    "quoted_status_id_str": "1170320061158047744",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
