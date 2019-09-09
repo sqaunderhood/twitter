@@ -1,0 +1,403 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Sep 09 08:00:23 +0000 2019",
+      "id": 1170970188793073700,
+      "id_str": "1170970188793073664",
+      "full_text": "Всем привет! Меня зовут Вика. Я работаю Android разработчиком в компании @canva. На этой неделе я с вами 😊 Твитером пользуюсь впервые, поэтому не судите строго.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "canva",
+            "name": "Canva",
+            "id": 36542528,
+            "id_str": "36542528",
+            "indices": [
+              73,
+              79
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 09 08:01:58 +0000 2019",
+      "id": 1170970587176390700,
+      "id_str": "1170970587176390657",
+      "full_text": "По традиции расписание на неделю: не влезает в один твит 🤯",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 09 08:02:38 +0000 2019",
+      "id": 1170970756085190700,
+      "id_str": "1170970756085190656",
+      "full_text": "#Пн: День тяжёлый, поэтому расскажу про рабочую культуры расслабленных Австралийцев.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        84
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Пн",
+            "indices": [
+              0,
+              3
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 09 08:03:07 +0000 2019",
+      "id": 1170970876377845800,
+      "id_str": "1170970876377845760",
+      "full_text": "#Вт: Кроссплатформенность за и против. Подискуутируем?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        54
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Вт",
+            "indices": [
+              0,
+              3
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 09 08:03:26 +0000 2019",
+      "id": 1170970957537693700,
+      "id_str": "1170970957537693696",
+      "full_text": "#Ср: Опен-спейс раздражители! Да к среде уже начинает все бесить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        65
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Ср",
+            "indices": [
+              0,
+              3
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 09 08:03:56 +0000 2019",
+      "id": 1170971084234977300,
+      "id_str": "1170971084234977280",
+      "full_text": "#Чт: Пятница близко. Сегодня буду делиться своей болью разработки видео-редактора под Андройд. Думаю многое и прочих платформ касается.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        135
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Чт",
+            "indices": [
+              0,
+              3
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 09 08:04:19 +0000 2019",
+      "id": 1170971178288078800,
+      "id_str": "1170971178288078848",
+      "full_text": "#Пт: В последний рабочий день тянет пофилософствовать, особенно после вечернего пивасика, поэтому хочу вслух поразмышлять на тему: есть ли жизнь без программирования.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        166
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Пт",
+            "indices": [
+              0,
+              3
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 09 08:04:56 +0000 2019",
+      "id": 1170971333393436700,
+      "id_str": "1170971333393436672",
+      "full_text": "Выходные.\n#Сб: Хватит о работе. Расскажу чем заняться в Сиднее на выходных.\n#Вс: Поделюсь своим мнением о профессиональной иммиграции и парочкой лайф-хаков для быстрой адаптации.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        178
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Сб",
+            "indices": [
+              10,
+              13
+            ]
+          },
+          {
+            "text": "Вс",
+            "indices": [
+              76,
+              79
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 09 08:08:50 +0000 2019",
+      "id": 1170972317033189400,
+      "id_str": "1170972317033189376",
+      "full_text": "Забыла сказать, что живу я в Австралии и разница с Москвой у меня 7 часов. Мой рабочий день уже закончился💃🏼",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        108
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

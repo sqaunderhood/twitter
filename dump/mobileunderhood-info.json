@@ -3,15 +3,26 @@
   "id_str": "1056195982340358150",
   "name": "Мобильный разработчик",
   "screen_name": "mobileunderhood",
-  "location": "Kharkiv",
-  "profile_location": null,
-  "description": "Алексей Демедецкий (@daloog), team lead в Sigma Software",
-  "url": "https://t.co/np5yyKi7zD",
+  "location": "Sydney, New South Wales",
+  "profile_location": {
+    "id": "0073b76548e5984f",
+    "url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+    "place_type": "unknown",
+    "name": "Sydney, New South Wales",
+    "full_name": "Sydney, New South Wales",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Виктория Сулейманова. Android Developer in #Canva",
+  "url": "https://t.co/np5yyK0wb3",
   "entities": {
     "url": {
       "urls": [
         {
-          "url": "https://t.co/np5yyKi7zD",
+          "url": "https://t.co/np5yyK0wb3",
           "expanded_url": "http://mobileunderhood.ru",
           "display_url": "mobileunderhood.ru",
           "indices": [
@@ -35,29 +46,19 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8883,
+  "statuses_count": 8892,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 09 02:33:54 +0000 2019",
-    "id": 1170888029088682000,
-    "id_str": "1170888029088681986",
-    "text": "Выходные пролетели очень активно и не все успел из того что хотел. Для меня эта неделя была интересным и запоминающ… https://t.co/HijTolNufK",
-    "truncated": true,
+    "created_at": "Mon Sep 09 08:08:50 +0000 2019",
+    "id": 1170972317033189400,
+    "id_str": "1170972317033189376",
+    "text": "Забыла сказать, что живу я в Австралии и разница с Москвой у меня 7 часов. Мой рабочий день уже закончился💃🏼",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/HijTolNufK",
-          "expanded_url": "https://twitter.com/i/web/status/1170888029088681986",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
@@ -71,7 +72,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 7,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
@@ -83,9 +84,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1168448104615612417/Jo2EZoGk_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168448104615612417/Jo2EZoGk_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056195982340358150/1567414877",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1170967837063540736/e53aXMO4_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170967837063540736/e53aXMO4_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056195982340358150/1568015463",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
