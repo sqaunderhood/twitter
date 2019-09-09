@@ -2,10 +2,10 @@
 set -e
 
 echo "set git environment"
-git config user.email "agapov.one+travis@gmail.com"
-git config user.name "Travis Alex Agapov"
+git config user.email "igrekde@gmail.com"
+git config user.name "Travis Egor Tolstoy"
 git remote rm origin
-git remote add origin https://AgapovOne:${GITHUB_TOKEN}@github.com/AgapovOne/mobileunderhood.git
+git remote add origin https://etolstoy:${GITHUB_TOKEN}@github.com/etolstoy/mobileunderhood.git
 git checkout master
 
 echo "run update"
