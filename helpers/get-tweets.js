@@ -7,6 +7,7 @@ const defaults = {
   trim_user: true,
   include_rts: true,
   exclude_replies: false,
+  tweet_mode: 'extended',
 };
 
 const getNextOptions = (options, tweets) => {

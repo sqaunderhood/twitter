@@ -1,7 +1,9 @@
 import moment from 'moment';
-import { pipe, filter, groupBy, prop, converge, inc, dec, length,
+import {
+  pipe, filter, groupBy, prop, converge, inc, dec, length,
   findIndex, propEq, path, map, head, split, nth, replace, toUpper, tail,
-  concat } from 'ramda';
+  concat
+} from 'ramda';
 import numd from 'numd';
 import renderTweet from 'tweet.md';
 import getLinks from './get-links';
@@ -42,11 +44,28 @@ const prevAuthor = author => {
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
+
 const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf(`@${underhood}`) === 0);
-const prepareTweets = pipe(
-  filter(filterTimeline),
-  groupBy(pipe(prop('created_at'), weekday)),
-  ungroupInto('weekday', 'tweets'));
+const fullText = item => {
+  item.text = item.full_text || item.text;
+
+  if (item.quoted_status) {
+    item.quoted_status.text = item.quoted_status.full_text || item.quoted_status.text;
+  }
+
+  if (item.retweeted_status) {
+    item.retweeted_status.text = item.retweeted_status.full_text || item.retweeted_status.text;
+  }
+
+  return item;
+};
+const prepareTweets = tweets => {
+  tweets = map(fullText, tweets);
+  tweets = filter(filterTimeline, tweets);
+  tweets = groupBy(pipe(prop('created_at'), weekday), tweets);
+
+  return ungroupInto('weekday', 'tweets')(tweets);
+};
 
 export default {
   d,

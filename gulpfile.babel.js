@@ -55,7 +55,7 @@ const getOptions = (opts = {}) =>
 
 const jade = opts => gulpJade(getOptions(opts));
 const firstTweet = pipe(prop('tweets'), head);
-const render = pipe(renderTweet, html);
+const render = pipe(tweet => merge(tweet, tweet.full_text && { text: tweet.full_text }), renderTweet, html);
 
 /**
  * MAIN TASKS
