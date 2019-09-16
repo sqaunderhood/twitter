@@ -66,7 +66,7 @@ async function updateAuthors() {
 
 (async () => {
   getInfo(tokens, underhood).then(info => {
-    saveAuthorArea(underhood, 'info', info);
+    saveAuthorArea(underhood + '-account', 'info', info);
   });
 
   updateLastAuthor();

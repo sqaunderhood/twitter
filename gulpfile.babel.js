@@ -33,7 +33,7 @@ import bust from './helpers/bust';
 import authors from './dump';
 
 import getAuthorArea from './helpers/get-author-area';
-const underhoodInfo = getAuthorArea(underhood.underhood, 'info') || {};
+const underhoodInfo = getAuthorArea(underhood.underhood + '-account', 'info') || {};
 
 const start = _start.bind(gulp);
 const task = _task.bind(gulp);
