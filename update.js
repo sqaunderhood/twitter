@@ -33,7 +33,7 @@ function update(author, nextAuthor) {
     saveAuthorArea(authorId, 'info', info);
   });
 
-  rm(`./dump/images/${username}*`);
+  rm(`./dump/images/${authorId}*`);
   saveMedia(tokens, username, authorId, (err, media) => {
     if (err) throw err;
     saveAuthorArea(authorId, 'media', media);
@@ -55,8 +55,10 @@ function updateLastAuthor() {
 async function updateAuthors() {
   const reversedAuthors = reverse(authors);
   for (let index = 0; index < reversedAuthors.length; index++) {
-    if (index !== 0) await sleep(10000);
     const author = reversedAuthors[index];
+    const shouldUpdate = author.update !== false;
+    if (!shouldUpdate) { continue; }
+    if (index !== 0) await sleep(10000);
 
     update(author, reversedAuthors[index + 1]);
   }
@@ -64,7 +66,7 @@ async function updateAuthors() {
 
 (async () => {
   getInfo(tokens, underhood).then(info => {
-    saveAuthorArea(underhood, 'info', info);
+    saveAuthorArea(underhood + '-account', 'info', info);
   });
 
   updateLastAuthor();

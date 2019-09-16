@@ -1,0 +1,496 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Sep 16 09:54:23 +0000 2019",
+      "id": 1173535595093778400,
+      "id_str": "1173535595093778433",
+      "full_text": "Привет. Меня зовут Влад. Я делаю https://t.co/Qr4Dm4vlnY – логбук+трекер для парашютистов. \n\nНа этой неделе поговорим про этот вид спорта и технологии, которые в нём используются.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        179
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Qr4Dm4vlnY",
+            "expanded_url": "http://skyduck.app",
+            "display_url": "skyduck.app",
+            "indices": [
+              33,
+              56
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:13:18 +0000 2019",
+      "id": 1173540355037376500,
+      "id_str": "1173540355037376513",
+      "full_text": "В этом треде поговорим о парашютном спорте и его представителях.\n\nВы когда-нибудь прыгали с парашютом?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        102
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:14:18 +0000 2019",
+      "id": 1173540605479260200,
+      "id_str": "1173540605479260160",
+      "full_text": "Начнём с того, как становятся парашютистами.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173540355037376500,
+      "in_reply_to_status_id_str": "1173540355037376513",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:17:29 +0000 2019",
+      "id": 1173541407690244000,
+      "id_str": "1173541407690244096",
+      "full_text": "Если вы хотите прыгнуть для развлечения, у вас два варианта: прыжок с ~4000м в тандеме с инструктором или с 800м самостоятельно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        128
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173540605479260200,
+      "in_reply_to_status_id_str": "1173540605479260160",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:20:55 +0000 2019",
+      "id": 1173542273067491300,
+      "id_str": "1173542273067491328",
+      "full_text": "С 800м у вас будет круглый купол, 3 секунды свободного падения и жёсткое приземление. \nОт этих видов прыжков постепенно отказываются, так как круглый купол плохо управляется и высокая травмоопасность на приземлении.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        215
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173541407690244000,
+      "in_reply_to_status_id_str": "1173541407690244096",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:24:15 +0000 2019",
+      "id": 1173543108627374000,
+      "id_str": "1173543108627374081",
+      "full_text": "В прыжке с 4000м вас прицепят к инструктору, у которого минимум 500 прыжков и пройденные курсы тандем мастера. У вас будет 45-50 секунд свободного падения и мягкая посадка. \nНасколько мягкая можно посмотреть на ютубе по запросу “skydiving tandem landing”.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173542273067491300,
+      "in_reply_to_status_id_str": "1173542273067491328",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:28:37 +0000 2019",
+      "id": 1173544208621363200,
+      "id_str": "1173544208621363202",
+      "full_text": "Если вы хотите научиться прыгать самостоятельно, вас нужен курс AFF (Accelerated FreeFall). \nВ него входит теория и 7 прыжков с различными заданиями. После его прохождения вы сможете прыгать самостоятельно на той дропзоне, на которой вас учили.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        244
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173543108627374000,
+      "in_reply_to_status_id_str": "1173543108627374081",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:32:20 +0000 2019",
+      "id": 1173545144341139500,
+      "id_str": "1173545144341139456",
+      "full_text": "На курсе AFF вас научат стабильно падать, следить за высотой, открывать парашют, исправлять неисправности при открытии, отцеплять основной парашют и открывать запасной при необходимости, заходить на посадку и садиться без происшествий.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173544208621363200,
+      "in_reply_to_status_id_str": "1173544208621363202",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:35:47 +0000 2019",
+      "id": 1173546012209799200,
+      "id_str": "1173546012209799169",
+      "full_text": "После AFF идут 5 coach прыжков. На них вас научат двигаться в свободном падении вперёд-назад, вверх-вниз и тречить: переводить тело из горизонтального относительно земли в угол ~30 гр. для быстрого движения вперёд. \nТрекинг можете увидеть на обложке профиля.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173545144341139500,
+      "in_reply_to_status_id_str": "1173545144341139456",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:38:21 +0000 2019",
+      "id": 1173546658908528600,
+      "id_str": "1173546658908528640",
+      "full_text": "Когда AFF и coach прыжки пройдены, вам нужно пройти курс укладки парашюта и прыгнуть минимум раз на своей укладке.\n \nЗапасной парашют укладывать вам не дадут. Это могут делать только сертифицированные риггеры.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        209
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173546012209799200,
+      "in_reply_to_status_id_str": "1173546012209799169",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:41:56 +0000 2019",
+      "id": 1173547558595158000,
+      "id_str": "1173547558595158016",
+      "full_text": "Осталось совсем немного. Вам нужно выполнить 2 прыжка с высоты ниже 1400м (отделился-открылся) и напрыгать за всё время 25 прыжков. \n\nПосле этого устный и письменный экзамен, оплата лицензии и вы лицензированный парашютист. Можно прыгать на любых аэродромах*.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173546658908528600,
+      "in_reply_to_status_id_str": "1173546658908528640",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:44:38 +0000 2019",
+      "id": 1173548240471543800,
+      "id_str": "1173548240471543808",
+      "full_text": "*Есть ограничения. Если площадка приземления маленькая или она находится рядом с водой, дропзона может потребовать 50+/100+ прыжков. \nСамая строгая – Skydive Dubai. Для допуска там требуют 1000+ прыжков.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173547558595158000,
+      "in_reply_to_status_id_str": "1173547558595158016",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 10:48:35 +0000 2019",
+      "id": 1173549235675050000,
+      "id_str": "1173549235675049985",
+      "full_text": "Ещё интересные допуски:\n200 прыжков – wingsuit (костюм белки летяги)\n200 прыжков – прыгать с камерой (даже с gopro)\n1000 прыжков – показательные прыжки с приземлением на стандионы",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        179
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1173548240471543800,
+      "in_reply_to_status_id_str": "1173548240471543808",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

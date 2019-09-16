@@ -33,7 +33,7 @@ import bust from './helpers/bust';
 import authors from './dump';
 
 import getAuthorArea from './helpers/get-author-area';
-const underhoodInfo = getAuthorArea(underhood.underhood, 'info') || {};
+const underhoodInfo = getAuthorArea(underhood.underhood + '-account', 'info') || {};
 
 const start = _start.bind(gulp);
 const task = _task.bind(gulp);
@@ -137,11 +137,6 @@ task('authors', ['css'], done => {
   }, done);
 });
 
-task('optimize-images-size', () =>
-  src('dump/images/*-image*')
-    .pipe(jimp({ resize: { width: 200, height: 200 } }))
-    .pipe(dest('dump/images')));
-
 task('userpics', () =>
   src('dump/images/*-image*')
     .pipe(jimp({ resize: { width: 96, height: 96 } }))
@@ -196,7 +191,7 @@ task('server', () => {
 task('clean', done => rimraf('dist', done));
 
 task('html', ['authors', 'index', 'rss', 'md-pages']);
-task('build', done => sequence('html', 'css', 'js', 'static', 'optimize-images-size', 'userpics', 'current-media', done));
+task('build', done => sequence('html', 'css', 'js', 'static', 'userpics', 'current-media', done));
 
 task('default', done => sequence('clean', 'watch', done));
 
