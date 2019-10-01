@@ -56,11 +56,12 @@ async function updateAuthors() {
   const reversedAuthors = reverse(authors);
   for (let index = 0; index < reversedAuthors.length; index++) {
     const author = reversedAuthors[index];
-    const shouldUpdate = author.update !== false;
-    if (!shouldUpdate) { continue; }
-    if (index !== 0) await sleep(10000);
+    const shouldUpdate = author.update === true;
+    if (shouldUpdate) {
+      if (index !== 0) await sleep(10000);
 
-    update(author, reversedAuthors[index + 1]);
+      update(author, reversedAuthors[index + 1]);
+    }
   }
 }
 
@@ -69,6 +70,6 @@ async function updateAuthors() {
     saveAuthorArea(underhood + '-account', 'info', info);
   });
 
-  updateLastAuthor();
-  // updateAuthors() // NOTE: Use carefully, cause it can remove old tweets
+  // updateLastAuthor();
+  updateAuthors(); // NOTE: Use carefully, cause it can remove old tweets
 })();
