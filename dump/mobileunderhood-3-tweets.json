@@ -1,0 +1,1326 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Sep 30 09:32:37 +0000 2019",
+      "id": 1178603545240785000,
+      "id_str": "1178603545240784896",
+      "full_text": "Привет коллеги! С вами Денис Кириллов. Руковожу iOS разработкой в Mamba. Суммарно проработал в IT 15 лет. Успел покодить на множестве мобильных платформ: Symbian, WP, Android, Tizen и Bada. Остановился на iOS. Плавно перетекаю в менеджмент.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 09:32:37 +0000 2019",
+      "id": 1178603547941900300,
+      "id_str": "1178603547941900288",
+      "full_text": "Mamba крупнейший dating серивс на территории СНГ. Основан в 2004-ом. Доступен на iOS, Android и Web. Первое мобильное приложение вышло 2009-ом. Сейчас более 40 мил. пользователей. Тех. департамент - 70 сотрудников. Мобильный отдел iOS/Android - 12 человек.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178603545240785000,
+      "in_reply_to_status_id_str": "1178603545240784896",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 09:32:38 +0000 2019",
+      "id": 1178603551251153000,
+      "id_str": "1178603551251152896",
+      "full_text": "На этой неделе поделюсь мыслями, опытом и взглядом на происходящее в мобильной индустрии. Расскажу про оценку задач, деструктивные кадры, мониторинг релизов, процессы и движуху в нашей команде.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        193
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178603547941900300,
+      "in_reply_to_status_id_str": "1178603547941900288",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 10:18:07 +0000 2019",
+      "id": 1178614994889560000,
+      "id_str": "1178614994889560064",
+      "full_text": "Понедельник - день который многие начинают с планирования дел на предстоящую неделю. Достоверная оценка ключ к успеху любого планирования, о ней и поговорим, в контексте мобильной разработки.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        191
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 10:18:07 +0000 2019",
+      "id": 1178614996261097500,
+      "id_str": "1178614996261097472",
+      "full_text": "Первый раз о том как делать оценку я всерьез задумался когда искал работу на lead позицию. Поводом стал вопрос на финальном этапе собеса в успешной отечественной компании. К тому времени я прошел несколько кругов ада и оставался последний, - встреча с CEO.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178614994889560000,
+      "in_reply_to_status_id_str": "1178614994889560064",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 10:18:07 +0000 2019",
+      "id": 1178614997666205700,
+      "id_str": "1178614997666205696",
+      "full_text": "На собесе СEO задал вопрос: «Представь, надо сделать Instagram, есть два iOS-ника и готовый backend. Сможешь за 4 месяца сделать готовый продукт?». Замечу, что это происходило примерно лет 7 назад и инста еще не была такой навороченной как сейчас.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        247
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178614996261097500,
+      "in_reply_to_status_id_str": "1178614996261097472",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 10:33:55 +0000 2019",
+      "id": 1178618974784888800,
+      "id_str": "1178618974784888833",
+      "full_text": "Поёрзав на стуле я осознал, что не могу дать однозначный ответ. Сказать «да» и получить офер на проект с которым придется ночевать предстоящие 4 месяца или сказать «нет» и уйти с позором?… Оба варианта были \"такое себе\" и я решил ответить честно - «Не знаю».",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178614997666205700,
+      "in_reply_to_status_id_str": "1178614997666205696",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 10:45:47 +0000 2019",
+      "id": 1178621959783010300,
+      "id_str": "1178621959783010304",
+      "full_text": "После был ожидаемый вопрос: «Сколько времени  нужно?». Терять уже было нечего и я решил импровизировать, ответ был примерно такой: «6 мес. с вероятностью больше 60%, 12 мес. с вероятностью до 90%». Через пару дней мне неожиданно пришел офер.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178618974784888800,
+      "in_reply_to_status_id_str": "1178618974784888833",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 10:47:38 +0000 2019",
+      "id": 1178622423886942200,
+      "id_str": "1178622423886942208",
+      "full_text": "От создания альтернативы Instagram’а я тогда отказался и офер не принял, но сама история оказалась ценнее и стала уроком на всю жизнь. Если не знаешь как оценить, а отвечать нужно сейчас - говори вилку и указывай вероятность.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        225
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178621959783010300,
+      "in_reply_to_status_id_str": "1178621959783010304",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 10:50:46 +0000 2019",
+      "id": 1178623212973891600,
+      "id_str": "1178623212973891584",
+      "full_text": "@true_ibeginner @bobuk За 6 месяцев можно сделать большинство, а за 12 практически что угодно :)",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        96
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "true_ibeginner",
+            "name": "true iBegginer",
+            "id": 898860513190445000,
+            "id_str": "898860513190445057",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "bobuk",
+            "name": "bobuk",
+            "id": 1942851,
+            "id_str": "1942851",
+            "indices": [
+              16,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178621072016625700,
+      "in_reply_to_status_id_str": "1178621072016625664",
+      "in_reply_to_user_id": 898860513190445000,
+      "in_reply_to_user_id_str": "898860513190445057",
+      "in_reply_to_screen_name": "true_ibeginner",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 11:49:39 +0000 2019",
+      "id": 1178638033324793900,
+      "id_str": "1178638033324793857",
+      "full_text": "Нельзя давать оценку «с потолка». Ваша оценка это обещание от выполнения которого зависит ваша репутация, если не хотите чтобы вашу репутацию тоже оценивали «с потолка» относитесь к оценке серьезно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1178622423886942200,
+      "in_reply_to_status_id_str": "1178622423886942208",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 13:12:44 +0000 2019",
+      "id": 1178658939333959700,
+      "id_str": "1178658939333959686",
+      "full_text": "Для оценки проекта или killer-фичи с бюджетом в пару-тройку годовых окладов разработчика, привычные методы как Scrum-покер, карточки с размером футболок или dot-point’ы не применимы. Понадобятся более скучные, но весьма эффективные методы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 13:12:44 +0000 2019",
+      "id": 1178658940827177000,
+      "id_str": "1178658940827176963",
+      "full_text": "Лучшим источником информации по методам оценки для меня стала книга С.Макконнелла «Сколько стоит программный проект». В ней подробно описано 9 методов для проектов разного масштаба и разных по кол-ву сотрудников команд. Есть из чего выбрать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178658939333959700,
+      "in_reply_to_status_id_str": "1178658939333959686",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 13:12:44 +0000 2019",
+      "id": 1178658942207103000,
+      "id_str": "1178658942207102976",
+      "full_text": "Оптимальным считаю метод «Сводной оценки». Он более других подходит под реалии мобильной действительности, учитывает объемы задач и размеры команд. О нем можно прочитать в 10-ой главе. Если вам интересна тема читайте всю книгу целиком, не пожалеете.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178658940827177000,
+      "in_reply_to_status_id_str": "1178658940827176963",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 13:32:36 +0000 2019",
+      "id": 1178663938755584000,
+      "id_str": "1178663938755584004",
+      "full_text": "Первый раз, эксперимента ради, я применил «Сводную оценку» когда участвовал в проекте разработки оф-ого iOS приложении для Олимпийских игр в Сочи. Получилось ~2500ч/ч с вероятностью 80%. По факту вышло чуть более +10%. Повезло подумал я и решил продолжить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178658942207103000,
+      "in_reply_to_status_id_str": "1178658942207102976",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 13:54:40 +0000 2019",
+      "id": 1178669494916538400,
+      "id_str": "1178669494916538378",
+      "full_text": "@industrieapps Метод предлагает оценку для любой вероятности. Хотите сократить риски, используйте оценку для вероятности 99%. Риск есть всегда, вопрос в том в какой мере вы готовы рисковать. Подстрахуетесь по максимум, получите максимальные сроки, появится риск проиграть тендер и т.п.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        285
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "industrieapps",
+            "name": "Andy Victors",
+            "id": 155341164,
+            "id_str": "155341164",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1178666067876552700,
+      "in_reply_to_status_id_str": "1178666067876552704",
+      "in_reply_to_user_id": 155341164,
+      "in_reply_to_user_id_str": "155341164",
+      "in_reply_to_screen_name": "industrieapps",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 14:40:24 +0000 2019",
+      "id": 1178681004040622000,
+      "id_str": "1178681004040622080",
+      "full_text": "@industrieapps Ни один метод оценки ни даст результат с вероятностью 100% и ни исключит все риски оставшиеся за бортом. Нельзя оценивать его «валидность» однозначно. Это всего лишь инструмент помогающий оценить вероятность ошибки при планировании объема трудозатрат, более того.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "industrieapps",
+            "name": "Andy Victors",
+            "id": 155341164,
+            "id_str": "155341164",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1178670954190389200,
+      "in_reply_to_status_id_str": "1178670954190389248",
+      "in_reply_to_user_id": 155341164,
+      "in_reply_to_user_id_str": "155341164",
+      "in_reply_to_screen_name": "industrieapps",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 14:43:24 +0000 2019",
+      "id": 1178681756188385300,
+      "id_str": "1178681756188385282",
+      "full_text": "@basnopisets Да, оно)",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        21
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "basnopisets",
+            "name": "Васисуалий 🇩🇪",
+            "id": 48471115,
+            "id_str": "48471115",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178672977111588900,
+      "in_reply_to_status_id_str": "1178672977111588865",
+      "in_reply_to_user_id": 48471115,
+      "in_reply_to_user_id_str": "48471115",
+      "in_reply_to_screen_name": "basnopisets",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 14:47:53 +0000 2019",
+      "id": 1178682884439322600,
+      "id_str": "1178682884439322624",
+      "full_text": "@_zigi Да в основе там формула Pert",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_zigi",
+            "name": "Igor Zinoviev",
+            "id": 42945204,
+            "id_str": "42945204",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178673336731218000,
+      "in_reply_to_status_id_str": "1178673336731217920",
+      "in_reply_to_user_id": 42945204,
+      "in_reply_to_user_id_str": "42945204",
+      "in_reply_to_screen_name": "_zigi",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 15:03:41 +0000 2019",
+      "id": 1178686863399440400,
+      "id_str": "1178686863399440385",
+      "full_text": "@industrieapps Я так не думаю :) С чего вы вообще решили что цифры полученные при оценке на этапе предварительного планирования являются основой всех рисков и служат конечной точкой для расчета времени завершения проекта?",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "industrieapps",
+            "name": "Andy Victors",
+            "id": 155341164,
+            "id_str": "155341164",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178682381307383800,
+      "in_reply_to_status_id_str": "1178682381307383813",
+      "in_reply_to_user_id": 155341164,
+      "in_reply_to_user_id_str": "155341164",
+      "in_reply_to_screen_name": "industrieapps",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 15:07:17 +0000 2019",
+      "id": 1178687769285140500,
+      "id_str": "1178687769285140481",
+      "full_text": "@romk1n Оригинал https://t.co/7BXspzB6Fc",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        40
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "romk1n",
+            "name": "R0MK1N",
+            "id": 48527648,
+            "id_str": "48527648",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7BXspzB6Fc",
+            "expanded_url": "https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351",
+            "display_url": "amazon.com/Software-Estim…",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178686290868539400,
+      "in_reply_to_status_id_str": "1178686290868539392",
+      "in_reply_to_user_id": 48527648,
+      "in_reply_to_user_id_str": "48527648",
+      "in_reply_to_screen_name": "romk1n",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Sep 30 15:10:11 +0000 2019",
+      "id": 1178688496300691500,
+      "id_str": "1178688496300691457",
+      "full_text": "@romk1n Русское издание https://t.co/tRwjOnNRNQ",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        47
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "romk1n",
+            "name": "R0MK1N",
+            "id": 48527648,
+            "id_str": "48527648",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tRwjOnNRNQ",
+            "expanded_url": "https://www.ozon.ru/context/detail/id/3115179/",
+            "display_url": "ozon.ru/context/detail…",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178687769285140500,
+      "in_reply_to_status_id_str": "1178687769285140481",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 15:25:08 +0000 2019",
+      "id": 1178692258188681200,
+      "id_str": "1178692258188681227",
+      "full_text": "@industrieapps Кажется это у вас потеря контакта с реальностью, ведь я ни слова ни сказал о том что \"мы полагаюсь на наши 80%\" или \"вы должны на них полагаться\". Речь шла о эксперименте и его результатах.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        204
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "industrieapps",
+            "name": "Andy Victors",
+            "id": 155341164,
+            "id_str": "155341164",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178687626037076000,
+      "in_reply_to_status_id_str": "1178687626037075969",
+      "in_reply_to_user_id": 155341164,
+      "in_reply_to_user_id_str": "155341164",
+      "in_reply_to_screen_name": "industrieapps",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 15:26:18 +0000 2019",
+      "id": 1178692554835017700,
+      "id_str": "1178692554835017728",
+      "full_text": "@industrieapps И я не претендую на изобретение метода точного получения сроков окончания проекта, который вы мне упорно навязываете. Мне нечего защищать.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        153
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "industrieapps",
+            "name": "Andy Victors",
+            "id": 155341164,
+            "id_str": "155341164",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178692258188681200,
+      "in_reply_to_status_id_str": "1178692258188681227",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 15:37:24 +0000 2019",
+      "id": 1178695345477431300,
+      "id_str": "1178695345477431296",
+      "full_text": "@industrieapps Отвечая на ваши упреки я не успел опубликовать статистику его последующих применений.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        100
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "industrieapps",
+            "name": "Andy Victors",
+            "id": 155341164,
+            "id_str": "155341164",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178693528702070800,
+      "in_reply_to_status_id_str": "1178693528702070791",
+      "in_reply_to_user_id": 155341164,
+      "in_reply_to_user_id_str": "155341164",
+      "in_reply_to_screen_name": "industrieapps",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 16:10:19 +0000 2019",
+      "id": 1178703632105136000,
+      "id_str": "1178703632105136130",
+      "full_text": "В Mamba мы применили «Сводную оценку» для проектов: Anonymous dating, GreetUp, Luster и Wamba. Брали оценку с вероятностью 75% и по факту получили: +27%, +30%, +37%, +14%, т.е. в среднем +27%. Оценивалось и считалось только время разработчиков нашего отдела.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178663938755584000,
+      "in_reply_to_status_id_str": "1178663938755584004",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 16:14:53 +0000 2019",
+      "id": 1178704778781700000,
+      "id_str": "1178704778781700098",
+      "full_text": "По многочисленным просьбам ссылка на оригинальное издание https://t.co/7BXspzB6Fc",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        81
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7BXspzB6Fc",
+            "expanded_url": "https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351",
+            "display_url": "amazon.com/Software-Estim…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178703632105136000,
+      "in_reply_to_status_id_str": "1178703632105136130",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 16:54:05 +0000 2019",
+      "id": 1178714643767943200,
+      "id_str": "1178714643767943170",
+      "full_text": "Хорошо это или плохо когда оценка дает +30% по факту? Ответ: \"Хорошая оценка должна в 75% случаях отличатся от фактического результата не более чем на 25%.\" (Conte, Densmore, Shen - Software engineering metrics and models).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178704778781700000,
+      "in_reply_to_status_id_str": "1178704778781700098",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 17:02:05 +0000 2019",
+      "id": 1178716658937892900,
+      "id_str": "1178716658937892870",
+      "full_text": "Оригинальное издание Software engineering metrics and models https://t.co/cPKa1m1e74",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        84
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cPKa1m1e74",
+            "expanded_url": "https://www.amazon.com/Software-Engineering-Benjamin-Cummings-engineering/dp/0805321624",
+            "display_url": "amazon.com/Software-Engin…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178714643767943200,
+      "in_reply_to_status_id_str": "1178714643767943170",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Sep 30 19:25:51 +0000 2019",
+      "id": 1178752840145293300,
+      "id_str": "1178752840145293314",
+      "full_text": "Проверить любой оценочный метод поможет не хитрый эксперимент. Оцените сумму затрат на ваш следующий продуктовый шопинг-лист, сходите за покупками и сравните оценку с фактическими тратами.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        188
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178716658937892900,
+      "in_reply_to_status_id_str": "1178716658937892870",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 19:25:52 +0000 2019",
+      "id": 1178752843022504000,
+      "id_str": "1178752843022503936",
+      "full_text": "Отправляйтесь в магазин с суммой не превышающей оценку. Повторите несколько раз. Узнаете какой из вас оценщик и сможете почувствовать себя на месте owner’а вашего проекта. Эмоции гарантированы.😀",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1178752840145293300,
+      "in_reply_to_status_id_str": "1178752840145293314",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

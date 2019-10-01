@@ -13,6 +13,7 @@
     "tdd": "npm test -- --watch",
     "posttest": "gulp clean",
     "start": "gulp",
+    "build": "gulp build",
     "lint": "eslint ."
   },
   "repository": {
