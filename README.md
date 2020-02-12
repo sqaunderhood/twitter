@@ -1,11 +1,12 @@
-# mobileunderhood.ru
+# sqaunderhood.ru
 
-Коллективный твиттер-аккаунт для мобильных разработчиков с новым автором каждую неделю
+Коллективный твиттер-аккаунт о тестировании ПО и качественной разработке с
+новым автором каждую неделю.
 
 ## Старт проекта
 
-    git clone git@github.com:iamstarkov/mobileunderhood.git
-    cd mobileunderhood
+    git clone git@github.com:ligurio/sqaunderhood.git
+    cd sqaunderhood
     npm install
     npm start
 
@@ -44,7 +45,8 @@
 
 ### Как обновить локально
 
-1. `npm run update` - соберет новый дамп для последнего юзеров, твитов... Обновит всех авторов, у которых `update:true` в `authors.js`.
+1. `npm run update` - соберет новый дамп для последнего юзеров, твитов...
+Обновит всех авторов, у которых `update:true` в `authors.js`.
 2. `npm start` - запустит локально копию сайта + создаст статику в `dist/` для деплоя.
 3. `npm test` - запустит тесты.
 4. `npm run build` - создаст статику в `dist/` для деплоя.

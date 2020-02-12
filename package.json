@@ -1,7 +1,7 @@
 {
-  "name": "mobileunderhood",
+  "name": "sqaunderhood",
   "version": "0.1.2",
-  "description": "Коллективный твиттер-аккаунт для мобильных разработчиков с новым автором каждую неделю",
+  "description": "Коллективный твиттер-аккаунт о тестировании ПО с новым автором каждую неделю",
   "main": "index.js",
   "scripts": {
     "migrate": "babel-node migration",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etolstoy/mobileunderhood"
+    "url": "git+https://github.com/sqaunderhood/twitter"
   },
-  "author": "Egor Tolstoy (http://etolstoy.com/)",
+  "author": "Sergey Bronnikov (https://bronevichok.ru/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/etolstoy/mobileunderhood/issues"
+    "url": "https://github.com/sqaunderhood/twitter/issues"
   },
-  "homepage": "https://github.com/etolstoy/mobileunderhood#readme",
+  "homepage": "https://github.com/sqaunderhood/twitter",
   "dependencies": {
     "article-data": "^0.3.1",
     "autoprefixer": "^6.1.0",
@@ -35,6 +35,7 @@
     "bootstrap": "^3.3.4",
     "buildbranch": "0.0.3",
     "commonmark-helpers": "^0.4.1",
+    "dotenv": "^8.2.0",
     "each-done": "^1.0.0",
     "exports-loader": "^0.6.2",
     "express": "^4.12.4",

@@ -110,7 +110,7 @@ task('rss', done => {
       feed.item({
         title: author.username,
         description: render(first),
-        url: `https://mobileunderhood.ru/${author.authorId}/`,
+        url: `https://sqaunderhood.github.io/twitter/${author.authorId}/`,
         date: first.created_at,
       });
     }
