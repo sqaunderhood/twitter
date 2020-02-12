@@ -35,6 +35,7 @@
     "bootstrap": "^3.3.4",
     "buildbranch": "0.0.3",
     "commonmark-helpers": "^0.4.1",
+    "dotenv": "^8.2.0",
     "each-done": "^1.0.0",
     "exports-loader": "^0.6.2",
     "express": "^4.12.4",
