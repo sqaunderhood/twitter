@@ -1,0 +1,114 @@
+{
+  "id": 11690312,
+  "id_str": "11690312",
+  "name": "Sergey Bronnikov",
+  "screen_name": "estet",
+  "location": "Moscow",
+  "profile_location": null,
+  "description": "I make software suck less. Software quality, testing and verification. Owner of @sqaunderhood & @openbsdnow. Long distance runner. Mastodon sergeyb@bsd.network.",
+  "url": "https://t.co/axBhiz1KAs",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/axBhiz1KAs",
+          "expanded_url": "https://bronevichok.ru/",
+          "display_url": "bronevichok.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 563,
+  "friends_count": 302,
+  "listed_count": 37,
+  "created_at": "Mon Dec 31 15:12:52 +0000 2007",
+  "favourites_count": 532,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 6182,
+  "lang": null,
+  "status": {
+    "created_at": "Fri Feb 28 15:52:43 +0000 2020",
+    "id": 1233419771204558800,
+    "id_str": "1233419771204558851",
+    "text": "@konrad_lorenz @mosgortrans_ru А что за приложение?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "konrad_lorenz",
+          "name": "konrad lorenz",
+          "id": 810659346,
+          "id_str": "810659346",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "mosgortrans_ru",
+          "name": "Мосгортранс",
+          "id": 740184858887098400,
+          "id_str": "740184858887098368",
+          "indices": [
+            15,
+            30
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": 1233408617245806600,
+    "in_reply_to_status_id_str": "1233408617245806592",
+    "in_reply_to_user_id": 810659346,
+    "in_reply_to_user_id_str": "810659346",
+    "in_reply_to_screen_name": "konrad_lorenz",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": true,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/766181873412341760/R7w5EY2E_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/766181873412341760/R7w5EY2E_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/11690312/1399667456",
+  "profile_link_color": "FAB81E",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false
+}

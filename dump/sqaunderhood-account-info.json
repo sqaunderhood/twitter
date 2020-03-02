@@ -1,0 +1,111 @@
+{
+  "id": 718022849261412400,
+  "id_str": "718022849261412352",
+  "name": "Протестировал",
+  "screen_name": "sqaunderhood",
+  "location": "",
+  "profile_location": null,
+  "description": "Коллективный твиттер о тестировании ПО c 2016 года. Редколлегия: @estet и @asatarin. Телеграм: https://t.co/a4F2HNiFFS\n\nВедущий - Михаил Чумаков @ainomc1",
+  "url": "https://t.co/muYA7wXJ3x",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/muYA7wXJ3x",
+          "expanded_url": "https://fb.me/sqaunderhood",
+          "display_url": "fb.me/sqaunderhood",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/a4F2HNiFFS",
+          "expanded_url": "http://t.me/sqaunderhood",
+          "display_url": "t.me/sqaunderhood",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 786,
+  "friends_count": 57,
+  "listed_count": 13,
+  "created_at": "Thu Apr 07 10:29:22 +0000 2016",
+  "favourites_count": 588,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 1923,
+  "lang": null,
+  "status": {
+    "created_at": "Mon Mar 02 11:05:00 +0000 2020",
+    "id": 1234434525645529000,
+    "id_str": "1234434525645529089",
+    "text": "Как было заявлено в анонсе, в настоящий момент я учусь на IT специальности в Ванкувере (Канада), на двухгодичной пр… https://t.co/tVOb5CS0QK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tVOb5CS0QK",
+          "expanded_url": "https://twitter.com/i/web/status/1234434525645529089",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1234171057843638272/26tnf3gA_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234171057843638272/26tnf3gA_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/718022849261412352/1537473162",
+  "profile_link_color": "FAB81E",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": true,
+  "translator_type": "none"
+}

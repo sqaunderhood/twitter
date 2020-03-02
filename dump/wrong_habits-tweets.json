@@ -1,0 +1,2384 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 20 13:49:10 +0000 2020",
+      "id": 1219255551516954600,
+      "id_str": "1219255551516954624",
+      "full_text": "Давно у нас не было новых авторов в коллективном твиттере @sqaunderhood. \nНа этой неделе ведущий Алексей Никулин @wrong_habits, работал тестировщиком в больших и маленьких компаниях, сейчас больше занимается автоматизацией. Welcome!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              58,
+              71
+            ]
+          },
+          {
+            "screen_name": "wrong_habits",
+            "name": "Alex Nikulin",
+            "id": 45614969,
+            "id_str": "45614969",
+            "indices": [
+              113,
+              126
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 13:55:37 +0000 2020",
+      "id": 1219257174624546800,
+      "id_str": "1219257174624546816",
+      "full_text": "Всем привет, меня зовут Алексей, я занимался и занимаюсь (когда получается) тестированием, автоматизацией, моральной поддержкой коллег, и я здесь, чтобы излагать. Ну, или как получится.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        185
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 13:57:31 +0000 2020",
+      "id": 1219257650384380000,
+      "id_str": "1219257650384379906",
+      "full_text": "Вообще я давно в отрасли, на первом моем проекте исходники лежали на общем диске в сети. Но Джоэл Спольски оценил бы мой опыт в 3-5 лет, оптимистично.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        150
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219257174624546800,
+      "in_reply_to_status_id_str": "1219257174624546816",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 14:03:08 +0000 2020",
+      "id": 1219259064166862800,
+      "id_str": "1219259064166862849",
+      "full_text": "Планировалось, что эта неделя будет похожа на типичную конференцию тестировщиков. Тестировщики и человек, автоматизация, мотивация, культура, нагрузка, регрессия, и два спонсорских поста про инструменты. Предлагайте свои темы в комментариях, спонорство - в DM.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        260
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 14:45:03 +0000 2020",
+      "id": 1219269612958822400,
+      "id_str": "1219269612958822400",
+      "full_text": "Дедушкой русского тестирования я считаю Кема Канера, так как его учебник долгое время был единственным адекватным источником. Оригинал вышел в 1988, на русском языке книжку напечатали в 2001.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        191
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 14:47:25 +0000 2020",
+      "id": 1219270210940801000,
+      "id_str": "1219270210940801032",
+      "full_text": "Возможно, вы скажете: \"по такой методике, папкой будет Роман Савин\".\nНу да, ну да. Скорее всего, так и есть, как к этому ни относись.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        133
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219269612958822400,
+      "in_reply_to_status_id_str": "1219269612958822400",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 16:14:00 +0000 2020",
+      "id": 1219291997103587300,
+      "id_str": "1219291997103587332",
+      "full_text": "Если Канер - добрый дедушка (социология, эксперименты, эвристики, что там в черном ящике, вот это вот всё), то Блэк - строгий дядька: риски, стандарты, менеджмент и так далее.\nМне больше нравится светлая сторона, хотя понятно, что без темной тоже не обойтись.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219270210940801000,
+      "in_reply_to_status_id_str": "1219270210940801032",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 16:16:50 +0000 2020",
+      "id": 1219292713302007800,
+      "id_str": "1219292713302007808",
+      "full_text": "@Headmast Тестирование здорового человека - чисто теоретическая область, вряд ли найдутся практики.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Headmast",
+            "name": "Kirill Klebanov",
+            "id": 211806377,
+            "id_str": "211806377",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219280352335859700,
+      "in_reply_to_status_id_str": "1219280352335859713",
+      "in_reply_to_user_id": 211806377,
+      "in_reply_to_user_id_str": "211806377",
+      "in_reply_to_screen_name": "Headmast",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 16:19:40 +0000 2020",
+      "id": 1219293426103017500,
+      "id_str": "1219293426103017472",
+      "full_text": "@Bablzz честно говоря, не смог найти пруфов - история имен довольно сложная штука, но те, кто с ним общались, уверяют, что таки Кем.",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        132
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Bablzz",
+            "name": "Bablzz",
+            "id": 168677608,
+            "id_str": "168677608",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219290792373772300,
+      "in_reply_to_status_id_str": "1219290792373772293",
+      "in_reply_to_user_id": 168677608,
+      "in_reply_to_user_id_str": "168677608",
+      "in_reply_to_screen_name": "Bablzz",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 17:01:55 +0000 2020",
+      "id": 1219304057472540700,
+      "id_str": "1219304057472540672",
+      "full_text": "@dkorobtsov @wrong_habits это возрождаемая традиция.",
+      "truncated": false,
+      "display_text_range": [
+        26,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dkorobtsov",
+            "name": "Dmitri Korobtsov",
+            "id": 110675079,
+            "id_str": "110675079",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "wrong_habits",
+            "name": "Alex Nikulin",
+            "id": 45614969,
+            "id_str": "45614969",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219303392406798300,
+      "in_reply_to_status_id_str": "1219303392406798336",
+      "in_reply_to_user_id": 110675079,
+      "in_reply_to_user_id_str": "110675079",
+      "in_reply_to_screen_name": "dkorobtsov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 17:07:11 +0000 2020",
+      "id": 1219305381224222700,
+      "id_str": "1219305381224222720",
+      "full_text": "Слышал, что на место QA теперь приходит Productivity Engineering. И одну компанию с таким подразделением я знаю. Только не понял пока, чем они занимаются - Productivity Engineering или Engineering Productivity - вроде бы, разница есть.\n(возможно, это будет тред про модные тренды)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 20 17:40:55 +0000 2020",
+      "id": 1219313870516445200,
+      "id_str": "1219313870516445184",
+      "full_text": "@zel_enb про это уже было https://t.co/HBKieLrYMG\nнужно раскрыть подробнее?",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        75
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zel_enb",
+            "name": "zelenb",
+            "id": 1063473402,
+            "id_str": "1063473402",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HBKieLrYMG",
+            "expanded_url": "https://mobile.twitter.com/sqaunderhood/status/1025047397343186946",
+            "display_url": "mobile.twitter.com/sqaunderhood/s…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219307278660038700,
+      "in_reply_to_status_id_str": "1219307278660038656",
+      "in_reply_to_user_id": 1063473402,
+      "in_reply_to_user_id_str": "1063473402",
+      "in_reply_to_screen_name": "zel_enb",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1025047397343187000,
+      "quoted_status_id_str": "1025047397343186946",
+      "quoted_status_permalink": {
+        "url": "https://t.co/HBKieLrYMG",
+        "expanded": "https://mobile.twitter.com/sqaunderhood/status/1025047397343186946",
+        "display": "mobile.twitter.com/sqaunderhood/s…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 02 15:55:18 +0000 2018",
+        "id": 1025047397343187000,
+        "id_str": "1025047397343186946",
+        "full_text": "10. Разработка (фреймворка) тестов — это разработка многих разных domain specific languages, некоторые из которых могут существовать только в одном тесте",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          153
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1025047324110643200,
+        "in_reply_to_status_id_str": "1025047324110643200",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 718022849261412400,
+          "id_str": "718022849261412352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 09:44:13 +0000 2020",
+      "id": 1219556292521595000,
+      "id_str": "1219556292521594881",
+      "full_text": "@asatarin типа как Гугл, но сейчас на это уже вакансии есть. https://t.co/RigLjN69Sx",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        84
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "asatarin",
+            "name": "Andrey Satarin",
+            "id": 59556213,
+            "id_str": "59556213",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RigLjN69Sx",
+            "expanded_url": "https://saucelabs.com/blog/qa-is-not-enough-you-need-to-engineer-productivity",
+            "display_url": "saucelabs.com/blog/qa-is-not…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219367599022018600,
+      "in_reply_to_status_id_str": "1219367599022018560",
+      "in_reply_to_user_id": 59556213,
+      "in_reply_to_user_id_str": "59556213",
+      "in_reply_to_screen_name": "asatarin",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 09:47:12 +0000 2020",
+      "id": 1219557043440439300,
+      "id_str": "1219557043440439296",
+      "full_text": "@zel_enb думаю, все зависит от того, какой вопрос мы хотим решить - фреймворк написать, или собеседование пройти. Или даже, может быть, продукт протестировать.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zel_enb",
+            "name": "zelenb",
+            "id": 1063473402,
+            "id_str": "1063473402",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219443164559229000,
+      "in_reply_to_status_id_str": "1219443164559228928",
+      "in_reply_to_user_id": 1063473402,
+      "in_reply_to_user_id_str": "1063473402",
+      "in_reply_to_screen_name": "zel_enb",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 09:48:56 +0000 2020",
+      "id": 1219557479820005400,
+      "id_str": "1219557479820005377",
+      "full_text": "@asatarin основы не поменялись. вода такая же мокрая, а софт так же пишут люди. тестирование во многом исходит из этого предположения, что тогда, что сейчас.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        157
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "asatarin",
+            "name": "Andrey Satarin",
+            "id": 59556213,
+            "id_str": "59556213",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219339978863329300,
+      "in_reply_to_status_id_str": "1219339978863329280",
+      "in_reply_to_user_id": 59556213,
+      "in_reply_to_user_id_str": "59556213",
+      "in_reply_to_screen_name": "asatarin",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 09:51:25 +0000 2020",
+      "id": 1219558107908583400,
+      "id_str": "1219558107908583424",
+      "full_text": "ну что, химия и жизнь, или тестирование и человек?\nкак вообще нормальные люди попадают в тестирование? поделитесь своей историей.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 09:56:34 +0000 2020",
+      "id": 1219559401457168400,
+      "id_str": "1219559401457168384",
+      "full_text": "раньше считалось, что тестирование - простой способ \"войти в айти\" с неплохой стипендией и шансами перейти вскорости на какую-нибудь нормальную должность.\nпод это часто заточены курсы по тестированию: \n1. как зайти в джиру\n2. три запроса sql.\n3. пишем красивое резюме.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219558107908583400,
+      "in_reply_to_status_id_str": "1219558107908583424",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 09:57:59 +0000 2020",
+      "id": 1219559759390630000,
+      "id_str": "1219559759390629888",
+      "full_text": "сейчас есть способ \"вайти\" проще - через фронтенд.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219559401457168400,
+      "in_reply_to_status_id_str": "1219559401457168384",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 10:00:57 +0000 2020",
+      "id": 1219560507000217600,
+      "id_str": "1219560507000217600",
+      "full_text": "я пришел в тестирование из IT-отдела одного предприятия, когда внезапно понял, что это не пользователи у меня тупые, а софт плохой.\n\nну и из-за денег, конечно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219559759390630000,
+      "in_reply_to_status_id_str": "1219559759390629888",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 10:02:43 +0000 2020",
+      "id": 1219560951994900500,
+      "id_str": "1219560951994900480",
+      "full_text": "@maxbeard12 пошла переквалификация разработчиков?",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        49
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maxbeard12",
+            "name": "Maxim Shulga",
+            "id": 44104409,
+            "id_str": "44104409",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219560563585560600,
+      "in_reply_to_status_id_str": "1219560563585560582",
+      "in_reply_to_user_id": 44104409,
+      "in_reply_to_user_id_str": "44104409",
+      "in_reply_to_screen_name": "maxbeard12",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 10:11:26 +0000 2020",
+      "id": 1219563145661964300,
+      "id_str": "1219563145661964288",
+      "full_text": "Можно ли выпустить продукт без тестировщиков? При наличии хорошей команды, инструментов и практик - скорее всего, можно. Должность исчезнет, а роль останется - просто тестированием будут заниматься другие люди.\n\nНо есть нюанс. https://t.co/Q5EQvb5WIf",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Q5EQvb5WIf",
+            "expanded_url": "https://twitter.com/maxbeard12/status/1219562297041063936",
+            "display_url": "twitter.com/maxbeard12/sta…",
+            "indices": [
+              227,
+              250
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1219562297041064000,
+      "quoted_status_id_str": "1219562297041063936",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Q5EQvb5WIf",
+        "expanded": "https://twitter.com/maxbeard12/status/1219562297041063936",
+        "display": "twitter.com/maxbeard12/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Jan 21 10:08:04 +0000 2020",
+        "id": 1219562297041064000,
+        "id_str": "1219562297041063936",
+        "full_text": "@sqaunderhood я бы сказал \"наращивание экспертизы в тестировании\" + выбор подходов, языка программирования, инженерных практик и тдтп с учетом удобств с тестируемостью. Но это было очень давно.",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          193
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1219560951994900500,
+        "in_reply_to_status_id_str": "1219560951994900480",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 44104409,
+          "id_str": "44104409"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 10:16:44 +0000 2020",
+      "id": 1219564477001228300,
+      "id_str": "1219564477001228288",
+      "full_text": "модульные тесты, интеграция, тестабилити, статический анализ - это все позволяет избежать ошибок в уже написанном коде.\nА тестировщик должен бежать впереди  команды и находить проблемы там, где еще ничего не написано. Это ключевое отличие тестирования от QC.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219563145661964300,
+      "in_reply_to_status_id_str": "1219563145661964288",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 10:19:02 +0000 2020",
+      "id": 1219565056091992000,
+      "id_str": "1219565056091992065",
+      "full_text": "поэтому, если специально не заниматься тестированием - можно получить качественный код. Будет ли при этом качественным продукт? Возможно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219564477001228300,
+      "in_reply_to_status_id_str": "1219564477001228288",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 13:01:56 +0000 2020",
+      "id": 1219606051819081700,
+      "id_str": "1219606051819081728",
+      "full_text": "Некоторые считают, что у тестировщиков особая \"деструктивная\" мотивация. На самом деле, мотивация у тестировщиков такая же, как у всех - хорошо делать свою работу. А что вас мотивирует? Ну, кроме денег и возможности поржать над чужими ошибками?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        244
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 13:05:51 +0000 2020",
+      "id": 1219607036331286500,
+      "id_str": "1219607036331286529",
+      "full_text": "некоторые компании вкладываются в фишки, айфришки, big visible charts, геймификацию и прочие нематериальные стимуляторы. Иногда это даже работает, если учитывать ограничения и опасность внешней мотивации.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        204
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219606051819081700,
+      "in_reply_to_status_id_str": "1219606051819081728",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 13:09:54 +0000 2020",
+      "id": 1219608056239198200,
+      "id_str": "1219608056239198244",
+      "full_text": "Егор Бугаенко (если не ошибаюсь - не могу найти доклад) как-то предлагал просто платить тестерам за баги. Нуш тош, добавьте сюда еще премию разработчикам за отсутствие багов, и оставьте на полгода. Дольше вряд ли продержится. Но наблюдать за этим должно быть интересно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219607036331286500,
+      "in_reply_to_status_id_str": "1219607036331286529",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 13:24:42 +0000 2020",
+      "id": 1219611779485118500,
+      "id_str": "1219611779485118464",
+      "full_text": "Остается мотивация внутренняя - личный интерес к проекту. К сожалению, живет такая любовь 2-3 года, дальше нужно \"двигаться дальше\". В этом плане неплохо должно быть в аутсорсерах и бодишопах: надоело - перешел в другой проект, снова все хорошо.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        245
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219608056239198200,
+      "in_reply_to_status_id_str": "1219608056239198244",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 21 16:59:27 +0000 2020",
+      "id": 1219665825466060800,
+      "id_str": "1219665825466060800",
+      "full_text": "@asatarin хорошо, какие варианты актуальны для тех, кто этого не делает?",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        72
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "asatarin",
+            "name": "Andrey Satarin",
+            "id": 59556213,
+            "id_str": "59556213",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219663873306808300,
+      "in_reply_to_status_id_str": "1219663873306808321",
+      "in_reply_to_user_id": 59556213,
+      "in_reply_to_user_id_str": "59556213",
+      "in_reply_to_screen_name": "asatarin",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 10:05:44 +0000 2020",
+      "id": 1219924097154633700,
+      "id_str": "1219924097154633728",
+      "full_text": "небольшая методичка по тестированию микросервисов https://t.co/rzc15WmBdQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        73
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rzc15WmBdQ",
+            "expanded_url": "https://martinfowler.com/articles/microservice-testing/",
+            "display_url": "martinfowler.com/articles/micro…",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 10:32:49 +0000 2020",
+      "id": 1219930913951363000,
+      "id_str": "1219930913951363073",
+      "full_text": "Как минимизировать число багов с продакшена? Например, не выпускать продукт. А какие, по вашему, главные задачи тестировщика? https://t.co/zYCZeHtrzj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        125
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zYCZeHtrzj",
+            "expanded_url": "https://twitter.com/irinaklapp/status/1219929113504428032",
+            "display_url": "twitter.com/irinaklapp/sta…",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1219929113504428000,
+      "quoted_status_id_str": "1219929113504428032",
+      "quoted_status_permalink": {
+        "url": "https://t.co/zYCZeHtrzj",
+        "expanded": "https://twitter.com/irinaklapp/status/1219929113504428032",
+        "display": "twitter.com/irinaklapp/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Jan 22 10:25:40 +0000 2020",
+        "id": 1219929113504428000,
+        "id_str": "1219929113504428032",
+        "full_text": "@sqaunderhood Работа тестировщика ведь не в нахождении как можно больше багов, а минимизация багов от клиента или конечных пользователей.",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          137
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1219608056239198200,
+        "in_reply_to_status_id_str": "1219608056239198244",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 1306830907,
+          "id_str": "1306830907"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 10:36:07 +0000 2020",
+      "id": 1219931741584068600,
+      "id_str": "1219931741584068608",
+      "full_text": "приложу, пожалуй, сюда классические \"квадранты тестирования\" Брайана Мэрика. \nПодробнее https://t.co/j4UqtPXtTl https://t.co/n2om8UsyU8",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/j4UqtPXtTl",
+            "expanded_url": "https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/",
+            "display_url": "lisacrispin.com/2011/11/08/usi…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1219931600403751000,
+            "id_str": "1219931600403750912",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/EO4RU7xW4AAko0f.png",
+            "media_url_https": "https://pbs.twimg.com/media/EO4RU7xW4AAko0f.png",
+            "url": "https://t.co/n2om8UsyU8",
+            "display_url": "pic.twitter.com/n2om8UsyU8",
+            "expanded_url": "https://twitter.com/sqaunderhood/status/1219931741584068608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 667,
+                "h": 488,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 667,
+                "h": 488,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 667,
+                "h": 488,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1219931600403751000,
+            "id_str": "1219931600403750912",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/EO4RU7xW4AAko0f.png",
+            "media_url_https": "https://pbs.twimg.com/media/EO4RU7xW4AAko0f.png",
+            "url": "https://t.co/n2om8UsyU8",
+            "display_url": "pic.twitter.com/n2om8UsyU8",
+            "expanded_url": "https://twitter.com/sqaunderhood/status/1219931741584068608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 667,
+                "h": 488,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 667,
+                "h": 488,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 667,
+                "h": 488,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219930913951363000,
+      "in_reply_to_status_id_str": "1219930913951363073",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 13:27:46 +0000 2020",
+      "id": 1219974938398019600,
+      "id_str": "1219974938398019584",
+      "full_text": "Небольшой тред про качества(о) тестировщиков, и дальше уже в программирование.\nОбязательные раньше требования \"усидчивость и внимание к деталям\" в вакансиях, вроде бы, сменились на \"технический склад ума и знание Selenium\". А что вас делает хорошим тестировщиком? Синий диплом?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 13:42:45 +0000 2020",
+      "id": 1219978712973750300,
+      "id_str": "1219978712973750273",
+      "full_text": "Тестировщики не нужны? Разработчики тоже не нужны! Нужны инженеры (ну в каком-то общем виде).\n\nhttps://t.co/aG3Mmnemev",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        118
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aG3Mmnemev",
+            "expanded_url": "https://testastic.wordpress.com/2016/01/03/the-combined-engineering-software-model/",
+            "display_url": "testastic.wordpress.com/2016/01/03/the…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 13:44:06 +0000 2020",
+      "id": 1219979052246864000,
+      "id_str": "1219979052246863872",
+      "full_text": "@NikolaiGulaev @prankov это скорее условия окружения, а не личные качества?",
+      "truncated": false,
+      "display_text_range": [
+        24,
+        75
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NikolaiGulaev",
+            "name": "Cade Foster",
+            "id": 297985277,
+            "id_str": "297985277",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "prankov",
+            "name": "Games of Roman 👹👅💣🕹️",
+            "id": 320039411,
+            "id_str": "320039411",
+            "indices": [
+              15,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219977704222621700,
+      "in_reply_to_status_id_str": "1219977704222621696",
+      "in_reply_to_user_id": 297985277,
+      "in_reply_to_user_id_str": "297985277",
+      "in_reply_to_screen_name": "NikolaiGulaev",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 13:44:41 +0000 2020",
+      "id": 1219979198275690500,
+      "id_str": "1219979198275690498",
+      "full_text": "@prankov за П-shape, говорят, большее будущее.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        46
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "prankov",
+            "name": "Games of Roman 👹👅💣🕹️",
+            "id": 320039411,
+            "id_str": "320039411",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219978854846095400,
+      "in_reply_to_status_id_str": "1219978854846095365",
+      "in_reply_to_user_id": 320039411,
+      "in_reply_to_user_id_str": "320039411",
+      "in_reply_to_screen_name": "prankov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 14:08:58 +0000 2020",
+      "id": 1219985307577307100,
+      "id_str": "1219985307577307141",
+      "full_text": "@prankov T-shape: широкая база, одна хорошо проработанная область экспертизы\nП-shape: база та же, областей экспертизы две.\nтам дальше еще Ш-shape и так далее, но в целом П выглядит более достижимо.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "prankov",
+            "name": "Games of Roman 👹👅💣🕹️",
+            "id": 320039411,
+            "id_str": "320039411",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219979496792739800,
+      "in_reply_to_status_id_str": "1219979496792739842",
+      "in_reply_to_user_id": 320039411,
+      "in_reply_to_user_id_str": "320039411",
+      "in_reply_to_screen_name": "prankov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 14:11:12 +0000 2020",
+      "id": 1219985872306737200,
+      "id_str": "1219985872306737158",
+      "full_text": "Для интересующихся обучением, развитием, и П-shape в том числе, не могу не порекомендовать курс https://t.co/ybfjw0AWcy",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ybfjw0AWcy",
+            "expanded_url": "https://www.coursera.org/learn/mindshift",
+            "display_url": "coursera.org/learn/mindshift",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 14:15:15 +0000 2020",
+      "id": 1219986890788692000,
+      "id_str": "1219986890788691975",
+      "full_text": "Исходя из своих довольно древних представлений, ключевым для тестировщика считаю следующее: \n- любопытство\n- убеждение \n- грамотность.\nЛюбопытство необходимо, чтобы ставить эксперименты и не приуныть. Убеждение вместе с разумным смыслом помогает \"продавать\" баги.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219974938398019600,
+      "in_reply_to_status_id_str": "1219974938398019584",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 22 14:17:10 +0000 2020",
+      "id": 1219987372957425700,
+      "id_str": "1219987372957425664",
+      "full_text": "Ну а грамотность, чтобы не было стыдно за свои баг-репорты, и чтобы они воспринимались читателями серьезно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1219986890788692000,
+      "in_reply_to_status_id_str": "1219986890788691975",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 23 10:16:22 +0000 2020",
+      "id": 1220289160742916000,
+      "id_str": "1220289160742916101",
+      "full_text": "Пострелизное стрессовое расстройство и другие болезни, подстерегающие тестировщиков. Берегите себя! \nhttps://t.co/HAcd8AUhHp",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HAcd8AUhHp",
+            "expanded_url": "https://medium.com/slido-dev-blog/5-health-hazards-of-being-a-tester-5c179d62eb7d",
+            "display_url": "medium.com/slido-dev-blog…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 24 09:34:27 +0000 2020",
+      "id": 1220640998834962400,
+      "id_str": "1220640998834962432",
+      "full_text": "Парное программирование уже, кажется, стало обычной практикой и даже развилось в mob programming, а вот про парное тестирование слышно гораздо меньше. Есть ли у вас такой опыт? Получается?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        188
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 24 09:37:29 +0000 2020",
+      "id": 1220641764912107500,
+      "id_str": "1220641764912107522",
+      "full_text": "иногда парное тестирование рассматривают как способ быстро ввести в курс новичка на проекте, но мне, например, в таком варианте тяжело. много терпения нужно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        157
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1220640998834962400,
+      "in_reply_to_status_id_str": "1220640998834962432",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 24 17:55:16 +0000 2020",
+      "id": 1220767033865969700,
+      "id_str": "1220767033865969666",
+      "full_text": "спасибо постоянным авторам аккаунта за предоставленную возможность; с вами на этой неделе был @wrong_habits //",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        110
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "wrong_habits",
+            "name": "Alex Nikulin",
+            "id": 45614969,
+            "id_str": "45614969",
+            "indices": [
+              94,
+              107
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 29 21:49:49 +0000 2020",
+      "id": 1222637999067811800,
+      "id_str": "1222637999067811840",
+      "full_text": "RT @CarlosKidman: Developers can be great testers! You just need to believe in them.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        84
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CarlosKidman",
+            "name": "Carlos Kidman",
+            "id": 979106441742098400,
+            "id_str": "979106441742098433",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jan 28 04:02:30 +0000 2020",
+        "id": 1222007014647156700,
+        "id_str": "1222007014647156737",
+        "full_text": "Developers can be great testers! You just need to believe in them.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          66
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 979106441742098400,
+          "id_str": "979106441742098433"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 29,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Jan 30 05:26:19 +0000 2020",
+      "id": 1222752882866311200,
+      "id_str": "1222752882866311168",
+      "full_text": "Питерский #heisenbug скоро,\nпрограмма наполняется докладами,\n\nПромокод на скидку\n\nSQAUnder20spbolind89pc\n\nhttps://t.co/FcWzwKyXez",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "heisenbug",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FcWzwKyXez",
+            "expanded_url": "https://heisenbug-piter.ru/2020/spb/schedule/",
+            "display_url": "heisenbug-piter.ru/2020/spb/sched…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 30 13:13:12 +0000 2020",
+      "id": 1222870378118291500,
+      "id_str": "1222870378118291458",
+      "full_text": "RT @think_not_think: Тестирования производительности видеоигр тред.\n\nДавно хотел написать какой-то тред о своей работе. Давайте попробую эт…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "think_not_think",
+            "name": "Дипмиссия Уругвая",
+            "id": 1617826062,
+            "id_str": "1617826062",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Jan 26 15:00:45 +0000 2020",
+        "id": 1221447891404935200,
+        "id_str": "1221447891404935169",
+        "full_text": "Тестирования производительности видеоигр тред.\n\nДавно хотел написать какой-то тред о своей работе. Давайте попробую это сделать, хоть я и уволился полгода назад и мог уже что-то забыть, так что если что - поправляйте.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          217
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1617826062,
+          "id_str": "1617826062"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 43,
+        "favorite_count": 246,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 43,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 30 13:14:19 +0000 2020",
+      "id": 1222870657471516700,
+      "id_str": "1222870657471516673",
+      "full_text": "На следующей неделе у нас новый автор - Сева Брекелов @brekelov",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        63
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "brekelov",
+            "name": "Vsevolod Brekelov",
+            "id": 406136792,
+            "id_str": "406136792",
+            "indices": [
+              54,
+              63
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

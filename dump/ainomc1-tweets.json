@@ -1,0 +1,243 @@
+{
+  "tweets": [
+    {
+      "created_at": "Thu Feb 27 08:07:05 +0000 2020",
+      "id": 1232940202559144000,
+      "id_str": "1232940202559143936",
+      "full_text": "На следующей неделе новый автор - Михаил Чумаков @ainomc1.\n\nВ тестировании 10 лет, за это время собирал команды, автоматизировал, обучал коллег, отвечал за качество. \nСейчас - студент одного из ВУЗов Канады.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ainomc1",
+            "name": "Mikhail Chumakov",
+            "id": 3879445696,
+            "id_str": "3879445696",
+            "indices": [
+              49,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 01 16:21:46 +0000 2020",
+      "id": 1234151857829875700,
+      "id_str": "1234151857829875712",
+      "full_text": "@petertretyakov @liz_shamanina Это шутка про race condition?",
+      "truncated": false,
+      "display_text_range": [
+        31,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "petertretyakov",
+            "name": "Peter Tretyakov",
+            "id": 374414766,
+            "id_str": "374414766",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "liz_shamanina",
+            "name": "Elizaveta Shamanina",
+            "id": 1161931775276441600,
+            "id_str": "1161931775276441600",
+            "indices": [
+              16,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216674715915489300,
+      "in_reply_to_status_id_str": "1216674715915489280",
+      "in_reply_to_user_id": 374414766,
+      "in_reply_to_user_id_str": "374414766",
+      "in_reply_to_screen_name": "petertretyakov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Mar 02 07:57:26 +0000 2020",
+      "id": 1234387322508136400,
+      "id_str": "1234387322508136449",
+      "full_text": "Привет! Меня зовут Миша @ainomc1 . На этой неделе хочется обсудить большое разнообразие тем вокруг тестирования и IT в целом. Постараюсь, чтобы нам с вами было интересно! :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ainomc1",
+            "name": "Mikhail Chumakov",
+            "id": 3879445696,
+            "id_str": "3879445696",
+            "indices": [
+              24,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 08:19:58 +0000 2020",
+      "id": 1234392995824357400,
+      "id_str": "1234392995824357376",
+      "full_text": "Недавно @s_pirogov накинул в этом канале, что карьера QA длится 5-6 лет. Это забавно, потому что моя длится уже 13 лет+ 😀 И вы знаете, всё ещё интересно! Не все баги  ещё исправились!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        183
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              8,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 11:05:00 +0000 2020",
+      "id": 1234434525645529000,
+      "id_str": "1234434525645529089",
+      "full_text": "Как было заявлено в анонсе, в настоящий момент я учусь на IT специальности в Ванкувере (Канада), на двухгодичной программе. В России я также получил два образования по IT специальностям (в СПб и МСК), так что могу сравнить два подхода.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
