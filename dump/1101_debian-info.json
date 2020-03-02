@@ -1,0 +1,140 @@
+{
+  "id": 285030039,
+  "id_str": "285030039",
+  "name": "AlexDenisov",
+  "screen_name": "1101_debian",
+  "location": "Berlin, Germany",
+  "profile_location": null,
+  "description": "Sometimes I talk to machines, but more often machines talk to me.\nLLVM, Mutation Testing, Software Hardening.",
+  "url": "https://t.co/BCQvGs58sY",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/BCQvGs58sY",
+          "expanded_url": "https://lowlevelbits.org",
+          "display_url": "lowlevelbits.org",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 1175,
+  "friends_count": 363,
+  "listed_count": 85,
+  "created_at": "Wed Apr 20 12:08:24 +0000 2011",
+  "favourites_count": 2223,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 7406,
+  "lang": null,
+  "status": {
+    "created_at": "Tue Mar 03 05:47:42 +0000 2020",
+    "id": 1234717064788684800,
+    "id_str": "1234717064788684800",
+    "text": "RT @shehackspurple: Hi. My friend that was asked to do something illegal at work has now resigned, as per my thread last week. She is looki…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "shehackspurple",
+          "name": "Tanya Janca",
+          "id": 870454480474693600,
+          "id_str": "870454480474693633",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 02 19:27:30 +0000 2020",
+      "id": 1234560983441428500,
+      "id_str": "1234560983441428480",
+      "text": "Hi. My friend that was asked to do something illegal at work has now resigned, as per my thread last week. She is l… https://t.co/fVwTgi0Lzu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fVwTgi0Lzu",
+            "expanded_url": "https://twitter.com/i/web/status/1234560983441428480",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 108,
+      "favorite_count": 275,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 108,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/580361503414595584/7fHgRSmJ_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/580361503414595584/7fHgRSmJ_normal.png",
+  "profile_link_color": "89C9FA",
+  "profile_sidebar_border_color": "181A1E",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}

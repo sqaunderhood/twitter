@@ -1,0 +1,3748 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sat Aug 20 08:14:49 +0000 2016",
+      "id": 766911352958963700,
+      "id_str": "766911352958963712",
+      "full_text": "Что вы думаете про такой (псевдо) код в тестах:\n\nassert(0.7 == actual)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        70
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 09:17:13 +0000 2016",
+      "id": 766927054315016200,
+      "id_str": "766927054315016192",
+      "full_text": "@sqaunderhood этот вопрос я часто задаю на собеседованиях, свой комментарий дам по окончании опроса",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766911352958963700,
+      "in_reply_to_status_id_str": "766911352958963712",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 09:19:53 +0000 2016",
+      "id": 766927726494134300,
+      "id_str": "766927726494134272",
+      "full_text": "@estet спасибо учту, твиттер не перестает удивлять",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "estet",
+            "name": "Sergey Bronnikov",
+            "id": 11690312,
+            "id_str": "11690312",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766911820506472400,
+      "in_reply_to_status_id_str": "766911820506472449",
+      "in_reply_to_user_id": 11690312,
+      "in_reply_to_user_id_str": "11690312",
+      "in_reply_to_screen_name": "estet",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 22 06:19:48 +0000 2016",
+      "id": 767607182904922100,
+      "id_str": "767607182904922112",
+      "full_text": "Кто пропустил опрос в выходные, еще можно проголосовать. https://t.co/QkBjmBdN7H",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        56
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QkBjmBdN7H",
+            "expanded_url": "https://twitter.com/sqaunderhood/status/766911352958963712",
+            "display_url": "twitter.com/sqaunderhood/s…",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766911352958963700,
+      "quoted_status_id_str": "766911352958963712",
+      "quoted_status_permalink": {
+        "url": "https://t.co/QkBjmBdN7H",
+        "expanded": "https://twitter.com/sqaunderhood/status/766911352958963712",
+        "display": "twitter.com/sqaunderhood/s…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Aug 20 08:14:49 +0000 2016",
+        "id": 766911352958963700,
+        "id_str": "766911352958963712",
+        "full_text": "Что вы думаете про такой (псевдо) код в тестах:\n\nassert(0.7 == actual)",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          70
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718022849261412400,
+          "id_str": "718022849261412352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 22 09:00:41 +0000 2016",
+      "id": 767647671846920200,
+      "id_str": "767647671846920192",
+      "full_text": "Поделитесь одной статьей/презентацией, которую вы хотите чтоб обязательно прочитали ваши коллеги-тестировщики.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        110
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 22 09:03:21 +0000 2016",
+      "id": 767648341941444600,
+      "id_str": "767648341941444608",
+      "full_text": "@sqaunderhood \"Writing Maintainable Automated Acceptance Tests\" от @dhemery , она сильно повлияла на мои автотесты\n\nhttps://t.co/yrr97xmxVC",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "dhemery",
+            "name": "Dale Emery",
+            "id": 9040122,
+            "id_str": "9040122",
+            "indices": [
+              67,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yrr97xmxVC",
+            "expanded_url": "http://dhemery.com/pdf/writing_maintainable_automated_acceptance_tests.pdf",
+            "display_url": "dhemery.com/pdf/writing_ma…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 767647671846920200,
+      "in_reply_to_status_id_str": "767647671846920192",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Aug 22 14:56:32 +0000 2016",
+      "id": 767737222288334800,
+      "id_str": "767737222288334849",
+      "full_text": "@KeaneAF можно конечно, но я хотел чтобы за час можно было осилить",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        66
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 767717107836608500,
+      "in_reply_to_status_id_str": "767717107836608512",
+      "in_reply_to_user_id": 16724267,
+      "in_reply_to_user_id_str": "16724267",
+      "in_reply_to_screen_name": "KeaneLBP",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 23 10:26:12 +0000 2016",
+      "id": 768031577620287500,
+      "id_str": "768031577620287489",
+      "full_text": "Результаты опроса по код в тесте https://t.co/QkBjmBdN7H",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        32
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QkBjmBdN7H",
+            "expanded_url": "https://twitter.com/sqaunderhood/status/766911352958963712",
+            "display_url": "twitter.com/sqaunderhood/s…",
+            "indices": [
+              33,
+              56
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766911352958963700,
+      "quoted_status_id_str": "766911352958963712",
+      "quoted_status_permalink": {
+        "url": "https://t.co/QkBjmBdN7H",
+        "expanded": "https://twitter.com/sqaunderhood/status/766911352958963712",
+        "display": "twitter.com/sqaunderhood/s…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Aug 20 08:14:49 +0000 2016",
+        "id": 766911352958963700,
+        "id_str": "766911352958963712",
+        "full_text": "Что вы думаете про такой (псевдо) код в тестах:\n\nassert(0.7 == actual)",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          70
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718022849261412400,
+          "id_str": "718022849261412352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 23 10:27:26 +0000 2016",
+      "id": 768031888858574800,
+      "id_str": "768031888858574848",
+      "full_text": "Это одно из важных замечений к данному коду -- плохо читается ошибка, когда тест упадет https://t.co/4PSULHgNxA",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        87
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4PSULHgNxA",
+            "expanded_url": "https://twitter.com/strizhechenko/status/766912284560064512",
+            "display_url": "twitter.com/strizhechenko/…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 23 10:28:46 +0000 2016",
+      "id": 768032224037994500,
+      "id_str": "768032224037994497",
+      "full_text": "Согласен magic constant тоже проблема в данном коде, но кажется без нее сложнее уместиться в твит https://t.co/8K1tUpOt0L",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        97
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8K1tUpOt0L",
+            "expanded_url": "https://twitter.com/xufocoder/status/766920175870316545",
+            "display_url": "twitter.com/xufocoder/stat…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766920175870316500,
+      "quoted_status_id_str": "766920175870316545",
+      "quoted_status_permalink": {
+        "url": "https://t.co/8K1tUpOt0L",
+        "expanded": "https://twitter.com/xufocoder/status/766920175870316545",
+        "display": "twitter.com/xufocoder/stat…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Aug 20 08:49:53 +0000 2016",
+        "id": 766920175870316500,
+        "id_str": "766920175870316545",
+        "full_text": "@sqaunderhood а разве не magic constant в тесте, не?",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          52
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 766911352958963700,
+        "in_reply_to_status_id_str": "766911352958963712",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 474880609,
+          "id_str": "474880609"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 23 10:31:36 +0000 2016",
+      "id": 768032939783364600,
+      "id_str": "768032939783364609",
+      "full_text": "Главная проблема -- нельзя сравнивать float/double значения на точное равенство\n\nhttps://t.co/uNzJ6av6zb https://t.co/QkBjmBdN7H",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uNzJ6av6zb",
+            "expanded_url": "http://www.codeproject.com/Articles/29637/Five-Tips-for-Floating-Point-Programming",
+            "display_url": "codeproject.com/Articles/29637…",
+            "indices": [
+              81,
+              104
+            ]
+          },
+          {
+            "url": "https://t.co/QkBjmBdN7H",
+            "expanded_url": "https://twitter.com/sqaunderhood/status/766911352958963712",
+            "display_url": "twitter.com/sqaunderhood/s…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766911352958963700,
+      "quoted_status_id_str": "766911352958963712",
+      "quoted_status_permalink": {
+        "url": "https://t.co/QkBjmBdN7H",
+        "expanded": "https://twitter.com/sqaunderhood/status/766911352958963712",
+        "display": "twitter.com/sqaunderhood/s…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Aug 20 08:14:49 +0000 2016",
+        "id": 766911352958963700,
+        "id_str": "766911352958963712",
+        "full_text": "Что вы думаете про такой (псевдо) код в тестах:\n\nassert(0.7 == actual)",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          70
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718022849261412400,
+          "id_str": "718022849261412352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 23 10:33:14 +0000 2016",
+      "id": 768033350623891500,
+      "id_str": "768033350623891456",
+      "full_text": "@sqaunderhood float'ы вообще очень сложная штука, вот пример\nhttps://t.co/Frd87qVKbv\nhttps://t.co/alioZworWO\nhttps://t.co/6zhdSK9rBK",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        132
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Frd87qVKbv",
+            "expanded_url": "http://blog.frama-c.com/index.php?post/2013/05/02/nearbyintf1",
+            "display_url": "blog.frama-c.com/index.php?post…",
+            "indices": [
+              61,
+              84
+            ]
+          },
+          {
+            "url": "https://t.co/alioZworWO",
+            "expanded_url": "http://blog.frama-c.com/index.php?post/2013/05/03/nearbyintf2",
+            "display_url": "blog.frama-c.com/index.php?post…",
+            "indices": [
+              85,
+              108
+            ]
+          },
+          {
+            "url": "https://t.co/6zhdSK9rBK",
+            "expanded_url": "http://blog.frama-c.com/index.php?post/2013/05/04/nearbyintf3",
+            "display_url": "blog.frama-c.com/index.php?post…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 768032939783364600,
+      "in_reply_to_status_id_str": "768032939783364609",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 23 10:35:12 +0000 2016",
+      "id": 768033844700250100,
+      "id_str": "768033844700250112",
+      "full_text": "Вот еще очень крутая презентация с введение в float'ы и их арифметику\n\nhttps://t.co/KgUuVd2PRK https://t.co/QkBjmBdN7H",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KgUuVd2PRK",
+            "expanded_url": "https://blogs.oracle.com/darcy/resource/OSCON/OSCON_2015-floating-point.pdf",
+            "display_url": "blogs.oracle.com/darcy/resource…",
+            "indices": [
+              71,
+              94
+            ]
+          },
+          {
+            "url": "https://t.co/QkBjmBdN7H",
+            "expanded_url": "https://twitter.com/sqaunderhood/status/766911352958963712",
+            "display_url": "twitter.com/sqaunderhood/s…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766911352958963700,
+      "quoted_status_id_str": "766911352958963712",
+      "quoted_status_permalink": {
+        "url": "https://t.co/QkBjmBdN7H",
+        "expanded": "https://twitter.com/sqaunderhood/status/766911352958963712",
+        "display": "twitter.com/sqaunderhood/s…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Aug 20 08:14:49 +0000 2016",
+        "id": 766911352958963700,
+        "id_str": "766911352958963712",
+        "full_text": "Что вы думаете про такой (псевдо) код в тестах:\n\nassert(0.7 == actual)",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          70
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718022849261412400,
+          "id_str": "718022849261412352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 23 10:39:29 +0000 2016",
+      "id": 768034923013873700,
+      "id_str": "768034923013873664",
+      "full_text": "Мое решение выглядит так (это код на Java)\n\nassertThat(actual, closeTo(0.7, EPSILON)); https://t.co/QkBjmBdN7H",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        86
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QkBjmBdN7H",
+            "expanded_url": "https://twitter.com/sqaunderhood/status/766911352958963712",
+            "display_url": "twitter.com/sqaunderhood/s…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766911352958963700,
+      "quoted_status_id_str": "766911352958963712",
+      "quoted_status_permalink": {
+        "url": "https://t.co/QkBjmBdN7H",
+        "expanded": "https://twitter.com/sqaunderhood/status/766911352958963712",
+        "display": "twitter.com/sqaunderhood/s…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Aug 20 08:14:49 +0000 2016",
+        "id": 766911352958963700,
+        "id_str": "766911352958963712",
+        "full_text": "Что вы думаете про такой (псевдо) код в тестах:\n\nassert(0.7 == actual)",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          70
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718022849261412400,
+          "id_str": "718022849261412352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Aug 23 12:50:52 +0000 2016",
+      "id": 768067984418111500,
+      "id_str": "768067984418111488",
+      "full_text": "да, не очевидно, но floating point арифметика встречается гораздо чаще, чем fixed point и шире поддерживается https://t.co/XulN0gkh9I",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        109
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XulN0gkh9I",
+            "expanded_url": "https://twitter.com/Shoonoise/status/768046875660455936",
+            "display_url": "twitter.com/Shoonoise/stat…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768046875660456000,
+      "quoted_status_id_str": "768046875660455936",
+      "quoted_status_permalink": {
+        "url": "https://t.co/XulN0gkh9I",
+        "expanded": "https://twitter.com/Shoonoise/status/768046875660455936",
+        "display": "twitter.com/Shoonoise/stat…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Aug 23 11:26:59 +0000 2016",
+        "id": 768046875660456000,
+        "id_str": "768046875660455936",
+        "full_text": "@sqaunderhood не очевидно (из псевдокода), что 0.7 это float, а не decimal",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          74
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 768034923013873700,
+        "in_reply_to_status_id_str": "768034923013873664",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 20670772,
+          "id_str": "20670772"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 24 10:26:23 +0000 2016",
+      "id": 768394012638183400,
+      "id_str": "768394012638183424",
+      "full_text": "Да легче, closeTo это матчер из библиотеки Hamcrest\nhttps://t.co/5vC0q0uzBM https://t.co/CuDzFV0BaC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        75
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5vC0q0uzBM",
+            "expanded_url": "http://hamcrest.org/JavaHamcrest/",
+            "display_url": "hamcrest.org/JavaHamcrest/",
+            "indices": [
+              52,
+              75
+            ]
+          },
+          {
+            "url": "https://t.co/CuDzFV0BaC",
+            "expanded_url": "https://twitter.com/KeaneAF/status/768161640403566592",
+            "display_url": "twitter.com/KeaneAF/status…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768161640403566600,
+      "quoted_status_id_str": "768161640403566592",
+      "quoted_status_permalink": {
+        "url": "https://t.co/CuDzFV0BaC",
+        "expanded": "https://twitter.com/KeaneAF/status/768161640403566592",
+        "display": "twitter.com/KeaneAF/status…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Aug 23 19:03:01 +0000 2016",
+        "id": 768161640403566600,
+        "id_str": "768161640403566592",
+        "full_text": "@sqaunderhood кстати, а ошибку в этом случае будет легче читать?",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          64
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 768034923013873700,
+        "in_reply_to_status_id_str": "768034923013873664",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 16724267,
+          "id_str": "16724267"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 24 10:27:58 +0000 2016",
+      "id": 768394411034218500,
+      "id_str": "768394411034218496",
+      "full_text": "Если вы не используете в автотестах Hamcrest -- очень рекомендую.\nОсобенно удобно, когда нужно валидировать сложные доменные объекты",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        132
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 24 10:29:04 +0000 2016",
+      "id": 768394686931279900,
+      "id_str": "768394686931279872",
+      "full_text": "@sqaunderhood Hamcrest есть под многие языки, полный список тут\nhttps://t.co/skooqGKQln",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        87
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/skooqGKQln",
+            "expanded_url": "http://hamcrest.org/",
+            "display_url": "hamcrest.org",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 768394411034218500,
+      "in_reply_to_status_id_str": "768394411034218496",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 07:22:22 +0000 2016",
+      "id": 768710091046580200,
+      "id_str": "768710091046580224",
+      "full_text": "В декабре в Москве пройдет конференция для тестировщиков Гейзенбаг https://t.co/eHwC10Mqmc",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eHwC10Mqmc",
+            "expanded_url": "http://heisenbug.ru/",
+            "display_url": "heisenbug.ru",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 10:03:19 +0000 2016",
+      "id": 768750594630836200,
+      "id_str": "768750594630836224",
+      "full_text": "RT @estet: @sqaunderhood Тут новость не только в том, что она скоро пройдет, но и в том, что приём докладов ещё открыт :) https://t.co/A3o8…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "estet",
+            "name": "Sergey Bronnikov",
+            "id": 11690312,
+            "id_str": "11690312",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Aug 25 07:44:25 +0000 2016",
+        "id": 768715641381675000,
+        "id_str": "768715641381675008",
+        "full_text": "@sqaunderhood Тут новость не только в том, что она скоро пройдет, но и в том, что приём докладов ещё открыт :) https://t.co/A3o8v5FpEo",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          134
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/A3o8v5FpEo",
+              "expanded_url": "http://heisenbug.ru/callforpapers/",
+              "display_url": "heisenbug.ru/callforpapers/",
+              "indices": [
+                111,
+                134
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 768710091046580200,
+        "in_reply_to_status_id_str": "768710091046580224",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 11690312,
+          "id_str": "11690312"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 10:06:03 +0000 2016",
+      "id": 768751283415154700,
+      "id_str": "768751283415154689",
+      "full_text": "Если вы тестируете код написанный на C++ и не используете санитайзеры, вы делаете что-то неправильно\n\nhttps://t.co/zwjyijtZOz",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        125
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zwjyijtZOz",
+            "expanded_url": "https://github.com/google/sanitizers",
+            "display_url": "github.com/google/sanitiz…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 10:07:41 +0000 2016",
+      "id": 768751694717022200,
+      "id_str": "768751694717022209",
+      "full_text": "@sqaunderhood санитайзеры находят такие баги, которые другими способами найти очень сложно\nОбзорный доклад\nhttps://t.co/CX9MRGQQqK",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        130
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CX9MRGQQqK",
+            "expanded_url": "https://events.yandex.ru/lib/talks/927/",
+            "display_url": "events.yandex.ru/lib/talks/927/",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 768751283415154700,
+      "in_reply_to_status_id_str": "768751283415154689",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 13:37:30 +0000 2016",
+      "id": 768804495799320600,
+      "id_str": "768804495799320576",
+      "full_text": "К сожалению тут ничем помочь не могу, у нас Linux целевая ОС https://t.co/ErFxj3C1tQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ErFxj3C1tQ",
+            "expanded_url": "https://twitter.com/maxbeard12/status/768776564406362116",
+            "display_url": "twitter.com/maxbeard12/sta…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768776564406362100,
+      "quoted_status_id_str": "768776564406362116",
+      "quoted_status_permalink": {
+        "url": "https://t.co/ErFxj3C1tQ",
+        "expanded": "https://twitter.com/maxbeard12/status/768776564406362116",
+        "display": "twitter.com/maxbeard12/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 25 11:46:30 +0000 2016",
+        "id": 768776564406362100,
+        "id_str": "768776564406362116",
+        "full_text": "@sqaunderhood есть рекомендации по поводу того, как это делать \"счастливчикам\" c Visual Studio и Windows? ;)",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          108
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 768751283415154700,
+        "in_reply_to_status_id_str": "768751283415154689",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 44104409,
+          "id_str": "44104409"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 13:38:51 +0000 2016",
+      "id": 768804836456423400,
+      "id_str": "768804836456423455",
+      "full_text": "Насколько я знаю да, в Яндекс браузере используют санитайзеры, как и в других наших проектах. https://t.co/RrVJuUPLjD",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        93
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RrVJuUPLjD",
+            "expanded_url": "https://twitter.com/estet/status/768761830768541696",
+            "display_url": "twitter.com/estet/status/7…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768761830768541700,
+      "quoted_status_id_str": "768761830768541696",
+      "quoted_status_permalink": {
+        "url": "https://t.co/RrVJuUPLjD",
+        "expanded": "https://twitter.com/estet/status/768761830768541696",
+        "display": "twitter.com/estet/status/7…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 25 10:47:58 +0000 2016",
+        "id": 768761830768541700,
+        "id_str": "768761830768541696",
+        "full_text": "@sqaunderhood а вы в Яндексе используете санитайзеры? Например с @yandexbrowser, который на базе Chrome.",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          104
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "yandexbrowser",
+              "name": "Yandex Browser",
+              "id": 2284927242,
+              "id_str": "2284927242",
+              "indices": [
+                65,
+                79
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 768751283415154700,
+        "in_reply_to_status_id_str": "768751283415154689",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 11690312,
+          "id_str": "11690312"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 13:42:02 +0000 2016",
+      "id": 768805638075981800,
+      "id_str": "768805638075981824",
+      "full_text": "В мире Java есть хороший тул Error Prone -- тоже ищет ошибки в коде\nhttps://t.co/5SHkC6Wg7W",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        91
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5SHkC6Wg7W",
+            "expanded_url": "http://errorprone.info/",
+            "display_url": "errorprone.info",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 13:42:58 +0000 2016",
+      "id": 768805871082172400,
+      "id_str": "768805871082172418",
+      "full_text": "@sqaunderhood Приятен тем, что имеет низкий уровень false positive и интегрируется в компиляцию",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        95
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 768805638075981800,
+      "in_reply_to_status_id_str": "768805638075981824",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 13:46:03 +0000 2016",
+      "id": 768806650094420000,
+      "id_str": "768806650094419968",
+      "full_text": "Про С не знаю, не работал с ним https://t.co/YkXxVnZDyu",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YkXxVnZDyu",
+            "expanded_url": "https://twitter.com/strizhechenko/status/768805138974801920",
+            "display_url": "twitter.com/strizhechenko/…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 15:37:46 +0000 2016",
+      "id": 768834764027596800,
+      "id_str": "768834764027596801",
+      "full_text": "Рассказ команды Facebook про инструменты разработки на C++\n\nhttps://t.co/5yVyguvGB9",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5yVyguvGB9",
+            "expanded_url": "https://vimeo.com/171996392",
+            "display_url": "vimeo.com/171996392",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 06:54:16 +0000 2016",
+      "id": 769065408926216200,
+      "id_str": "769065408926216193",
+      "full_text": "RT @maxbeard12: @sqaunderhood тогда надо говорить\" у вас есть возможность,но вы не используете санитайзеры,то что то делаете неправильно\" ;…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maxbeard12",
+            "name": "Maxim Shulga",
+            "id": 44104409,
+            "id_str": "44104409",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Aug 25 21:06:13 +0000 2016",
+        "id": 768917419322667000,
+        "id_str": "768917419322667009",
+        "full_text": "@sqaunderhood тогда надо говорить\" у вас есть возможность,но вы не используете санитайзеры,то что то делаете неправильно\" ;)не всем таквезет",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          140
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 768804495799320600,
+        "in_reply_to_status_id_str": "768804495799320576",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 44104409,
+          "id_str": "44104409"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 06:57:17 +0000 2016",
+      "id": 769066167193468900,
+      "id_str": "769066167193468928",
+      "full_text": "Был удачный опыт тестирования конфигурационных файлов прод/тест. Файлов было много и в них были неявные ограничения. https://t.co/yd6Q2fpeWo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        116
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yd6Q2fpeWo",
+            "expanded_url": "https://twitter.com/KeaneAF/status/768861920153702401",
+            "display_url": "twitter.com/KeaneAF/status…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768861920153702400,
+      "quoted_status_id_str": "768861920153702401",
+      "quoted_status_permalink": {
+        "url": "https://t.co/yd6Q2fpeWo",
+        "expanded": "https://twitter.com/KeaneAF/status/768861920153702401",
+        "display": "twitter.com/KeaneAF/status…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 25 17:25:41 +0000 2016",
+        "id": 768861920153702400,
+        "id_str": "768861920153702401",
+        "full_text": "@sqaunderhood тестировщики-автоматизаторы много говорят про тестирование кода. А что насчёт автоматизации по остальным фронтам?",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          127
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 16724267,
+          "id_str": "16724267"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 06:58:44 +0000 2016",
+      "id": 769066532752224300,
+      "id_str": "769066532752224258",
+      "full_text": "@sqaunderhood написал тесты на JUnit, которые загружали конфиги и проверяли эти ограничения между файлами.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        106
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 769066167193468900,
+      "in_reply_to_status_id_str": "769066167193468928",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 07:00:34 +0000 2016",
+      "id": 769066994419335200,
+      "id_str": "769066994419335172",
+      "full_text": "@sqaunderhood особенно полезно для конфигурации продуктовых стендов, потому что иначе проверить до выпуска их сложно.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        117
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 769066532752224300,
+      "in_reply_to_status_id_str": "769066532752224258",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 07:03:20 +0000 2016",
+      "id": 769067689113481200,
+      "id_str": "769067689113481216",
+      "full_text": "Согласен, автоматизация развертывания тестовых окружений -- это очень важно и экономит кучу времени. https://t.co/UZDMpqIBYT",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        100
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UZDMpqIBYT",
+            "expanded_url": "https://twitter.com/KeaneAF/status/768862576532975620",
+            "display_url": "twitter.com/KeaneAF/status…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768862576532975600,
+      "quoted_status_id_str": "768862576532975620",
+      "quoted_status_permalink": {
+        "url": "https://t.co/UZDMpqIBYT",
+        "expanded": "https://twitter.com/KeaneAF/status/768862576532975620",
+        "display": "twitter.com/KeaneAF/status…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 25 17:28:17 +0000 2016",
+        "id": 768862576532975600,
+        "id_str": "768862576532975620",
+        "full_text": "@sqaunderhood к примеру, есть проблемы работы с виртуальными машинами, их управлением, подготовкой к тестам и запуском.",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          119
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 768861920153702400,
+        "in_reply_to_status_id_str": "768861920153702401",
+        "in_reply_to_user_id": 16724267,
+        "in_reply_to_user_id_str": "16724267",
+        "in_reply_to_screen_name": "KeaneLBP",
+        "user": {
+          "id": 16724267,
+          "id_str": "16724267"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 07:05:02 +0000 2016",
+      "id": 769068118979280900,
+      "id_str": "769068118979280896",
+      "full_text": "@sqaunderhood Мы используем Teamcity + скрипты для регулярного развертывания и крупномасштабного тестирования на кластерах",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 769067689113481200,
+      "in_reply_to_status_id_str": "769067689113481216",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 07:10:58 +0000 2016",
+      "id": 769069611421724700,
+      "id_str": "769069611421724672",
+      "full_text": "Еще пару раз участвовал в миграции системы сборки проекта\nAnt + Ivy =&gt; Maven\nсамопальная тула =&gt; Python скрипты https://t.co/yd6Q2fpeWo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        117
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yd6Q2fpeWo",
+            "expanded_url": "https://twitter.com/KeaneAF/status/768861920153702401",
+            "display_url": "twitter.com/KeaneAF/status…",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768861920153702400,
+      "quoted_status_id_str": "768861920153702401",
+      "quoted_status_permalink": {
+        "url": "https://t.co/yd6Q2fpeWo",
+        "expanded": "https://twitter.com/KeaneAF/status/768861920153702401",
+        "display": "twitter.com/KeaneAF/status…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 25 17:25:41 +0000 2016",
+        "id": 768861920153702400,
+        "id_str": "768861920153702401",
+        "full_text": "@sqaunderhood тестировщики-автоматизаторы много говорят про тестирование кода. А что насчёт автоматизации по остальным фронтам?",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          127
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 16724267,
+          "id_str": "16724267"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 07:12:11 +0000 2016",
+      "id": 769069917916258300,
+      "id_str": "769069917916258304",
+      "full_text": "@sqaunderhood плохая система сборки *очень* сильно мешает и разработке и тестированию",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        85
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 769069611421724700,
+      "in_reply_to_status_id_str": "769069611421724672",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 09:10:26 +0000 2016",
+      "id": 769099677232947200,
+      "id_str": "769099677232947200",
+      "full_text": "Я видел такие проблемы\n- сборка тормозит\n- сложно что-то менять в конфигурации\n- много legacy и лишних зависимостей https://t.co/HqxbWn8gsi",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HqxbWn8gsi",
+            "expanded_url": "https://twitter.com/strizhechenko/status/769070800381087744",
+            "display_url": "twitter.com/strizhechenko/…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 09:11:10 +0000 2016",
+      "id": 769099861421686800,
+      "id_str": "769099861421686784",
+      "full_text": "@sqaunderhood видел ситуацию когда больше года тесты запускались на старой версии кода из-за проблем системы сборки",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 769099677232947200,
+      "in_reply_to_status_id_str": "769099677232947200",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 09:11:56 +0000 2016",
+      "id": 769100053927620600,
+      "id_str": "769100053927620610",
+      "full_text": "@sqaunderhood вычишал из одного проекта 4 разных версии JUnit и две версии Spring в зависимостях, не считая других проблем",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 769099677232947200,
+      "in_reply_to_status_id_str": "769099677232947200",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 09:12:32 +0000 2016",
+      "id": 769100206105321500,
+      "id_str": "769100206105321477",
+      "full_text": "@sqaunderhood видел legacy скрипты деплоя на два экрана кода, которые просто копировали файлы из одной папки в несколько",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        120
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 769099677232947200,
+      "in_reply_to_status_id_str": "769099677232947200",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 09:13:43 +0000 2016",
+      "id": 769100501984116700,
+      "id_str": "769100501984116736",
+      "full_text": "@sqaunderhood видел \"систему контроля версий\" поверх Perforce на патчах и shell скриптах, которая собирала релизную версию",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 769099677232947200,
+      "in_reply_to_status_id_str": "769099677232947200",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 09:14:57 +0000 2016",
+      "id": 769100811347648500,
+      "id_str": "769100811347648513",
+      "full_text": "@sqaunderhood видел систему сборки, которая работала только на одной конкретной машине, потому что в ней были прошиты абсолютные пути",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        133
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sqaunderhood",
+            "name": "Протестировал",
+            "id": 718022849261412400,
+            "id_str": "718022849261412352",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 769099677232947200,
+      "in_reply_to_status_id_str": "769099677232947200",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 09:43:12 +0000 2016",
+      "id": 769107920239853600,
+      "id_str": "769107920239853569",
+      "full_text": "По моим наблюдениям это либо язык разработки, либо Python https://t.co/ly6nOrFs6F",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        57
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ly6nOrFs6F",
+            "expanded_url": "https://twitter.com/KeaneAF/status/768863477792436224",
+            "display_url": "twitter.com/KeaneAF/status…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768863477792436200,
+      "quoted_status_id_str": "768863477792436224",
+      "quoted_status_permalink": {
+        "url": "https://t.co/ly6nOrFs6F",
+        "expanded": "https://twitter.com/KeaneAF/status/768863477792436224",
+        "display": "twitter.com/KeaneAF/status…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 25 17:31:52 +0000 2016",
+        "id": 768863477792436200,
+        "id_str": "768863477792436224",
+        "full_text": "@sqaunderhood ещё есть вопрос выбора языка для автотестов. И подбор инструментария для написания этих самых автотестов.",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          119
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 768862576532975600,
+        "in_reply_to_status_id_str": "768862576532975620",
+        "in_reply_to_user_id": 16724267,
+        "in_reply_to_user_id_str": "16724267",
+        "in_reply_to_screen_name": "KeaneLBP",
+        "user": {
+          "id": 16724267,
+          "id_str": "16724267"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 14:19:35 +0000 2016",
+      "id": 769177477604315100,
+      "id_str": "769177477604315136",
+      "full_text": "При тестировании *не* через GUI с использованием промышленных языков, большая часть вопросов отпадает автомагически https://t.co/5t8lDak3If",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5t8lDak3If",
+            "expanded_url": "https://twitter.com/maxbeard12/status/769164815432552452",
+            "display_url": "twitter.com/maxbeard12/sta…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 769164815432552400,
+      "quoted_status_id_str": "769164815432552452",
+      "quoted_status_permalink": {
+        "url": "https://t.co/5t8lDak3If",
+        "expanded": "https://twitter.com/maxbeard12/status/769164815432552452",
+        "display": "twitter.com/maxbeard12/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Aug 26 13:29:17 +0000 2016",
+        "id": 769164815432552400,
+        "id_str": "769164815432552452",
+        "full_text": "@KeaneAF @sqaunderhood https://t.co/eijcWpWg5X",
+        "truncated": false,
+        "display_text_range": [
+          23,
+          46
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                9,
+                22
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/eijcWpWg5X",
+              "expanded_url": "http://www.maxshulga.ru/2015/04/how-to-find-correct-test-framework.html",
+              "display_url": "maxshulga.ru/2015/04/how-to…",
+              "indices": [
+                23,
+                46
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 768863477792436200,
+        "in_reply_to_status_id_str": "768863477792436224",
+        "in_reply_to_user_id": 16724267,
+        "in_reply_to_user_id_str": "16724267",
+        "in_reply_to_screen_name": "KeaneLBP",
+        "user": {
+          "id": 44104409,
+          "id_str": "44104409"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 14:26:39 +0000 2016",
+      "id": 769179253887864800,
+      "id_str": "769179253887864832",
+      "full_text": "Тут я стараюсь придерживаться внешних приоритетов от разработки/менеджмента. В самом тестировании нет приоритетов https://t.co/4QWIW55D2x",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        113
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4QWIW55D2x",
+            "expanded_url": "https://twitter.com/KeaneAF/status/768864214261825537",
+            "display_url": "twitter.com/KeaneAF/status…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768864214261825500,
+      "quoted_status_id_str": "768864214261825537",
+      "quoted_status_permalink": {
+        "url": "https://t.co/4QWIW55D2x",
+        "expanded": "https://twitter.com/KeaneAF/status/768864214261825537",
+        "display": "twitter.com/KeaneAF/status…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 25 17:34:48 +0000 2016",
+        "id": 768864214261825500,
+        "id_str": "768864214261825537",
+        "full_text": "@sqaunderhood проблема выбора очерёдности автоматизации и расставления приоритетов, особенно, если ресурсов не хватает.",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          119
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 768863477792436200,
+        "in_reply_to_status_id_str": "768863477792436224",
+        "in_reply_to_user_id": 16724267,
+        "in_reply_to_user_id_str": "16724267",
+        "in_reply_to_screen_name": "KeaneLBP",
+        "user": {
+          "id": 16724267,
+          "id_str": "16724267"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 14:27:42 +0000 2016",
+      "id": 769179517738942500,
+      "id_str": "769179517738942468",
+      "full_text": "На этот вопрос ответить не могу, что-то десктопное последний раз тестировал 5+ лет назад. https://t.co/GqvKiw5JEP",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        89
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GqvKiw5JEP",
+            "expanded_url": "https://twitter.com/KeaneAF/status/768864870347468800",
+            "display_url": "twitter.com/KeaneAF/status…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768864870347468800,
+      "quoted_status_id_str": "768864870347468800",
+      "quoted_status_permalink": {
+        "url": "https://t.co/GqvKiw5JEP",
+        "expanded": "https://twitter.com/KeaneAF/status/768864870347468800",
+        "display": "twitter.com/KeaneAF/status…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 25 17:37:24 +0000 2016",
+        "id": 768864870347468800,
+        "id_str": "768864870347468800",
+        "full_text": "@sqaunderhood вопросы анализа производительности десктопных приложений. Использовать стороннее ПО или писать своё.",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          114
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 768864214261825500,
+        "in_reply_to_status_id_str": "768864214261825537",
+        "in_reply_to_user_id": 16724267,
+        "in_reply_to_user_id_str": "16724267",
+        "in_reply_to_screen_name": "KeaneLBP",
+        "user": {
+          "id": 16724267,
+          "id_str": "16724267"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 14:27:57 +0000 2016",
+      "id": 769179582452891600,
+      "id_str": "769179582452891648",
+      "full_text": "Спасибо за хорошие вопросы. https://t.co/VB0a8ofUMR",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        27
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VB0a8ofUMR",
+            "expanded_url": "https://twitter.com/KeaneAF/status/768865008545624064",
+            "display_url": "twitter.com/KeaneAF/status…",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768865008545624000,
+      "quoted_status_id_str": "768865008545624064",
+      "quoted_status_permalink": {
+        "url": "https://t.co/VB0a8ofUMR",
+        "expanded": "https://twitter.com/KeaneAF/status/768865008545624064",
+        "display": "twitter.com/KeaneAF/status…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Aug 25 17:37:57 +0000 2016",
+        "id": 768865008545624000,
+        "id_str": "768865008545624064",
+        "full_text": "@sqaunderhood это я так, чтобы немного растормошить народ.  :)",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          62
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 768864870347468800,
+        "in_reply_to_status_id_str": "768864870347468800",
+        "in_reply_to_user_id": 16724267,
+        "in_reply_to_user_id_str": "16724267",
+        "in_reply_to_screen_name": "KeaneLBP",
+        "user": {
+          "id": 16724267,
+          "id_str": "16724267"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 14:31:51 +0000 2016",
+      "id": 769180562774978600,
+      "id_str": "769180562774978560",
+      "full_text": "В декабре на Гейзенбаге расскажу про тестирование распределенных систем\nhttps://t.co/VOaK6RgDKX",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        95
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VOaK6RgDKX",
+            "expanded_url": "http://heisenbug.ru/talks/testing_distributed_systems/",
+            "display_url": "heisenbug.ru/talks/testing_…",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 15:05:53 +0000 2016",
+      "id": 769189129347272700,
+      "id_str": "769189129347272704",
+      "full_text": "Конечно нет. Не понял где я сказал, что надо писать велосипеды. https://t.co/NEu0CCLwTx",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        63
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NEu0CCLwTx",
+            "expanded_url": "https://twitter.com/maxbeard12/status/769188167991824384",
+            "display_url": "twitter.com/maxbeard12/sta…",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 769188167991824400,
+      "quoted_status_id_str": "769188167991824384",
+      "quoted_status_permalink": {
+        "url": "https://t.co/NEu0CCLwTx",
+        "expanded": "https://twitter.com/maxbeard12/status/769188167991824384",
+        "display": "twitter.com/maxbeard12/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Aug 26 15:02:04 +0000 2016",
+        "id": 769188167991824400,
+        "id_str": "769188167991824384",
+        "full_text": "@sqaunderhood использование \"пром языков\" означает написание своих велосипедов вместо готовых фреймворков? UI тут совершенно не при чем.",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          136
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 769177477604315100,
+        "in_reply_to_status_id_str": "769177477604315136",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 44104409,
+          "id_str": "44104409"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 16:48:31 +0000 2016",
+      "id": 769214958068523000,
+      "id_str": "769214958068523008",
+      "full_text": "Может быть остаются (1) и (2), зависит от точных требований по ним. Все остальное уходит и не является проблемой https://t.co/ZgTQcmIyfp",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        112
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZgTQcmIyfp",
+            "expanded_url": "https://twitter.com/maxbeard12/status/769190150349946880",
+            "display_url": "twitter.com/maxbeard12/sta…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 769190150349946900,
+      "quoted_status_id_str": "769190150349946880",
+      "quoted_status_permalink": {
+        "url": "https://t.co/ZgTQcmIyfp",
+        "expanded": "https://twitter.com/maxbeard12/status/769190150349946880",
+        "display": "twitter.com/maxbeard12/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Aug 26 15:09:57 +0000 2016",
+        "id": 769190150349946900,
+        "id_str": "769190150349946880",
+        "full_text": "@sqaunderhood аналогично я не понял при чем тут \"через UI\" :) кстати, какие еще пункты, кроме кроме 3 и 12 уходят? :)",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          117
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sqaunderhood",
+              "name": "Протестировал",
+              "id": 718022849261412400,
+              "id_str": "718022849261412352",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 769189129347272700,
+        "in_reply_to_status_id_str": "769189129347272704",
+        "in_reply_to_user_id": 718022849261412400,
+        "in_reply_to_user_id_str": "718022849261412352",
+        "in_reply_to_screen_name": "sqaunderhood",
+        "user": {
+          "id": 44104409,
+          "id_str": "44104409"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 16:53:36 +0000 2016",
+      "id": 769216233212354600,
+      "id_str": "769216233212354560",
+      "full_text": "Заканчиваю дежурство. Всем спасибо, было интересно. \nЕсли что, пишите @asatarin",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        79
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "asatarin",
+            "name": "Andrey Satarin",
+            "id": 59556213,
+            "id_str": "59556213",
+            "indices": [
+              70,
+              79
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 26 17:32:16 +0000 2016",
+      "id": 769225965906124800,
+      "id_str": "769225965906124804",
+      "full_text": "На следующей неделе новый автор - Шульга Максим @maxbeard12 из компании \"Код Безопасности\" (не тестировщик, но искренне им сочувствующий).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        138
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maxbeard12",
+            "name": "Maxim Shulga",
+            "id": 44104409,
+            "id_str": "44104409",
+            "indices": [
+              48,
+              59
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": 406136792,
+  "id_str": "406136792",
+  "name": "Vsevolod Brekelov",
+  "screen_name": "brekelov",
+  "location": "Saint Petersburg, Russia",
+  "profile_location": null,
+  "description": "Software engineer. PMM @ JUR RU Group. Program Committee member of: #Heisenbug #JPoint #Joker. He/him. https://t.co/OzNghbdYLQ",
+  "url": "https://t.co/EG2dV5BvSe",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/EG2dV5BvSe",
+          "expanded_url": "http://volekerb.github.io",
+          "display_url": "volekerb.github.io",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/OzNghbdYLQ",
+          "expanded_url": "https://t.me/engineerreadings",
+          "display_url": "t.me/engineerreadin…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 298,
+  "friends_count": 330,
+  "listed_count": 5,
+  "created_at": "Sun Nov 06 09:08:58 +0000 2011",
+  "favourites_count": 11719,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 1688,
+  "lang": null,
+  "status": {
+    "created_at": "Thu Feb 27 18:17:58 +0000 2020",
+    "id": 1233093936647831600,
+    "id_str": "1233093936647831552",
+    "text": "Previous year I visited this conference and was amazed by the concentration of smart people in one place. That time… https://t.co/TC2736PKfd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TC2736PKfd",
+          "expanded_url": "https://twitter.com/i/web/status/1233093936647831552",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "a76c0cd7d56c4836",
+      "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+      "place_type": "city",
+      "name": "Санкт-Петербург",
+      "full_name": "Санкт-Петербург, Россия",
+      "country_code": "RU",
+      "country": "Россия",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.0896894,
+              59.7761714
+            ],
+            [
+              30.5677067,
+              59.7761714
+            ],
+            [
+              30.5677067,
+              60.0921253
+            ],
+            [
+              30.0896894,
+              60.0921253
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1233049815136850000,
+    "quoted_status_id_str": "1233049815136849926",
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1156856512180051970/hGciB_9J_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156856512180051970/hGciB_9J_normal.jpg",
+  "profile_link_color": "ABB8C2",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}

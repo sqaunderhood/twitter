@@ -1,0 +1,1679 @@
+{
+  "tweets": [
+    {
+      "created_at": "Thu Feb 27 08:07:05 +0000 2020",
+      "id": 1232940202559144000,
+      "id_str": "1232940202559143936",
+      "full_text": "На следующей неделе новый автор - Михаил Чумаков @ainomc1.\n\nВ тестировании 10 лет, за это время собирал команды, автоматизировал, обучал коллег, отвечал за качество. \nСейчас - студент одного из ВУЗов Канады.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ainomc1",
+            "name": "Mikhail Chumakov",
+            "id": 3879445696,
+            "id_str": "3879445696",
+            "indices": [
+              49,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 01 16:21:46 +0000 2020",
+      "id": 1234151857829875700,
+      "id_str": "1234151857829875712",
+      "full_text": "@petertretyakov @liz_shamanina Это шутка про race condition?",
+      "truncated": false,
+      "display_text_range": [
+        31,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "petertretyakov",
+            "name": "Peter Tretyakov",
+            "id": 374414766,
+            "id_str": "374414766",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "liz_shamanina",
+            "name": "Elizaveta Shamanina",
+            "id": 1161931775276441600,
+            "id_str": "1161931775276441600",
+            "indices": [
+              16,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216674715915489300,
+      "in_reply_to_status_id_str": "1216674715915489280",
+      "in_reply_to_user_id": 374414766,
+      "in_reply_to_user_id_str": "374414766",
+      "in_reply_to_screen_name": "petertretyakov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Mar 02 07:57:26 +0000 2020",
+      "id": 1234387322508136400,
+      "id_str": "1234387322508136449",
+      "full_text": "Привет! Меня зовут Миша @ainomc1 . На этой неделе хочется обсудить большое разнообразие тем вокруг тестирования и IT в целом. Постараюсь, чтобы нам с вами было интересно! :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ainomc1",
+            "name": "Mikhail Chumakov",
+            "id": 3879445696,
+            "id_str": "3879445696",
+            "indices": [
+              24,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 08:19:58 +0000 2020",
+      "id": 1234392995824357400,
+      "id_str": "1234392995824357376",
+      "full_text": "Недавно @s_pirogov накинул в этом канале, что карьера QA длится 5-6 лет. Это забавно, потому что моя длится уже 13 лет+ 😀 И вы знаете, всё ещё интересно! Не все баги  ещё исправились!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        183
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              8,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 11:05:00 +0000 2020",
+      "id": 1234434525645529000,
+      "id_str": "1234434525645529089",
+      "full_text": "Как было заявлено в анонсе, в настоящий момент я учусь на IT специальности в Ванкувере (Канада), на двухгодичной программе. В России я также получил два образования по IT специальностям (в СПб и МСК), так что могу сравнить два подхода.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 19:16:05 +0000 2020",
+      "id": 1234558112713101300,
+      "id_str": "1234558112713101316",
+      "full_text": "Первое что бросается в глаза - в Канаде не списать и работу не купить. Чуть нарушил integrity - поехал домой. Второй момент - предметов меньше и основной упор на самоподготовку, а не на лекции. Читай книги, учи, делай задания. Если тема интересна - продолжим тред.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234434525645529000,
+      "in_reply_to_status_id_str": "1234434525645529089",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 19:20:44 +0000 2020",
+      "id": 1234559281611124700,
+      "id_str": "1234559281611124736",
+      "full_text": "@s_pirogov Понятно что я не только руками (головой) тестировал, но и всё остальное делал: автоматизация, менеджмент, даже запуск собственного \"консалтинга\". Кстати, собственная компания меня быстро разочаровала, потому что у фаундера почти нет IT, зато много скучной менеджерский работы.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        287
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234392995824357400,
+      "in_reply_to_status_id_str": "1234392995824357376",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 19:22:51 +0000 2020",
+      "id": 1234559815013347300,
+      "id_str": "1234559815013347328",
+      "full_text": "@s_pirogov Так что я больше согласен с @asatarin После первых 5 лет карьера только начинается :) Потому что больше всего интересного вокруг начинает происходить.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        161
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "asatarin",
+            "name": "Andrey Satarin",
+            "id": 59556213,
+            "id_str": "59556213",
+            "indices": [
+              39,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234559281611124700,
+      "in_reply_to_status_id_str": "1234559281611124736",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 19:28:26 +0000 2020",
+      "id": 1234561218951643100,
+      "id_str": "1234561218951643140",
+      "full_text": "@s_pirogov Ха, какой Селениум RС, это тогда было как сейчас нейросети и AI. В целом, была популярна точка зрения, что автоматизация не нужна, это бред для гиков. Иллюстрируя слова тем что selenium IDE не стабилен.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        213
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234405293330772000,
+      "in_reply_to_status_id_str": "1234405293330771969",
+      "in_reply_to_user_id": 304009370,
+      "in_reply_to_user_id_str": "304009370",
+      "in_reply_to_screen_name": "s_pirogov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 19:31:42 +0000 2020",
+      "id": 1234562039839850500,
+      "id_str": "1234562039839850497",
+      "full_text": "@s_pirogov GIT не был де-факто стандартом разработки, а SVN. В одной из компаний, где я работал 10 лет назад всерьёз переезжали в Mercurial, проводили курсы для всех причастных.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        177
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234561218951643100,
+      "in_reply_to_status_id_str": "1234561218951643140",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 19:39:36 +0000 2020",
+      "id": 1234564029416341500,
+      "id_str": "1234564029416341509",
+      "full_text": "@s_pirogov Да чего говорить, тогда слова \"scrum\" и \"agile\" не были зашкварными, а только добрались до нас из-за океана. Компания scrumtrek в 2008-ом появилась только.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        166
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234562039839850500,
+      "in_reply_to_status_id_str": "1234562039839850497",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 20:59:09 +0000 2020",
+      "id": 1234584048619618300,
+      "id_str": "1234584048619618304",
+      "full_text": "@s_pirogov @asatarin Тут простая математика. На одном месте в IT человек работает 2-3 года. Таким образом после первых двух компаний уже больше представляешь что есть IT, как всё работает, какие проекты больше интересны тебе. Соотвественно, больше знаешь - можешь управлять своей карьерой.",
+      "truncated": false,
+      "display_text_range": [
+        21,
+        289
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "asatarin",
+            "name": "Andrey Satarin",
+            "id": 59556213,
+            "id_str": "59556213",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234562806004973600,
+      "in_reply_to_status_id_str": "1234562806004973570",
+      "in_reply_to_user_id": 304009370,
+      "in_reply_to_user_id_str": "304009370",
+      "in_reply_to_screen_name": "s_pirogov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 21:03:08 +0000 2020",
+      "id": 1234585053063270400,
+      "id_str": "1234585053063270400",
+      "full_text": "@s_pirogov @asatarin Не совсем. В IT есть разные доменные области. Если ты находишься с сфере QA, но работаешь менеджером, то почему это карьера не в QA? И это относится не только к тестированию, фронтенд, мобильные, БД, тоже самое. Я не так много видел \"универсальных\" it менеджеров.",
+      "truncated": false,
+      "display_text_range": [
+        21,
+        284
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "asatarin",
+            "name": "Andrey Satarin",
+            "id": 59556213,
+            "id_str": "59556213",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234569226612072400,
+      "in_reply_to_status_id_str": "1234569226612072451",
+      "in_reply_to_user_id": 304009370,
+      "in_reply_to_user_id_str": "304009370",
+      "in_reply_to_screen_name": "s_pirogov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 21:13:13 +0000 2020",
+      "id": 1234587591330222000,
+      "id_str": "1234587591330222081",
+      "full_text": "@s_pirogov @ainomc1 Работая в IT мы специализируемся на какой-то определённой области или технологии. Учёба помогает разобраться в соседних доменах, посвящая этому больше времени, чем part-time после работы. Знаю примеры, когда люди меняли свою карьеру после перерыва на учёбу.",
+      "truncated": false,
+      "display_text_range": [
+        20,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "ainomc1",
+            "name": "Mikhail Chumakov",
+            "id": 3879445696,
+            "id_str": "3879445696",
+            "indices": [
+              11,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234563421812727800,
+      "in_reply_to_status_id_str": "1234563421812727809",
+      "in_reply_to_user_id": 304009370,
+      "in_reply_to_user_id_str": "304009370",
+      "in_reply_to_screen_name": "s_pirogov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 02 21:26:02 +0000 2020",
+      "id": 1234590816909373400,
+      "id_str": "1234590816909373440",
+      "full_text": "Пост собрал 5 лойсов! :) Продолжим. Образование в англоязычных станах крутится вокруг будущей профессии. Никаких тебе философий, физкультуры и культурологии. С одной стороны, будущие выпускники - люди без широкого кругозора :) С другой - специалисты, сфокусированные на профессии",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234558112713101300,
+      "in_reply_to_status_id_str": "1234558112713101316",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 01:50:58 +0000 2020",
+      "id": 1234657489255387100,
+      "id_str": "1234657489255387136",
+      "full_text": "@martosaur В российском? Нельзя. Есть программа, по ней и учат.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        63
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "martosaur",
+            "name": "It was under E",
+            "id": 184367356,
+            "id_str": "184367356",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234643895750840300,
+      "in_reply_to_status_id_str": "1234643895750840320",
+      "in_reply_to_user_id": 184367356,
+      "in_reply_to_user_id_str": "184367356",
+      "in_reply_to_screen_name": "martosaur",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 03:29:17 +0000 2020",
+      "id": 1234682231269949400,
+      "id_str": "1234682231269949447",
+      "full_text": "@martosaur В теории так можно, но у всех есть программа, по окончании которой выдают диплом. Один год - это около 30 кредитов, которые надо изучить. Один предмет ~3 кредита, плюс каждый предмет стоит сколько-то денег. Т.е. в теории можно, на практике бывает редко.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        264
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "martosaur",
+            "name": "It was under E",
+            "id": 184367356,
+            "id_str": "184367356",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234661071165591600,
+      "in_reply_to_status_id_str": "1234661071165591555",
+      "in_reply_to_user_id": 184367356,
+      "in_reply_to_user_id_str": "184367356",
+      "in_reply_to_screen_name": "martosaur",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 04:00:00 +0000 2020",
+      "id": 1234689958826217500,
+      "id_str": "1234689958826217472",
+      "full_text": "Чтобы вернуться к тестированию, из того что тут было не упомянуто, я один из ПК @HeisenbugConf Так что можем обсудить это мероприятие здесь. Почему вы её любите/не любите/ индифферентны? :) Почему, вообще, вы НЕ ходите на конференции?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        234
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              80,
+              94
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 04:12:18 +0000 2020",
+      "id": 1234693055220977700,
+      "id_str": "1234693055220977664",
+      "full_text": "@nastsi @HeisenbugConf Спасибо, принято!\nА нормально, чтобы купить и сходить - это сколько?",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        91
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nastsi",
+            "name": "Анастасия",
+            "id": 466353408,
+            "id_str": "466353408",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              8,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234692405259096000,
+      "in_reply_to_status_id_str": "1234692405259096064",
+      "in_reply_to_user_id": 466353408,
+      "in_reply_to_user_id_str": "466353408",
+      "in_reply_to_screen_name": "nastsi",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 04:28:39 +0000 2020",
+      "id": 1234697171624218600,
+      "id_str": "1234697171624218624",
+      "full_text": "@nastsi @HeisenbugConf Резонно! Про оплату посещения компанией могу сказать, что тут есть моменты: 1. Надо спрашивать у работодателей про это. Руководителю, обычно, не до того чтобы конференции сотрудникам искать. 2. Компаниям выгодно иметь образованных сотрудников, т.е. отправлять на конференции в т.ч",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        303
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nastsi",
+            "name": "Анастасия",
+            "id": 466353408,
+            "id_str": "466353408",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              8,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234694905848631300,
+      "in_reply_to_status_id_str": "1234694905848631296",
+      "in_reply_to_user_id": 466353408,
+      "in_reply_to_user_id_str": "466353408",
+      "in_reply_to_screen_name": "nastsi",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 04:37:48 +0000 2020",
+      "id": 1234699472304836600,
+      "id_str": "1234699472304836608",
+      "full_text": "@nastsi @HeisenbugConf И ещё, важное по поводу цен. Наверное, все это знают, но! Конференции дорожают при приближении даты проведения. Если брать билеты раньше, то реально уложиться тысяч в 10 + всякие промо-коды и спец.акции, типа, билеты категории Academic.",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nastsi",
+            "name": "Анастасия",
+            "id": 466353408,
+            "id_str": "466353408",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              8,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234694905848631300,
+      "in_reply_to_status_id_str": "1234694905848631296",
+      "in_reply_to_user_id": 466353408,
+      "in_reply_to_user_id_str": "466353408",
+      "in_reply_to_screen_name": "nastsi",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 05:21:39 +0000 2020",
+      "id": 1234710506843377700,
+      "id_str": "1234710506843377665",
+      "full_text": "@ivanovpetja @nastsi @HeisenbugConf По повожу стоимости докладов - спорное утверждение!\nПруфы будут позже, не переключайтесь :)\n\nУважаемый, а есть хоть одна конференция в мире, где доклады ценные? Или это глобальная проблема?",
+      "truncated": false,
+      "display_text_range": [
+        36,
+        225
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanovpetja",
+            "name": "Кластерный Бабай",
+            "id": 336555771,
+            "id_str": "336555771",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "nastsi",
+            "name": "Анастасия",
+            "id": 466353408,
+            "id_str": "466353408",
+            "indices": [
+              13,
+              20
+            ]
+          },
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234707875022459000,
+      "in_reply_to_status_id_str": "1234707875022458880",
+      "in_reply_to_user_id": 336555771,
+      "in_reply_to_user_id_str": "336555771",
+      "in_reply_to_screen_name": "ivanovpetja",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 05:26:02 +0000 2020",
+      "id": 1234711610813550600,
+      "id_str": "1234711610813550592",
+      "full_text": "@s_pirogov @asatarin Ты по своему личному опыту судишь или абстрактно? \n\nКстати, про каких менеджеров речь, вообще? Их столько всяких)) Продакт/проджект/CTO/CIO, тим лид, например, это менеджер или ещё нет?",
+      "truncated": false,
+      "display_text_range": [
+        21,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "asatarin",
+            "name": "Andrey Satarin",
+            "id": 59556213,
+            "id_str": "59556213",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234708049052536800,
+      "in_reply_to_status_id_str": "1234708049052536832",
+      "in_reply_to_user_id": 304009370,
+      "in_reply_to_user_id_str": "304009370",
+      "in_reply_to_screen_name": "s_pirogov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 05:31:58 +0000 2020",
+      "id": 1234713103738318800,
+      "id_str": "1234713103738318848",
+      "full_text": "@ivanovpetja @nastsi @HeisenbugConf Звучит так, как будто ты хочешь курс с обучением на десяток часов, а не на конференцию со слотом в 60 мин.",
+      "truncated": false,
+      "display_text_range": [
+        36,
+        142
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanovpetja",
+            "name": "Кластерный Бабай",
+            "id": 336555771,
+            "id_str": "336555771",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "nastsi",
+            "name": "Анастасия",
+            "id": 466353408,
+            "id_str": "466353408",
+            "indices": [
+              13,
+              20
+            ]
+          },
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234711292667101200,
+      "in_reply_to_status_id_str": "1234711292667101184",
+      "in_reply_to_user_id": 336555771,
+      "in_reply_to_user_id_str": "336555771",
+      "in_reply_to_screen_name": "ivanovpetja",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 05:32:40 +0000 2020",
+      "id": 1234713281987784700,
+      "id_str": "1234713281987784706",
+      "full_text": "@ivanovpetja @nastsi @HeisenbugConf Обозначенные тобой мероприятия не столько учат, сколько расширяют кругозор. И это нормально. Считаю что будучи профессионалом, слушатель способен углубиться в технологию про которую было рассказано самостоятельно.",
+      "truncated": false,
+      "display_text_range": [
+        36,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanovpetja",
+            "name": "Кластерный Бабай",
+            "id": 336555771,
+            "id_str": "336555771",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "nastsi",
+            "name": "Анастасия",
+            "id": 466353408,
+            "id_str": "466353408",
+            "indices": [
+              13,
+              20
+            ]
+          },
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234711292667101200,
+      "in_reply_to_status_id_str": "1234711292667101184",
+      "in_reply_to_user_id": 336555771,
+      "in_reply_to_user_id_str": "336555771",
+      "in_reply_to_screen_name": "ivanovpetja",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 05:43:50 +0000 2020",
+      "id": 1234716090212769800,
+      "id_str": "1234716090212769793",
+      "full_text": "@ivanovpetja @nastsi @HeisenbugConf Так мы же с 1-го класса школы учимся на рассказах на большую аудиторию. Вроде работает.\n\nЯ не знаю что у тебя за метрика про 90%. Выглядит как высосанная из пальца. Большая часть докладов, которые я вижу - практика от докладчиков.",
+      "truncated": false,
+      "display_text_range": [
+        36,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanovpetja",
+            "name": "Кластерный Бабай",
+            "id": 336555771,
+            "id_str": "336555771",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "nastsi",
+            "name": "Анастасия",
+            "id": 466353408,
+            "id_str": "466353408",
+            "indices": [
+              13,
+              20
+            ]
+          },
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234715071911207000,
+      "in_reply_to_status_id_str": "1234715071911206912",
+      "in_reply_to_user_id": 336555771,
+      "in_reply_to_user_id_str": "336555771",
+      "in_reply_to_screen_name": "ivanovpetja",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 05:45:25 +0000 2020",
+      "id": 1234716487870550000,
+      "id_str": "1234716487870550018",
+      "full_text": "@s_pirogov @asatarin Слышал мнение, что менеджер, это только тот в чьи обязанности входит нанять и уволить сотрудника :)\nКаждый тимлид может это?",
+      "truncated": false,
+      "display_text_range": [
+        21,
+        145
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "s_pirogov",
+            "name": "Sergey Pirogov",
+            "id": 304009370,
+            "id_str": "304009370",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "asatarin",
+            "name": "Andrey Satarin",
+            "id": 59556213,
+            "id_str": "59556213",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234711944948568000,
+      "in_reply_to_status_id_str": "1234711944948568064",
+      "in_reply_to_user_id": 304009370,
+      "in_reply_to_user_id_str": "304009370",
+      "in_reply_to_screen_name": "s_pirogov",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 05:46:47 +0000 2020",
+      "id": 1234716834777256000,
+      "id_str": "1234716834777255936",
+      "full_text": "@ivanovpetja @nastsi @HeisenbugConf Пруфами поделишься? :)",
+      "truncated": false,
+      "display_text_range": [
+        36,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanovpetja",
+            "name": "Кластерный Бабай",
+            "id": 336555771,
+            "id_str": "336555771",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "nastsi",
+            "name": "Анастасия",
+            "id": 466353408,
+            "id_str": "466353408",
+            "indices": [
+              13,
+              20
+            ]
+          },
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234716440558817300,
+      "in_reply_to_status_id_str": "1234716440558817280",
+      "in_reply_to_user_id": 336555771,
+      "in_reply_to_user_id_str": "336555771",
+      "in_reply_to_screen_name": "ivanovpetja",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 05:58:20 +0000 2020",
+      "id": 1234719737831186400,
+      "id_str": "1234719737831186432",
+      "full_text": "@ivanovpetja @nastsi @HeisenbugConf )))))))))) спасибо",
+      "truncated": false,
+      "display_text_range": [
+        36,
+        54
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanovpetja",
+            "name": "Кластерный Бабай",
+            "id": 336555771,
+            "id_str": "336555771",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "nastsi",
+            "name": "Анастасия",
+            "id": 466353408,
+            "id_str": "466353408",
+            "indices": [
+              13,
+              20
+            ]
+          },
+          {
+            "screen_name": "HeisenbugConf",
+            "name": "Heisenbug",
+            "id": 769188038090129400,
+            "id_str": "769188038090129408",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234718703977148400,
+      "in_reply_to_status_id_str": "1234718703977148417",
+      "in_reply_to_user_id": 336555771,
+      "in_reply_to_user_id_str": "336555771",
+      "in_reply_to_screen_name": "ivanovpetja",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 06:05:16 +0000 2020",
+      "id": 1234721485547344000,
+      "id_str": "1234721485547343872",
+      "full_text": "Тред про НЕ хождение по конференции - интересный, рекомендую!\nА вот вам несколько моих любимых докладов.\nНачнём с самой увлекательной для меня темы: математика в тестировании. Этот доклад про Сети Петри, математический аппарат, переходы и метки\n\nhttps://t.co/darTJaRHUo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/darTJaRHUo",
+            "expanded_url": "https://www.youtube.com/watch?v=TeKHZw61pb8",
+            "display_url": "youtube.com/watch?v=TeKHZw…",
+            "indices": [
+              246,
+              269
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 03 06:08:07 +0000 2020",
+      "id": 1234722201619832800,
+      "id_str": "1234722201619832832",
+      "full_text": "Автор @p0deje",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        13
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "p0deje",
+            "name": "Alex Rodionov",
+            "id": 226939960,
+            "id_str": "226939960",
+            "indices": [
+              6,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1234721485547344000,
+      "in_reply_to_status_id_str": "1234721485547343872",
+      "in_reply_to_user_id": 718022849261412400,
+      "in_reply_to_user_id_str": "718022849261412352",
+      "in_reply_to_screen_name": "sqaunderhood",
+      "user": {
+        "id": 718022849261412400,
+        "id_str": "718022849261412352"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    }
+  ]
+}

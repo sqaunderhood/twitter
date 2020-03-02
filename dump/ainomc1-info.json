@@ -1,0 +1,111 @@
+{
+  "id": 3879445696,
+  "id_str": "3879445696",
+  "name": "Mikhail Chumakov",
+  "screen_name": "ainomc1",
+  "location": "Vancouver, Canada",
+  "profile_location": null,
+  "description": "Program committee @heisenbugconf\nStudent",
+  "url": "https://t.co/WR0cSS7J1T",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/WR0cSS7J1T",
+          "expanded_url": "https://www.linkedin.com/in/mchumakov/",
+          "display_url": "linkedin.com/in/mchumakov/",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 22,
+  "friends_count": 85,
+  "listed_count": 0,
+  "created_at": "Tue Oct 06 09:42:17 +0000 2015",
+  "favourites_count": 40,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 4,
+  "lang": null,
+  "status": {
+    "created_at": "Mon Mar 02 19:17:08 +0000 2020",
+    "id": 1234558375058378800,
+    "id_str": "1234558375058378753",
+    "text": "@s_pirogov @sqaunderhood Образование в IT?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "s_pirogov",
+          "name": "Sergey Pirogov",
+          "id": 304009370,
+          "id_str": "304009370",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "sqaunderhood",
+          "name": "Протестировал",
+          "id": 718022849261412400,
+          "id_str": "718022849261412352",
+          "indices": [
+            11,
+            24
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": 1234442989914558500,
+    "in_reply_to_status_id_str": "1234442989914558464",
+    "in_reply_to_user_id": 304009370,
+    "in_reply_to_user_id_str": "304009370",
+    "in_reply_to_screen_name": "s_pirogov",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1174943520534085633/qqw3aESX_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174943520534085633/qqw3aESX_normal.jpg",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}

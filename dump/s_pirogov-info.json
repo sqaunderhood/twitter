@@ -1,0 +1,183 @@
+{
+  "id": 304009370,
+  "id_str": "304009370",
+  "name": "Sergey Pirogov",
+  "screen_name": "s_pirogov",
+  "location": "Украина",
+  "profile_location": null,
+  "description": "QA Automation, telegram https://t.co/jTqbKoeDvL",
+  "url": null,
+  "entities": {
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/jTqbKoeDvL",
+          "expanded_url": "https://t.me/automation_remarks",
+          "display_url": "t.me/automation_rem…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 622,
+  "friends_count": 666,
+  "listed_count": 67,
+  "created_at": "Mon May 23 19:43:23 +0000 2011",
+  "favourites_count": 6613,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 5731,
+  "lang": null,
+  "status": {
+    "created_at": "Fri Feb 28 16:03:44 +0000 2020",
+    "id": 1233422541060018200,
+    "id_str": "1233422541060018177",
+    "text": "RT @SolidSoftBlog: Blogged: Discover dead simple, improved #PIT and #JUnit5 configuration in #Gradle (with gradle-pitest-plugin 1.4.7+).\n\nh…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PIT",
+          "indices": [
+            59,
+            63
+          ]
+        },
+        {
+          "text": "JUnit5",
+          "indices": [
+            68,
+            75
+          ]
+        },
+        {
+          "text": "Gradle",
+          "indices": [
+            93,
+            100
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SolidSoftBlog",
+          "name": "Solid Soft - blog",
+          "id": 1040177376,
+          "id_str": "1040177376",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 27 16:34:30 +0000 2020",
+      "id": 1233067896772997000,
+      "id_str": "1233067896772997120",
+      "text": "Blogged: Discover dead simple, improved #PIT and #JUnit5 configuration in #Gradle (with gradle-pitest-plugin 1.4.7+… https://t.co/YK8rjkerhH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PIT",
+            "indices": [
+              40,
+              44
+            ]
+          },
+          {
+            "text": "JUnit5",
+            "indices": [
+              49,
+              56
+            ]
+          },
+          {
+            "text": "Gradle",
+            "indices": [
+              74,
+              81
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YK8rjkerhH",
+            "expanded_url": "https://twitter.com/i/web/status/1233067896772997120",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/868353870073913344/H6eOIUK__normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/868353870073913344/H6eOIUK__normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/304009370/1490539625",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}
