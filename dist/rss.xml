@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Сайт @sqaunderhood]]></title>
+        <description><![CDATA[Коллективный твиттер-аккаунт о тестировании ПО и качественной разработке с новым автором каждую неделю]]></description>
+        <link>https://mobileunderhood.ru/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 03 Mar 2020 07:53:45 GMT</lastBuildDate>
+        <atom:link href="https://mobileunderhood.ru/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[MIT]]></copyright>
+        <language><![CDATA[ru]]></language>
+        <managingEditor><![CDATA[estetus@gmail.com (Sergey Bronnikov)]]></managingEditor>
+        <webMaster><![CDATA[estetus@gmail.com (Sergey Bronnikov)]]></webMaster>
+        <category><![CDATA[twitter]]></category>
+        <item>
+            <title><![CDATA[s_pirogov]]></title>
+            <description><![CDATA[<p>Всем привет. Меня зовут Сергей Пирогов. Занимаюсь автоматизацией тестирования уже 7 лет. Веду канал в телеграмм <a href="https://t.co/qKW51dbNKb" title="https://t.me/automation_remarks">t.me/automation_rem…</a>. На этой неделе постараюсь порадовать вас полезным контентом. Погнали</p>
+]]></description>
+            <link>https://sqaunderhood.github.io/twitter/s_pirogov/</link>
+            <guid isPermaLink="true">https://sqaunderhood.github.io/twitter/s_pirogov/</guid>
+            <pubDate>Mon, 10 Feb 2020 07:15:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[brekelov]]></title>
+            <description><![CDATA[<p>Всем доброго времени суток! Меня зовут Сева. Кто я такой и почему я что-то пишу здесь, предлагаю обсудить в треде.</p>
+]]></description>
+            <link>https://sqaunderhood.github.io/twitter/brekelov/</link>
+            <guid isPermaLink="true">https://sqaunderhood.github.io/twitter/brekelov/</guid>
+            <pubDate>Mon, 03 Feb 2020 07:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[wrong_habits]]></title>
+            <description><![CDATA[<p>Давно у нас не было новых авторов в коллективном твиттере <a href="https://twitter.com/sqaunderhood" title="Протестировал">@sqaunderhood</a>.<br />
+На этой неделе ведущий Алексей Никулин <a href="https://twitter.com/wrong_habits" title="Alex Nikulin">@wrong_habits</a>, работал тестировщиком в больших и маленьких компаниях, сейчас больше занимается автоматизацией. Welcome!</p>
+]]></description>
+            <link>https://sqaunderhood.github.io/twitter/wrong_habits/</link>
+            <guid isPermaLink="true">https://sqaunderhood.github.io/twitter/wrong_habits/</guid>
+            <pubDate>Mon, 20 Jan 2020 13:49:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sqaunderhood]]></title>
+            <description><![CDATA[<p>[Опрос] Современное состояние автоматизированного тестирования 2016 <a href="https://t.co/I4IouQcMkt" title="https://habrahabr.ru/post/309912/">habrahabr.ru/post/309912/</a></p>
+]]></description>
+            <link>https://sqaunderhood.github.io/twitter/sqaunderhood/</link>
+            <guid isPermaLink="true">https://sqaunderhood.github.io/twitter/sqaunderhood/</guid>
+            <pubDate>Sat, 01 Oct 2016 18:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1101_debian]]></title>
+            <description><![CDATA[<p>Всем привет. Новая неделя, новый ведущий: Я занимаюсь разработкой под iOS, понемногу компиляторами, ну и всякими низкоуровневыми штуками.</p>
+]]></description>
+            <link>https://sqaunderhood.github.io/twitter/1101_debian/</link>
+            <guid isPermaLink="true">https://sqaunderhood.github.io/twitter/1101_debian/</guid>
+            <pubDate>Mon, 05 Sep 2016 07:28:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[maxbeard12]]></title>
+            <description><![CDATA[<p>Ну что. Поехали. С вами, в этой виртуальной студии, <a href="https://twitter.com/maxbeard12" title="Maxim Shulga">@maxbeard12</a>. Со своей командой работаю над продуктом vGate от <a href="https://twitter.com/Security_Code" title="Код Безопасности">@Security_Code</a>.</p>
+]]></description>
+            <link>https://sqaunderhood.github.io/twitter/maxbeard12/</link>
+            <guid isPermaLink="true">https://sqaunderhood.github.io/twitter/maxbeard12/</guid>
+            <pubDate>Mon, 29 Aug 2016 08:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[asatarin]]></title>
+            <description><![CDATA[<p>Что вы думаете про такой (псевдо) код в тестах:</p>
+<p>assert(0.7 == actual)</p>
+]]></description>
+            <link>https://sqaunderhood.github.io/twitter/asatarin/</link>
+            <guid isPermaLink="true">https://sqaunderhood.github.io/twitter/asatarin/</guid>
+            <pubDate>Sat, 20 Aug 2016 08:14:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[art_koshelev]]></title>
+            <description><![CDATA[<p>На следующей неделе у нас новый автор -<br />
+Артём Кошелев <a href="https://twitter.com/art_koshelev" title="Артём">@art_koshelev</a>, автоматизатор из питерского офиса компании Яндекс <a href="https://twitter.com/yandex" title="Яндекс">@yandex</a>.</p>
+]]></description>
+            <link>https://sqaunderhood.github.io/twitter/art_koshelev/</link>
+            <guid isPermaLink="true">https://sqaunderhood.github.io/twitter/art_koshelev/</guid>
+            <pubDate>Sun, 24 Jul 2016 11:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[estet]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Сергей Бронников и я тестировщик.</p>
+]]></description>
+            <link>https://sqaunderhood.github.io/twitter/estet/</link>
+            <guid isPermaLink="true">https://sqaunderhood.github.io/twitter/estet/</guid>
+            <pubDate>Mon, 18 Jul 2016 08:54:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
